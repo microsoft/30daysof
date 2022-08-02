@@ -1,0 +1,197 @@
+// @ts-check
+// Note: type annotations allow type checking and IDEs autocompletion
+
+const lightCodeTheme = require('prism-react-renderer/themes/github');
+const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
+/** @type {import('@docusaurus/types').Config} */
+const config = {
+  title: '#30DaysOfLearning',
+  tagline: 'Learn By Building - From Code To Cloud!',
+  url: 'https://microsoft.github.io',
+  baseUrl: '/30DaysOf/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'microsoft', // Usually your GitHub org/user name.
+  projectName: '30DaysOf', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+
+  // Even if you don't use internalization, you can use this field to set useful
+  // metadata like html lang. For example, if your site is Chinese, you may want
+  // to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  presets: [
+    [
+      'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+        blog: {
+          showReadingTime: true,
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      }),
+    ],
+  ],
+
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      navbar: {
+        title: '#30DaysOfLearning',
+        logo: {
+          alt: '30DaysOfLearning Logo',
+          src: 'img/logo.svg',
+        },
+        items: [
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/calendar', label: 'Schedule', position: 'left'},
+          {
+            type: 'dropdown',
+            label: 'Resources',
+            position: 'left',
+            items: [
+              { label: 'Tutorials', type: 'doc', docId: 'intro',  },
+              { label: 'Challenges', to: '/challenges', },
+            ],
+          },
+          {
+            href: 'https://github.com/microsoft/30DaysOf',
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+          },
+        ],
+      },
+      footer: {
+        style: 'light',
+        links: [
+          {
+            title: 'Learn About ..',
+            items: [
+              {
+                label: 'Microsoft Student Ambassadors',
+                to: 'https://studentambassadors.microsoft.com/',
+              },
+              {
+                label: 'Microsoft Imagine Cup',
+                to: 'https://imaginecup.microsoft.com/en-us/Events',
+              },
+              {
+                label: 'Microsoft Student Hub',
+                to: 'https://docs.microsoft.com/en-us/learn/student-hub/',
+              },
+              {
+                label: 'Microsoft Reactor',
+                to: 'https://developer.microsoft.com/en-us/reactor/',
+              },
+            ],
+          },
+          {
+            title: 'Azure For ..',
+            items: [
+              {
+                label: ' Developers',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Data Scientists / AI Engineers',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Citizen Developers / Low Code',
+                to: '/docs/intro',
+              },
+              {
+                label: 'IT Pros',
+                to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'Curricula For ..',
+            items: [
+              {
+                label: 'Web Development',
+                to: 'https://aka.ms/web-beginners',
+              },
+              {
+                label: 'Machine Learning',
+                to: 'https://aka.ms/datascience-beginners',
+              },
+              {
+                label: 'IoT ',
+                to: 'https://aka.ms/iot-beginners',
+              },
+              {
+                label: 'Data Science',
+                to: 'https://aka.ms/datascience-beginners',
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built with <a href="https://docusaurus.io"> Docusaurus </a> - By <a href="https://twitter.com/azureadvocates"> @azureadvocates </a>`,
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+      },
+      image: 'img/logo.png',
+
+      metadata: [
+        {
+          name: 'twitter:url', 
+          content: 'https://microsoft.github.io/30DaysOf'
+        },
+        {
+          name: 'twitter:title', 
+          content: '#30DaysOfLearning: Concepts to Code to Cloud'
+        },
+        {
+          name: 'twitter:description', 
+          content: 'The beginner\'s one-stop resources to skilling up on Cloud and AI!'
+        },
+        {
+          name: 'twitter:image', 
+          content: 'https://techcommunity.microsoft.com/t5/image/serverpage/image-id/378805iDA20565658980B26/image-size/large?v=v2&px=999'
+        },
+        {
+          name: 'twitter:card', 
+          content: 'summary_large_image'
+        },
+        {
+          name: 'twitter:creator', 
+          content: '@nitya'
+        },
+        {
+          name: 'twitter:site', 
+          content: '@AzureAdvocates'
+        },
+
+      ],
+
+      announcementBar: {
+        id: 'Kickstart #30DaysOfLearning!',
+        content:
+          '<b>Found this project helpful? Give us a star on <a href="https://github.com/microsoft/30DaysOf"><b>GitHub</b></a></b> 🙏🏽',
+        backgroundColor: '#4f2e85',
+        textColor: '#ffffff',
+        isCloseable: false,
+      },
+
+    }),
+};
+
+module.exports = config;
