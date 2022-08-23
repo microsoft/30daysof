@@ -17,11 +17,11 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/calendar">
-           What's Happening This Month?
+            to="https://aka.ms/serverless-september">
+           Explore #30DaysOfServerless ⚡️
           </Link>
         </div>
-      </div>
+        </div>
     </header>
   );
 }

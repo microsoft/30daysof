@@ -58,13 +58,13 @@ const config = {
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/calendar', label: 'Calendar', position: 'left'},
+          { label: 'Challenges', to: '/challenges', },
           {
             type: 'dropdown',
-            label: 'Resources',
-            position: 'left',
+            label: 'Roadmaps',
+            position: 'right',
             items: [
-              { label: 'Roadmaps', type: 'doc', docId: '/category/roadmaps',  },
-              { label: 'Challenges', to: '/challenges', },
+              { label: 'Resources', type: 'doc', docId: '/category/roadmaps',  },
             ],
           },
           {
