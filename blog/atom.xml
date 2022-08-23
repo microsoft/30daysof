@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://microsoft.github.io/30DaysOf/blog</id>
+    <title>#30DaysOfLearning Blog</title>
+    <updated>2022-06-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://microsoft.github.io/30DaysOf/blog"/>
+    <subtitle>#30DaysOfLearning Blog</subtitle>
+    <icon>https://microsoft.github.io/30DaysOf/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Onboarding Guide For Learners]]></title>
+        <id>onboarding-guide</id>
+        <link href="https://microsoft.github.io/30DaysOf/blog/onboarding-guide"/>
+        <updated>2022-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome, Learners!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-learners">Welcome, Learners!<a class="hash-link" href="#welcome-learners" title="Direct link to heading">​</a></h2><p>On behalf of my team at Microsoft, I would like to welcome you officially to the 30Days of Learning programme. Through this programme, we will help you upskill with Microsoft technologies by learning and building solutions across multiple knowledge areas including:</p><ul><li><p>Data Analysis Using Power BI</p></li><li><p>Low-code/No-Code Application Development using Power Platform, </p></li><li><p>Data Science and Machine Learning with Azure.</p><p><img loading="lazy" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/378806iDF7EFB7E75155F23/image-size/large?v=v2&amp;px=999" alt="Learning Tracks from Jun 2022 for #30DaysOfLearning" class="img_ev3q"></p><p>Learn more about the program on <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/onboarding-guide-for-30days-of-learning-participants/ba-p/3485136" target="_blank" rel="noopener noreferrer">this Tech Community post</a> - and check the <a href="/30DaysOf/calendar">Calendar Schedule</a> for upcoming events, and links to archived resources from past events.</p></li></ul>]]></content>
+        <author>
+            <name>Olanrewaju Oyinbooke</name>
+            <uri>https://twitter.com/TheOyinbooke</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="30Days" term="30Days"/>
+    </entry>
+</feed>
