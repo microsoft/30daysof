@@ -9,7 +9,7 @@ const config = {
   title: '#30DaysOfLearning',
   tagline: 'Learn By Building - Concepts to Code To Cloud!',
   url: 'https://microsoft.github.io',
-  baseUrl: '/30DaysOf/',
+  baseUrl: '/30daysof/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
