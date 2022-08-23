@@ -104,19 +104,19 @@ const config = {
             items: [
               {
                 label: ' Developers',
-                to: '/docs/intro',
+                to: '/blog',
               },
               {
                 label: 'Data Scientists / AI Engineers',
-                to: '/docs/intro',
+                to: '/blog',
               },
               {
                 label: 'Citizen Developers / Low Code',
-                to: '/docs/intro',
+                to: '/blog',
               },
               {
                 label: 'IT Pros',
-                to: '/docs/intro',
+                to: '/blog',
               },
             ],
           },
