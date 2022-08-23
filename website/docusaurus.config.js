@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '#30DaysOfLearning',
-  tagline: 'Learn By Building - From Code To Cloud!',
+  tagline: 'Learn By Building - Concepts to Code To Cloud!',
   url: 'https://microsoft.github.io',
   baseUrl: '/30DaysOf/',
   onBrokenLinks: 'throw',
@@ -57,13 +57,13 @@ const config = {
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/calendar', label: 'Schedule', position: 'left'},
+          {to: '/calendar', label: 'Calendar', position: 'left'},
           {
             type: 'dropdown',
             label: 'Resources',
             position: 'left',
             items: [
-              { label: 'Tutorials', type: 'doc', docId: 'intro',  },
+              { label: 'Roadmaps', type: 'doc', docId: '/category/roadmaps',  },
               { label: 'Challenges', to: '/challenges', },
             ],
           },
@@ -132,6 +132,10 @@ const config = {
                 to: 'https://aka.ms/datascience-beginners',
               },
               {
+                label: 'Artificial Intelligence ',
+                to: 'https://aka.ms/ai-beginners',
+              },
+              {
                 label: 'IoT ',
                 to: 'https://aka.ms/iot-beginners',
               },
@@ -142,7 +146,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built with <a href="https://docusaurus.io"> Docusaurus </a> - By <a href="https://twitter.com/azureadvocates"> @azureadvocates </a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built with <a href="https://docusaurus.io"> Docusaurus </a> & <a href="https://iconcloud.design/"> IconCloud.Design </a> - By <a href="https://twitter.com/azureadvocates"> @azureadvocates </a>`,
       },
       prism: {
         theme: lightCodeTheme,

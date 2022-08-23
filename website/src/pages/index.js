@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/calendar">
-           Check the Learning Schedule!
+           What's Happening This Month?
           </Link>
         </div>
       </div>
