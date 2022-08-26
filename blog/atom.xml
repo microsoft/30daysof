@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://microsoft.github.io/30daysof/blog</id>
-    <title>#30DaysOfLearning Blog</title>
+    <title>#30DaysOf Learning Blog</title>
     <updated>2022-06-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://microsoft.github.io/30daysof/blog"/>
-    <subtitle>#30DaysOfLearning Blog</subtitle>
+    <subtitle>#30DaysOf Learning Blog</subtitle>
     <icon>https://microsoft.github.io/30daysof/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Onboarding Guide For Learners]]></title>

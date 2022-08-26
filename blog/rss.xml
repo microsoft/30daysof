@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>#30DaysOfLearning Blog</title>
+        <title>#30DaysOf Learning Blog</title>
         <link>https://microsoft.github.io/30daysof/blog</link>
-        <description>#30DaysOfLearning Blog</description>
+        <description>#30DaysOf Learning Blog</description>
         <lastBuildDate>Thu, 09 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
