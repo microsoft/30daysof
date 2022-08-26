@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '#30DaysOfLearning',
+  title: '#30DaysOf Learning',
   tagline: 'Learn By Building - Concepts to Code To Cloud!',
   url: 'https://microsoft.github.io',
   baseUrl: '/30daysof/',
@@ -50,21 +50,26 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '#30DaysOfLearning',
+        title: '#30DaysOf',
         logo: {
-          alt: '30DaysOfLearning Logo',
+          alt: '30DaysOf Logo',
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Content', position: 'left'},
           {to: '/calendar', label: 'Calendar', position: 'left'},
-          { label: 'Challenges', to: '/challenges', },
+          {to: '/curricula', label: 'Curricula', position: 'left'},
+          {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Chat', position: 'left'},
+          
           {
             type: 'dropdown',
-            label: 'Roadmaps',
+            label: 'Resources',
             position: 'right',
-            items: [
-              { label: 'Resources', type: 'doc', docId: '/category/roadmaps',  },
+            items: [             
+              { label: '1. Roadmaps', type: 'doc', docId: '/category/roadmaps',  },
+              { label: '2. Curricula', to: '/http://aka.ms/curricula', },
+              { label: '3. Challenges', to: '/challenges', },
+
             ],
           },
           {
