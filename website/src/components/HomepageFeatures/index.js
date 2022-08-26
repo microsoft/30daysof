@@ -1,3 +1,5 @@
+
+
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
@@ -5,7 +7,7 @@ import styles from './styles.module.css';
 const JourneyList = [
   {
     title: 'Welcome',
-    Svg: require('@site/static/img/landing-welcome.svg').default,
+    Svg: require('@site/static/img/landing/welcome.svg').default,
     link: "blog/onboarding-guide",
     description: (
       <>
@@ -15,7 +17,7 @@ const JourneyList = [
   },
   {
     title: 'Guide',
-    Svg: require('@site/static/img/landing-guide.svg').default,
+    Svg: require('@site/static/img/landing/guide.svg').default,
     link: "docs/intro",
     description: (
       <>
@@ -25,7 +27,7 @@ const JourneyList = [
   },
   {
     title: 'Connect',
-    Svg: require('@site/static/img/landing-connect.svg').default,
+    Svg: require('@site/static/img/landing/connect.svg').default,
     link: "calendar",
     description: (
       <>
@@ -37,32 +39,32 @@ const JourneyList = [
 
 const LearningList = [
   {
+    title: 'Internet Of Things',
+    Svg: require('@site/static/img/logo/iot.svg').default,
+    link: "https://julyot.dev",
+    description: (
+      <>
+        Explore embedded app development and edge AI
+      </>
+    ),
+  },
+  {
     title: 'Progressive Web Apps',
-    Svg: require('@site/static/img/logo_pwa.svg').default,
+    Svg: require('@site/static/img/logo/pwa.svg').default,
     link: "https://aka.ms/30DaysOfPWA",
     description: (
       <>
-        Use open web standards and new web capabilities to build installable, reliable modern web apps 
+        Build modern web apps that are installable & reliable
       </>
     ),
   },
   {
     title: 'Static Web Apps',
-    Svg: require('@site/static/img/logo_swa.svg').default,
+    Svg: require('@site/static/img/logo/swa.svg').default,
     link: "https://www.azurestaticwebapps.dev/roadmap",
     description: (
       <>
-        Learn to build and deploy full-stack web apps Azure automatically to Azure - directly from codebase!
-      </>
-    ),
-  },
-  {
-    title: 'Internet Of Things',
-    Svg: require('@site/static/img/logo_iot.svg').default,
-    link: "https://julyot.dev",
-    description: (
-      <>
-        Get started with IoT, then explore embedded development, AI at the edge, and certifications!
+        Deploy modern web apps to Azure directly from codebase
       </>
     ),
   },

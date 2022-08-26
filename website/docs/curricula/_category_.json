@@ -1,0 +1,13 @@
+{
+    "label": "Curricula",
+    "position": 3,
+    "link": {
+      "type": "generated-index",        
+      "title": "Open Source Curricula",
+      "slug": "/category/curricula",
+      "keywords": ["curricula"],
+      "image": "/img/landing-guide.svg",
+      "description": "Explore open-source multi-week curricula with lessons plans"
+    }
+  }
+  

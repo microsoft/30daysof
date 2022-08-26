@@ -1,0 +1,13 @@
+{
+    "label": "Challenges",
+    "position": 4,
+    "link": {
+      "type": "generated-index",        
+      "title": "Skills Challenges",
+      "slug": "/category/challenges",
+      "keywords": ["challenges","cloud-skills","hackathons"],
+      "image": "/img/landing-guide.svg",
+      "description": "Explore learning paths, hackathons and workshops to skill up"
+    }
+  }
+  

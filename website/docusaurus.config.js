@@ -58,7 +58,7 @@ const config = {
         items: [
           {to: '/blog', label: 'Content', position: 'left'},
           {to: '/calendar', label: 'Calendar', position: 'left'},
-          {to: '/curricula', label: 'Curricula', position: 'left'},
+          {to: '/docs/curricula/web', label: 'Curricula', position: 'left'},
           {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Chat', position: 'left'},
           
           {
@@ -66,9 +66,10 @@ const config = {
             label: 'Resources',
             position: 'right',
             items: [             
-              { label: '1. Roadmaps', type: 'doc', docId: '/category/roadmaps',  },
-              { label: '2. Curricula', to: '/http://aka.ms/curricula', },
-              { label: '3. Challenges', to: '/challenges', },
+              { label: '1. Roadmaps', type: 'doc', docId: 'roadmaps/pwa',  },       
+              { label: '2. Playbook', type: 'doc', docId: 'playbook/intro',  },
+              { label: '3. Curricula', type: 'doc', docId: 'curricula/web', },
+              { label: '4. Challenges', type: 'doc', docId: 'challenges/intro', },
 
             ],
           },

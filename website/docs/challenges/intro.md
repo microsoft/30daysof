@@ -1,4 +1,8 @@
-# Cloud Skills Challenges
+---
+sidebar_position: 1
+---
+
+# Cloud Skills
 
 Cloud Skills Challenges help you skill up on relevant technology topics in a fun way. Here's how it works! Join an active challenge, complete learning modules at your pace and make your mark on the leaderboard!
 
