@@ -9,7 +9,7 @@ const JourneyList = [
     link: "blog/onboarding-guide",
     description: (
       <>
-        Get started on your developer journey to the cloud with onboarding guidance to set up your developer environment.
+        Onboarding guidance to jumpstart your dev journey!
       </>
     ),
   },
@@ -19,7 +19,7 @@ const JourneyList = [
     link: "docs/intro",
     description: (
       <>
-        Go from learning core concepts to building end-to-end solutions using best practices with structured #30Days roadmaps.
+        #30Days roadmaps and multi-week curricula to skill up.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const JourneyList = [
     link: "calendar",
     description: (
       <>
-        Share your learnings and showcase your projects with the community by engaging in live events and offline forums.
+        Forums and Showcases to celebrate achievements.
       </>
     ),
   },
@@ -70,7 +70,7 @@ const LearningList = [
 
 function Feature({Svg, title, description, link}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--3')}>
       <a href={link} target="_blank">
         <div className="text--center">
           <Svg className={styles.featureSvg} role="img" />
@@ -89,7 +89,7 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <p className="hero__subtitle">
-          Start: Your Developer Journey
+          Start Your Developer Journey
         </p>
         <div className="row">
           {JourneyList.map((props, idx) => (
@@ -98,7 +98,7 @@ export default function HomepageFeatures() {
         </div>
         <hr/>
         <p className="hero__subtitle">
-          Explore: #30Days  Roadmaps
+          Learn With #30Days Roadmaps
         </p>
         <div className="row">
           {LearningList.map((props, idx) => (

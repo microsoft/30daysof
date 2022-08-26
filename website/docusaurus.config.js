@@ -81,77 +81,42 @@ const config = {
         ],
       },
       footer: {
-        style: 'light',
+        style: 'dark',
+        /*
+        logo: {
+          alt: 'Serverless September Logo',
+          src: 'img/campaign_banner.png',
+          href: 'https://aka.ms/serverless-september',
+          width: 280,
+          height: 100,
+        },
+        */
         links: [
           {
-            title: 'Learn About ..',
-            items: [
-              {
-                label: 'Microsoft Student Ambassadors',
-                to: 'https://studentambassadors.microsoft.com/',
-              },
-              {
-                label: 'Microsoft Imagine Cup',
-                to: 'https://imaginecup.microsoft.com/en-us/Events',
-              },
-              {
-                label: 'Microsoft Student Hub',
-                to: 'https://docs.microsoft.com/en-us/learn/student-hub/',
-              },
-              {
-                label: 'Microsoft Reactor',
-                to: 'https://developer.microsoft.com/en-us/reactor/',
-              },
-            ],
+            label: 'Student Ambassadors',
+            to: 'https://studentambassadors.microsoft.com/',
           },
           {
-            title: 'Azure For ..',
-            items: [
-              {
-                label: ' Developers',
-                to: '/blog',
-              },
-              {
-                label: 'Data Scientists / AI Engineers',
-                to: '/blog',
-              },
-              {
-                label: 'Citizen Developers / Low Code',
-                to: '/blog',
-              },
-              {
-                label: 'IT Pros',
-                to: '/blog',
-              },
-            ],
+            label: 'Imagine Cup',
+            to: 'https://imaginecup.microsoft.com/en-us/Events',
           },
           {
-            title: 'Curricula For ..',
-            items: [
-              {
-                label: 'Web Development',
-                to: 'https://aka.ms/web-beginners',
-              },
-              {
-                label: 'Machine Learning',
-                to: 'https://aka.ms/datascience-beginners',
-              },
-              {
-                label: 'Artificial Intelligence ',
-                to: 'https://aka.ms/ai-beginners',
-              },
-              {
-                label: 'IoT ',
-                to: 'https://aka.ms/iot-beginners',
-              },
-              {
-                label: 'Data Science',
-                to: 'https://aka.ms/datascience-beginners',
-              },
-            ],
+            label: 'Student Hub',
+            to: 'https://docs.microsoft.com/en-us/learn/student-hub/',
+          },
+          {
+            label: 'Microsoft Reactor',
+            to: 'https://developer.microsoft.com/en-us/reactor/',
+          },
+          {
+            label: 'Privacy Statement ',
+            to: 'https://privacy.microsoft.com/en-us/privacystatement',
+          },
+          { 
+           label: `Copyright © ${new Date().getFullYear()} Microsoft`,
+           to: 'https://microsoft.com'
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built with <a href="https://docusaurus.io"> Docusaurus </a> & <a href="https://iconcloud.design/"> IconCloud.Design </a> - By <a href="https://twitter.com/azureadvocates"> @azureadvocates </a>`,
       },
       prism: {
         theme: lightCodeTheme,
