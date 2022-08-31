@@ -1,11 +1,12 @@
 ---
 sidebar_position: 3
-title: Power Platforms
+title: Power Platform
 ---
 
 # Roadmap
 
-:::info #30DaysOfPowerPlat
+:::info #30DaysOfPowerPlatform
+This is a 30days learning curriculum curated by Cloud Advocates at Microsoft focused on empowering you with the knowledge and resources to build enterprise applications, automate processes and build intelligent bots without code within minutes using Microsoft's Power Platform.
 
 _What is it? Who is behind this? What are the learning goals?_
 :::
