@@ -1,13 +1,11 @@
 ---
-sidebar_position: 1
-title: Progressive Web Apps
+sidebar_position: 3
+title: Power Platforms
 ---
 
 # Roadmap
 
-## Overview
-
-:::info #30DaysOfPWA
+:::info #30DaysOfPowerPlat
 
 _What is it? Who is behind this? What are the learning goals?_
 :::

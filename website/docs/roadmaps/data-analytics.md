@@ -1,13 +1,11 @@
 ---
-sidebar_position: 1
-title: Progressive Web Apps
+sidebar_position: 6
+title: Data Analytics 
 ---
 
 # Roadmap
 
-## Overview
-
-:::info #30DaysOfPWA
+:::info #30DaysOfDataAnalytics
 
 _What is it? Who is behind this? What are the learning goals?_
 :::
