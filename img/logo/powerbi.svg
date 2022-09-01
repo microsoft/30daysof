@@ -1,0 +1,40 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="filter0_f">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.2" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter1_f">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur"/>
+</filter>
+<linearGradient id="paint0_linear" x1="47.3333" y1="24" x2="68.4326" y2="68.7233" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E6AD10"/>
+<stop offset="1" stop-color="#C87E0E"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="39.9987" y1="36" x2="57.743" y2="70.4131" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6D751"/>
+<stop offset="1" stop-color="#E6AD10"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="29.9986" y1="48" x2="39.8041" y2="71.2388" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F9E589"/>
+<stop offset="1" stop-color="#F6D751"/>
+</linearGradient>
+</defs>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="30" y="24" width="36" height="48">
+<path d="M49.9999 26C49.9999 24.8954 50.8954 24 51.9999 24H63.9999C65.1045 24 65.9999 24.8954 65.9999 26V70C65.9999 71.1046 65.1045 72 63.9999 72H31.9999C30.8954 72 29.9999 71.1046 29.9999 70V50C29.9999 48.8954 30.8954 48 31.9999 48H40V38C40 36.8954 40.8954 36 42 36H49.9999V26Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M65.9999 24V72H49.9999L49.9999 24H65.9999Z" fill="url(#paint0_linear)"/>
+<g filter="url(#filter0_f)">
+<path d="M56 38.2V72.2H40V36.2H54C55.1046 36.2 56 37.0954 56 38.2Z" fill="black" fill-opacity="0.2"/>
+</g>
+<g filter="url(#filter1_f)">
+<path d="M56 39V73H40V37H54C55.1046 37 56 37.8954 56 39Z" fill="black" fill-opacity="0.18"/>
+</g>
+<path d="M56 38V72H40V36H54C55.1046 36 56 36.8954 56 38Z" fill="url(#paint1_linear)"/>
+<path d="M29.9999 48V72H45.9999V50C45.9999 48.8954 45.1045 48 43.9999 48H29.9999Z" fill="url(#paint2_linear)"/>
+</g>
+</svg>

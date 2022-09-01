@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent Articles","items":[{"title":"Hello, 30Days Of Learning!","permalink":"/30daysof/blog/learning-hub"}]}')}}]);
