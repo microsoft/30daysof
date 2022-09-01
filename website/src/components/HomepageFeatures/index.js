@@ -11,17 +11,17 @@ const JourneyList = [
     link: "blog/onboarding-guide",
     description: (
       <>
-        Onboarding guidance to jumpstart your dev journey!
+        Get guidance to jumpstart your learning journey!
       </>
     ),
   },
   {
     title: 'Guide',
     Svg: require('@site/static/img/landing/guide.svg').default,
-    link: "docs/intro",
+    link: "docs/category/roadmaps",
     description: (
       <>
-        #30Days roadmaps and multi-week curricula to skill up.
+        Explore structured roadmaps and curricula.
       </>
     ),
   },
@@ -31,10 +31,22 @@ const JourneyList = [
     link: "calendar",
     description: (
       <>
-        Forums and Showcases to celebrate achievements.
+        Interact with peers in forums and events.
       </>
     ),
   },
+  /*
+  {
+    title: 'Share',
+    Svg: require('@site/static/img/landing/connect.svg').default,
+    link: "contribute",
+    description: (
+      <>
+        Showcase achievements, share insights with others.
+      </>
+    ),
+  },
+  */
 ];
 
 const LearningList = [
