@@ -35,7 +35,7 @@ Data Gap is a way to represent the rate of data generation versus analysis. Dail
 
 To better understand the volume of data generated daily, let us check this  data never sleeps chart by domo.
 
-
+![DOMOImage](./../../docs/roadmaps/img/domo.png) 
 
 This huge data gap means opportunity. as predicted by Microsoft, between 2020-2025, there will be 43million job roles in the data analysis and related role space. This will however favour only the skillful and not beginners.
 
