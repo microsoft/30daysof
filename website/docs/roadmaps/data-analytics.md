@@ -17,6 +17,17 @@ _What is it? Who is behind this? What are the learning goals?_
 ## Kickoff 
 ![KickoffImage](./../../docs/roadmaps/img/powerbikickoff.png)
 
+Millions of tons of data are being generated everyday. Businesses want to make meaning from these data and among several others, they want to:
+* Increase revenue
+* Reduce Cost
+* Optimize processes
+* Improve Customer Experience and Satisfaction
+
+With your skill in Data Analysis, you can help organizations to achieve their goals. 
+
+
+
+To kick-off your learning journey, start by taking the onboarding 
 ## Week 1: Theme
 
 ## Week 2: Theme
