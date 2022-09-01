@@ -1,4 +1,5 @@
 > 🚧 This site is currently under development.
+[![Deploy to GitHub Pages](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml/badge.svg)](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml)
 
 # Project
 

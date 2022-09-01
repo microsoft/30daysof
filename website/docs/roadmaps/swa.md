@@ -33,13 +33,13 @@ _Welcome to the first week of your learning journey. Let's talk about some funda
 
 
 :::info Week 1 ARTICLES
- * [**Introducing SWA**](blog/introducing-swa)  - What is Static Web Apps?
- * [**Building SWA**](blog/building-swa)  - Build & Deploy Your First SWA!
- * [**API-Enabling SWA**](blog/api-enabling-swa) - Add a Serverless API backend.
- * [**Configuring SWA**](blog/configuring-swa) - Configure Build Process, App Settings & Behavior
- * [**Securing SWA**](blog/securing-swa) - Built-in & Custom Authentication Options for SWA
- * [**Previewing SWA**](blog/previewing-swa) - Staging Deployments For Previewing (PR, Branches)
- * [**Deploying SWA**](blog/deploying-swa) - using GitLab, BitBucket, Azure DevOps, ARM Templates
+ * [**Introducing SWA**](https://www.azurestaticwebapps.dev/blog/introducing-swa)  - What is Static Web Apps?
+ * [**Building SWA**](https://www.azurestaticwebapps.dev/blog/building-swa)  - Build & Deploy Your First SWA!
+ * [**API-Enabling SWA**](https://www.azurestaticwebapps.dev/blog/api-enabling-swa) - Add a Serverless API backend.
+ * [**Configuring SWA**](https://www.azurestaticwebapps.dev/blog/configuring-swa) - Configure Build Process, App Settings & Behavior
+ * [**Securing SWA**](https://www.azurestaticwebapps.dev/blog/securing-swa) - Built-in & Custom Authentication Options for SWA
+ * [**Previewing SWA**](https://www.azurestaticwebapps.dev/blog/previewing-swa) - Staging Deployments For Previewing (PR, Branches)
+ * [**Deploying SWA**](https://www.azurestaticwebapps.dev/blog/deploying-swa) - using GitLab, BitBucket, Azure DevOps, ARM Templates
 :::
 
 ![Week 1 Roadmap](https://www.azurestaticwebapps.dev/assets/images/week1-roadmap-7f10986393cc2e96edea4819c3bf9d72.png)
@@ -52,13 +52,13 @@ _Welcome to the first week of your learning journey. Let's talk about some funda
 _Welcome to Week 2. So you know what SWA is but what web frameworks and libraries can you use it with? And what kinds of applications can you spin up quickly using this approach? Let's look at some examples_.
 
 :::info Week 2 ARTICLES
- * [Build a Blog - with Astro](blog/build-with-astro) 
- * [Manage Inventory - with React](blog/build-with-react) 
- * [Get Creative - with Vue](blog/build-with-vuejs) 
- * [Share Content - with Docusaurus](blog/build-with-docusaurus) 
- * [Headless CMS - with Blazor](blog/build-with-blazor) 
- * [Hosting PWA - with SWA](blog/pwa-on-swa) 
- * [Show & Tell - SWArm of Apps](blog/show-and-tell) 
+ * [Build a Blog - with Astro](https://www.azurestaticwebapps.dev/blog/build-with-astro) 
+ * [Manage Inventory - with React](https://www.azurestaticwebapps.dev/blog/build-with-react) 
+ * [Get Creative - with Vue](https://www.azurestaticwebapps.dev/blog/build-with-vuejs) 
+ * [Share Content - with Docusaurus](https://www.azurestaticwebapps.dev/blog/build-with-docusaurus) 
+ * [Headless CMS - with Blazor](https://www.azurestaticwebapps.dev/blog/build-with-blazor) 
+ * [Hosting PWA - with SWA](https://www.azurestaticwebapps.dev/blog/pwa-on-swa) 
+ * [Show & Tell - SWArm of Apps](https://www.azurestaticwebapps.dev/blog/show-and-tell) 
 :::
 
 ![Week 2 Roadmap](https://www.azurestaticwebapps.dev/assets/images/week2-roadmap-aa8766edf791b4ed83fa999f74497b9b.png)
@@ -70,13 +70,13 @@ _Welcome to Week 2. So you know what SWA is but what web frameworks and librarie
 _Welcome to Week 3 - let's talk about the developer experience in building and deploying modern web apps. We'll introduce you to a few tools that can simplify your develop-debug-deploy-test workflows. While some are SWA-specific, others are useful for modern web app dev in general._
 
 :::info Week 3 ARTICLES
- * [Develop - with Azure Tools](blog/devtools-azure) - 
- * [Test Automation - with Playwright](blog/devtools-playwright) - 
- * [Multi-Stage Deploy - with Azure DevOps](blog/devtools-ado) - 
- * [Debug - with Edge DevTools](blog/devtools-msedge) - 
- * [Develop - with SWA CLI](blog/devtools-swacli-develop) - 
- * [Deploy - with SWA CLI](blog/devtools-swacli-deploy) - 
- * [Run & Debug - with VS Code](blog/devtools-vscode) - 
+ * [Develop - with Azure Tools](https://www.azurestaticwebapps.dev/blog/devtools-azure) - 
+ * [Test Automation - with Playwright](https://www.azurestaticwebapps.dev/blog/devtools-playwright) - 
+ * [Multi-Stage Deploy - with Azure DevOps](https://www.azurestaticwebapps.dev/blog/devtools-ado) - 
+ * [Debug - with Edge DevTools](https://www.azurestaticwebapps.dev/blog/devtools-msedge) - 
+ * [Develop - with SWA CLI](https://www.azurestaticwebapps.dev/blog/devtools-swacli-develop) - 
+ * [Deploy - with SWA CLI](https://www.azurestaticwebapps.dev/blog/devtools-swacli-deploy) - 
+ * [Run & Debug - with VS Code](https://www.azurestaticwebapps.dev/blog/devtools-vscode) - 
 :::
 
 ![Week 3 Roadmap](https://www.azurestaticwebapps.dev/assets/images/week3-roadmap-75060ba5a95b7914046572100b6effdd.png)
