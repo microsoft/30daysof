@@ -47,10 +47,33 @@ To kick-off your learning journey, start by taking the onboarding guide here
 
 ## Week 1: Theme
 
+| Day 1  | Day 2  | Day 3  | Day 4 | Day 5 | Day 6 | Day 7 |
+|---|---|---|---|---|---|---|
+| Content for Day 1   | COntent for Day 2   | COntent for Day 3   | COntent for Day 4 | COntent for Day 5 | COntent for Day 6 | COntent for Day 7|
+| Link for Day 1 | Link for Day 2 | Link for Day 3 | Link for Day 4 | Link for Day 5 | Link for Day 6 | Link for Day 7 | 
+
+
 ## Week 2: Theme
+| Day 8  | Day 9  | Day 10  | Day 11 | Day 12 | Day 13 | Day 14 |
+|---|---|---|---|---|---|---|
+| Content for Day 1   | COntent for Day 2   | COntent for Day 3   | COntent for Day 4 | COntent for Day 5 | COntent for Day 6 | COntent for Day 7|
+| Link for Day 1 | Link for Day 2 | Link for Day 3 | Link for Day 4 | Link for Day 5 | Link for Day 6 | Link for Day 7 | 
 
 ## Week 3: Theme
+| Day 15  | Day 16  | Day 17  | Day 18 | Day 19 | Day 20 | Day 21 |
+|---|---|---|---|---|---|---|
+| Content for Day 1   | COntent for Day 2   | COntent for Day 3   | COntent for Day 4 | COntent for Day 5 | COntent for Day 6 | COntent for Day 7|
+| Link for Day 1 | Link for Day 2 | Link for Day 3 | Link for Day 4 | Link for Day 5 | Link for Day 6 | Link for Day 7 | 
 
 ## Week 4: Theme
+| Day 22  | Day 23  | Day 24  | Day 25 | Day 26 | Day 27 | Day 28 |
+|---|---|---|---|---|---|---|
+| Content for Day 1   | COntent for Day 2   | COntent for Day 3   | COntent for Day 4 | COntent for Day 5 | COntent for Day 6 | COntent for Day 7|
+| Link for Day 1 | Link for Day 2 | Link for Day 3 | Link for Day 4 | Link for Day 5 | Link for Day 6 | Link for Day 7 | 
+
+| Day 29  | Day 30  |
+|---|---|
+| Content for Day 1   | COntent for Day 2   |
+| Link for Day 1 | Link for Day 2 |
 
 ## Meet The Team
