@@ -45,12 +45,12 @@ To kick-off your learning journey, start by taking the onboarding guide here
 |---|---|---|
 | Create Microsoft 365 Developer Account   | To use Power BI Service (Online version), you will need to have a work or school account. Microsoft 365 Developer plan will give you access to Office 365 (E5) License with Power BI Pro included   | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/recap-of-day-2-onboarding-session-30days-of-learning-nigeria/ba-p/3490280)   |
 
-## Week 1: Theme
+## Week 1: Explore The World of Analytics
 
 | Day 1  | Day 2  | Day 3  | Day 4 | Day 5 | Day 6 | Day 7 |
 |---|---|---|---|---|---|---|
-| Content for Day 1   | COntent for Day 2   | COntent for Day 3   | COntent for Day 4 | COntent for Day 5 | COntent for Day 6 | COntent for Day 7|
-| Link for Day 1 | Link for Day 2 | Link for Day 3 | Link for Day 4 | Link for Day 5 | Link for Day 6 | Link for Day 7 | 
+| Exploring the world of Analytics. Understanding Business Value. Intro to MS Excel and Excel Look Up  | 40 Free Dataset for your personal projects. COVID19 Dataset in Excel - Web scraping examples  | Build Microsoft Excel Dashboard for COVID19 Cases   | Build Stunning Dashboard with Power BI from the Click of a Button | A Day in the Life of a Data Analyst | Reflect | Catch up with Microsoft Learn Resource |
+| [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/exploring-the-world-of-analytics/ba-p/3497932) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/get-40-datasets-for-your-data-analysis-projects/ba-p/3500592) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-covid-19-dashboard-with-microsoft-excel/ba-p/3509050) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-power-bi-dashboard-from-teams-sharepoint-list-and-embed-in/ba-p/3512814) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/a-day-in-the-life-of-a-data-analyst-interview-with-industry/ba-p/3518673) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/learning-data-analysis-using-microsoft-excel-and-power-bi/ba-p/3528991) | Link for Day 7 | 
 
 
 ## Week 2: Theme
