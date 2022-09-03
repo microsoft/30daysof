@@ -53,27 +53,31 @@ To kick-off your learning journey, start by taking the onboarding guide here
 | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/exploring-the-world-of-analytics/ba-p/3497932) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/get-40-datasets-for-your-data-analysis-projects/ba-p/3500592) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-covid-19-dashboard-with-microsoft-excel/ba-p/3509050) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-power-bi-dashboard-from-teams-sharepoint-list-and-embed-in/ba-p/3512814) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/a-day-in-the-life-of-a-data-analyst-interview-with-industry/ba-p/3518673) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/learning-data-analysis-using-microsoft-excel-and-power-bi/ba-p/3528991) | Link for Day 7 | 
 
 
-## Week 2: Theme
+## Week 2: Getting Started With Power BI
 | Day 8  | Day 9  | Day 10  | Day 11 | Day 12 | Day 13 | Day 14 |
 |---|---|---|---|---|---|---|
-| Content for Day 1   | COntent for Day 2   | COntent for Day 3   | COntent for Day 4 | COntent for Day 5 | COntent for Day 6 | COntent for Day 7|
-| Link for Day 1 | Link for Day 2 | Link for Day 3 | Link for Day 4 | Link for Day 5 | Link for Day 6 | Link for Day 7 | 
+| Introduction to Power BI Desktop  | Getting Familiar and working with Power Query   | Data Modelling and Welcome to the World of Data Analysis Expression (DAX)   | DAX Application | Page Navigation, Bookmarking and Tooltips in Power BI Desktop | Reflect | Catch up with Microsoft Learn Resources |
+| [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/beginner-introduction-to-microsoft-power-bi/ba-p/3529938) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/use-power-query-to-clean-transform-and-clean-data-in-power-bi/ba-p/3531125) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-data-modelling-in-power-bi/ba-p/3537583) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-data-analysis-expression-dax-for-beginners/ba-p/3542815) | Link for Day 12 | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-power-bi-clean-transform-and-load-data-with/ba-p/3552210) | Link for Day 14 | 
 
-## Week 3: Theme
+
+## Week 3: Data Storytelling with Power BI
 | Day 15  | Day 16  | Day 17  | Day 18 | Day 19 | Day 20 | Day 21 |
 |---|---|---|---|---|---|---|
-| Content for Day 1   | COntent for Day 2   | COntent for Day 3   | COntent for Day 4 | COntent for Day 5 | COntent for Day 6 | COntent for Day 7|
-| Link for Day 1 | Link for Day 2 | Link for Day 3 | Link for Day 4 | Link for Day 5 | Link for Day 6 | Link for Day 7 | 
+| Data Storytelling in Power BI Desktop  | Create A Data Driven Story with Power BI Report  | Introduction to Power BI Service and Creating Interactive Dashboard   | Data Refresh Schedule in Power BI Service | Row Level Access Security in Power BI | Reflect | Catch up with Microsoft Learn Resources |
+| [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-stunning-storytelling-dashboard-with-power-bi/ba-p/3553438) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/create-a-data-driven-story-with-power-bi-report/ba-p/3557885) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-power-bi-service-and-building-interactive/ba-p/3560976) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/import-vs-direct-query-method-and-data-refresh-in-power-bi/ba-p/3563207) | [Click Here](https://techcommunity.microsoft.com/t5/educator-developer-blog/row-level-security-in-power-bi-desktop/ba-p/3563521) | self-paced | self-paced | 
 
-## Week 4: Theme
+
+## Week 4: Capstone Project
 | Day 22  | Day 23  | Day 24  | Day 25 | Day 26 | Day 27 | Day 28 |
 |---|---|---|---|---|---|---|
-| Content for Day 1   | COntent for Day 2   | COntent for Day 3   | COntent for Day 4 | COntent for Day 5 | COntent for Day 6 | COntent for Day 7|
-| Link for Day 1 | Link for Day 2 | Link for Day 3 | Link for Day 4 | Link for Day 5 | Link for Day 6 | Link for Day 7 | 
+| Your Project. It's Your Time to Showcase Your Skill  | Keep working on your project   | Keep working on your project  | Keep working on your project | Keep working on your project | Keep working on your project | Keep working on your project |
+| [Access Your Capstone Project details here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-storytelling-power-bi-project-airlines-analysis/ba-p/3564493) | [Access Your Capstone Project details here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-storytelling-power-bi-project-airlines-analysis/ba-p/3564493) | [Access Your Capstone Project details here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-storytelling-power-bi-project-airlines-analysis/ba-p/3564493) | [Access Your Capstone Project details here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-storytelling-power-bi-project-airlines-analysis/ba-p/3564493) | [Access Your Capstone Project details here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-storytelling-power-bi-project-airlines-analysis/ba-p/3564493) | [Access Your Capstone Project details here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-storytelling-power-bi-project-airlines-analysis/ba-p/3564493) | [Access Your Capstone Project details here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-storytelling-power-bi-project-airlines-analysis/ba-p/3564493) | 
 
 | Day 29  | Day 30  |
 |---|---|
-| Content for Day 1   | COntent for Day 2   |
-| Link for Day 1 | Link for Day 2 |
+| Tidy Up your LinkedIn Profile   | It is time to Shine   |
+| Link to be updated | Share your project on popular social media platform and keep developing yourself |
+
 
 ## Meet The Team
+Meet the team behind this learning track
