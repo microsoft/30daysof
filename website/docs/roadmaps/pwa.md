@@ -9,7 +9,7 @@ title: Progressive Web Apps
 
 :::info #30DaysOfPWA
 
-_What is it? Who is behind this? What are the learning goals?_
+This is a #30Days roadmap for [Progressive Web Apps](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/) - learn to build and ship modern web apps that are installable, reliable, and extensible to work across platforms.
 :::
 
 ## Kickoff 
