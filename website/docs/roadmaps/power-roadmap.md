@@ -25,26 +25,49 @@ Microsoft's Power Platform is a low-code and automation tool built to empower ev
 - Power Pages: This new member of the Power Platform family empowers you with the ability to build beautiful external facing web applications.
 - Power Virtual Agents:
 
-Throughout this entire 30days, our focus would be on Power Apps, Power Automate, Power Virtual Agents and Power Pages.
+Throughout this curriculum, our focus would be on Power Apps, Power Automate, Power Virtual Agents and Power Pages.
 
 Ready to begin building with Microsoft's Power Platform?
 
 ## Week 1: Getting Started with Microsoft's Power Platform
-This week, learn about the different tools that make up Microsoft's Power Platform and how they come together to enable you develop solutions without code.
+This week, learn how to setup your development environment. You also get to learn about tools that makes it easy to store your data securely while using Power Platform.
 
 :::info WEEK 1 RESOURCES
-* Setting you
-* Python basics: operators | data types
-* Python basics: loops | dictionaries
-* Python basics: functions
-* Create your first Python program
+* Setting your development environment
+* Introduction to Microsoft Power Platform
+* Introduction to Dataverse and SharePoint
 :::
 
+## Week 2: 
+This week, we dive proper into the different tools that make up Power Platform. Learn how to build intelligent bots with Power Virtual Agents and automate long repetitive business processes with Power Automate.
 
-## Week 2: Theme
+:::info WEEK 2 RESOURCES
+* Introduction to Power Virtual Agent
+* Building a Bot with Power Virtual Agent
+* Introduction to Power Automate
+* Automating Processes with Power Automate - Part 1
+* Automating Processes with Power Automate - Part 2
+:::
 
 ## Week 3: Theme
+This week, we continue learning about the tools in Power Platform. Learn how easy it is to build enterprise applications with Power Apps and interactive web applications with Power Pages.
 
-## Week 4: Theme
+:::info WEEK 4 RESOURCES
+* Introduction to Power Apps
+* Building a Canvas Application with Power Apps
+* Building a Model-Driven Application with Power Apps
+* Building Interactive Websites with Power Pages
+:::
+
+## Week 4: Connecting the Dots
+"Powerful Alone, Better Together!" This week, we connect the different parts of Power Platform. At the end of this week, we would have built a complete solution with Microsoft's Power Platform.
+
+:::info WEEK 4 RESOURCES
+* Connecting the Dots - Bringing Power Virtual Agents Home
+* Connecting the Dots - Bringing Power Automate Home
+* Connecting the Dots - Bringing Power Apps Home
+* Connecting the Dots - Our Power Platform Solution
+:::
 
 ## Meet The Team
+Thanks 
