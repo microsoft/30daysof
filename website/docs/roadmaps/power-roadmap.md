@@ -21,12 +21,25 @@ To bridge this gap and reduce the workload, many developers and organizations ha
 Microsoft's Power Platform is a low-code and automation tool built to empower everyone to build solutions, regardless of their coding abilities. It comprises of 5 power tools:
 - Power Apps: Used by 92% of the Fortune 500 organizations, Power Apps enables you build enterprise applications within minutes without writing a single line of code
 - Power Automate: With the ability to now connect to 750+ applications and services, Power Automate enables you automate repetitive and time-consuming tasks and processes.
-- Power Pages: This new member of the family 
-- Power Virtual Agent:
+- Power BI: 
+- Power Pages: This new member of the Power Platform family empowers you with the ability to build beautiful external facing web applications.
+- Power Virtual Agents:
+
+Throughout this entire 30days, our focus would be on Power Apps, Power Automate, Power Virtual Agents and Power Pages.
 
 Ready to begin building with Microsoft's Power Platform?
 
-## Week 1: Theme
+## Week 1: Getting Started with Microsoft's Power Platform
+This week, learn about the different tools that make up Microsoft's Power Platform and how they come together to enable you develop solutions without code.
+
+:::info WEEK 1 RESOURCES
+* Setting you
+* Python basics: operators | data types
+* Python basics: loops | dictionaries
+* Python basics: functions
+* Create your first Python program
+:::
+
 
 ## Week 2: Theme
 
