@@ -21,13 +21,13 @@ To bridge this gap and reduce the workload, many developers and organizations ha
 Microsoft's Power Platform is a low-code and automation tool built to empower everyone to build solutions, regardless of their coding abilities. It comprises of 5 power tools:
 - Power Apps: Used by 92% of the Fortune 500 organizations, Power Apps enables you build enterprise applications within minutes without writing a single line of code
 - Power Automate: With the ability to now connect to 750+ applications and services, Power Automate enables you automate repetitive and time-consuming tasks and processes.
-- Power BI: 
+- Power BI: Named Leader of Gartner's Magic Quadrant for Business Intelligence and Analytics Platforms since 2018, Power BI enables you visualize, analyse and derive meaningful insights from data. To learn more about, click [here](https://techcommunity.microsoft.com/t5/educator-developer-blog/learning-data-analysis-curriculum-and-resources/ba-p/3497797)
 - Power Pages: This new member of the Power Platform family empowers you with the ability to build beautiful external facing web applications.
-- Power Virtual Agents:
+- Power Virtual Agents: Used by businesses big and small around the world as well as government orgnaizations, Power Virtual Agents allows you build intelligent conversational bots without writing code.
 
 Throughout this curriculum, our focus would be on Power Apps, Power Automate, Power Virtual Agents and Power Pages.
 
-Ready to begin building with Microsoft's Power Platform?
+Ready to begin building with Microsoft's Power Platform? You can find all videos and learning resources [here](https://techcommunity.microsoft.com/t5/educator-developer-blog/learning-power-platform-in-30days-curriculum-and-resources/ba-p/3504533)
 
 ## Week 1: Getting Started with Microsoft's Power Platform
 This week, learn how to setup your development environment. You also get to learn about tools that makes it easy to store your data securely while using Power Platform.
@@ -52,7 +52,7 @@ This week, we dive proper into the different tools that make up Power Platform. 
 ## Week 3: Theme
 This week, we continue learning about the tools in Power Platform. Learn how easy it is to build enterprise applications with Power Apps and interactive web applications with Power Pages.
 
-:::info WEEK 4 RESOURCES
+:::info WEEK 3 RESOURCES
 * Introduction to Power Apps
 * Building a Canvas Application with Power Apps
 * Building a Model-Driven Application with Power Apps
