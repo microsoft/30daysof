@@ -70,4 +70,4 @@ This week, we continue learning about the tools in Power Platform. Learn how eas
 :::
 
 ## Meet The Team
-Thanks 
+ 
