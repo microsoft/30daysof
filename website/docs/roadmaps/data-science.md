@@ -13,9 +13,9 @@ In the #30DaysOfDataScience we will go from understanding the Python language to
 Full curriculum can be found [here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-science-and-machine-learning-curriculum/ba-p/3503610)
 
 ## Week 1: Getting Started with Python
- Python is one of the main programming languages used in Data Science. A major advantage of the language is its abundance of libraries which enable you to analyze your data with ease.
+Python is one of the main programming languages used in Data Science. A major advantage of the language is its abundance of libraries which enable you to analyze your data with ease.
 
- :::info WEEK 1 RESOURCES
+:::info WEEK 1 RESOURCES
 * Setting up your local environment
 * Python basics: operators | data types
 * Python basics: loops | dictionaries

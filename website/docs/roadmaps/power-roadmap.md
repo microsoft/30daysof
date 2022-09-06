@@ -21,6 +21,9 @@ To bridge this gap and reduce the workload, many developers and organizations ha
 Microsoft's Power Platform is a low-code and automation tool built to empower everyone to build solutions, regardless of their coding abilities. Used by t comprises of 5 tools:
 - Power Apps: Used by 92% of the Fortune 500 organizations, Power Apps enables you build enterprise applications within minutes without writing a single line of code
 - Power Automate: Enables you or your organization automate repetitive and time-consuming processes. Most importantly, it lets
+- Power BI:
+- Power Pages:
+- Power Virtual Agent:
 
 Ready to begin building with Microsoft's Power Platform?
 
