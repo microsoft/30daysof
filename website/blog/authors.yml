@@ -18,18 +18,18 @@ ola:
 
 chris:
   name: Chris Noring
-  title: Senior Cloud Advocate Lead, Microsoft
+  title: Senior Cloud Advocate, Microsoft
   url: https://github.com/softchris
   image_url: https://github.com/softchris.png
 
 bethany:
   name: Bethany Jep
-  title: Senior Cloud Advocate Lead, Microsoft
+  title: Cloud Advocate, Microsoft
   url: https://github.com/BethanyJep
   image_url: https://github.com/BethanyJep.png
 
 japhlet:
-  name: Japhlet Newami
+  name: Japhlet Nwamu
   title: Cloud Advocate, Microsoft
   url: https://github.com/japhletnwamu
   image_url: https://github.com/japhletnwamu.png
