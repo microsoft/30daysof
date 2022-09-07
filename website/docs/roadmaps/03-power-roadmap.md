@@ -95,7 +95,7 @@ This week, we try out.
  4. [Building Applications Made Easy with Express Design in Power Apps](http://aka.ms/PowerAppsExpressDesign) (blog)
  5. [Building Accessible Applications with Microsoft's Power Platform](http://aka.ms/BuildAccessibleApps) (video)
  6. [Building an Accessible Quiz Application without Code with Microsoft's Power Platform](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-an-accessible-application-with-power-platform/ba-p/3549935) (blog)
- 7.[Differences between PowerApps Portals and Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/differences-between-powerapps-portals-and-power-pages/ba-p/3571229) (blog)
+ 7. [Differences between PowerApps Portals and Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/differences-between-powerapps-portals-and-power-pages/ba-p/3571229) (blog)
 :::
 
 ---
