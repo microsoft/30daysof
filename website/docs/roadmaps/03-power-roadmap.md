@@ -59,13 +59,13 @@ Let's go!
 This week, learn how to setup your development environment. You also get to learn about tools that makes it easy to store your data securely while using Power Platform.
 
 :::info WEEK 1 
- 1. [Introduction to Microsoft's Power Platform​](http://aka.ms/30DL-PowerPlatformDay1) (video) -- watch [Q&A](https://youtu.be/sNtkfyt8WSE)
- 2. [Introduction to Dataverse and SharePoint](http://aka.ms/30DL-PowerPlatformDay2) (video) -- watch [Q&A](https://youtu.be/1feWyHQwZhc)
+ 1. [Introduction to Microsoft's Power Platform​](http://aka.ms/30DL-PowerPlatformDay1) (video) -- watch [Q&A](https://youtu.be/sNtkfyt8WSE) (video)
+ 2. [Introduction to Dataverse and SharePoint](http://aka.ms/30DL-PowerPlatformDay2) (video) -- watch [Q&A](https://youtu.be/1feWyHQwZhc) (video)
  3. [Introduction to Power Virtual Agents](https://aka.ms/30DL-PowerPlatformDay3) (video)
  4. [Introduction to Power Automate](http://aka.ms/30DL-PowerPlatformDay5) (video)
  5. [Introduction to Power Apps](http://aka.ms/30DL-PowerPlatformDay10) (video)
- 6. 
- 7.
+ 6. [How to get a Microsoft Certification for Free as a Student](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-get-a-microsoft-certification-for-free-as-a-student/ba-p/3584897) (blog)
+ 7. [Learn about the Microsoft Learn Student Ambassador Program](http://aka.ms/aboutmlsaprogram) (video)
 :::
 
 ---
@@ -77,39 +77,39 @@ This week, we try out.
  1. [Building a Simple Virtual Agent Solution](http://aka.ms/30DL-PowerPlatformDay4) (video)
  2. [Building an Automated Solution - Part 1](http://aka.ms/30DL-PowerPlatformDay8) (video)
  3. [Building an Automated Solution - Part 2](http://aka.ms/30DL-PowerPlatformDay9) (video)
- 4. [Building a Canvas Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay11) (video)
- 5. [Building a Model-Driven Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay12) (video)
+4. [Building a Canvas Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay11) (video)
+5. [Building a Model-Driven Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay12) (video)
  6. [Building with Power Pages](http://aka.ms/30DL-PowerPlatformDay15) (video)
- 7. []
+ 7. [Build a Community Website with Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-community-website-with-power-pages/ba-p/3576465) (blog)
 :::
 
 ---
 
-## Week 3: Theme
-This week, we continue learning about the tools in Power Platform. Learn how easy it is to build enterprise applications with Power Apps and interactive web applications with Power Pages.
-
-:::info WEEK 3 
- 1.
- 2.
- 3.
- 4.
- 5.
- 6.
- 7.
-:::
-
----
-
-## Week 4: Connecting the Dots
+## Week 3: Connecting the Dots
 "Powerful Alone, Better Together!" This week, we connect the different parts of Power Platform. At the end of this week, we would have built a complete solution with Microsoft's Power Platform.
 
+:::info WEEK 3 
+ 1. [Connecting the Dots - Bringing Power Virtual Agents Home](http://aka.ms/30DL-PowerPlatformDay17) (video)
+ 2. [Connecting the Dots - Bringing Power Automate Home](http://aka.ms/30DL-PowerPlatformDay18) (video)
+ 3. [Connecting the Dots - Bringing Power Apps Home](http://aka.ms/30DL-PowerPlatformDay19) (video)
+ 4. [Building Applications Made Easy with Express Design in Power Apps](http://aka.ms/PowerAppsExpressDesign) (blog)
+ 5. [Building Accessible Applications with Microsoft's Power Platform](http://aka.ms/BuildAccessibleApps) (video)
+ 6. [Building an Accessible Quiz Application without Code with Microsoft's Power Platform](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-an-accessible-application-with-power-platform/ba-p/3549935) (blog)
+ 7.[Differences between PowerApps Portals and Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/differences-between-powerapps-portals-and-power-pages/ba-p/3571229) (blog)
+:::
+
+---
+
+## Week 4: Time to Develop Yourself and Build!
+
 :::info WEEK 4
- 1.
- 2.
- 3.
+ 1. Capstone Project - [Get Inspired by Projects Built with Power Platform](http://aka.ms/ppsamples)
+ 2. Capstone Project - []
+ 3. [Optimizing your LinkedIn Profile](http://aka.ms/30DLTidyUp)
  4.
  5.
- 6.
+ 6. [Tips on How to Get Noticed by Prospective Employers](https://aka.ms/HowtoGetNoticed) 
+7. [Microsoft Student Hub]()
  7.
 :::
 
