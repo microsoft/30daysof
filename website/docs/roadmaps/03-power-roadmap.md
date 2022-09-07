@@ -77,8 +77,8 @@ This week, we try out.
  1. [Building a Simple Virtual Agent Solution](http://aka.ms/30DL-PowerPlatformDay4) (video)
  2. [Building an Automated Solution - Part 1](http://aka.ms/30DL-PowerPlatformDay8) (video)
  3. [Building an Automated Solution - Part 2](http://aka.ms/30DL-PowerPlatformDay9) (video)
-4. [Building a Canvas Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay11) (video)
-5. [Building a Model-Driven Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay12) (video)
+ 4. [Building a Canvas Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay11) (video)
+ 5. [Building a Model-Driven Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay12) (video)
  6. [Building with Power Pages](http://aka.ms/30DL-PowerPlatformDay15) (video)
  7. [Build a Community Website with Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-community-website-with-power-pages/ba-p/3576465) (blog)
 :::
