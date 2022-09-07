@@ -109,8 +109,7 @@ This week, we try out.
  4.
  5.
  6. [Tips on How to Get Noticed by Prospective Employers](https://aka.ms/HowtoGetNoticed) 
-7. [Microsoft Student Hub]()
- 7.
+ 7. [Microsoft Student Hub](https://docs.microsoft.com/en-us/training/student-hub)
 :::
 
 ---
