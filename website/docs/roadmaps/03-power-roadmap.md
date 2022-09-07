@@ -103,13 +103,13 @@ This week, we try out.
 ## Week 4: Time to Develop Yourself and Build!
 
 :::info WEEK 4
- 1. Capstone Project - [Get Inspired by Projects Built with Power Platform](http://aka.ms/ppsamples)
- 2. Capstone Project - []
- 3. [Optimizing your LinkedIn Profile](http://aka.ms/30DLTidyUp)
- 4.
+ 1. Capstone Project - Utilizing all knowledge gathered, you are expected to think of a problem affecting your immediate environment and build a solution using Microsoft's Power Platform.
+ 2. Capstone Project - [Get Inspired by Projects Built with Power Platform](http://aka.ms/ppsamples)
+ 3. Capstone Project - [Sample Solution Built with Microsoft Power Platform](http://aka.ms/30DL-SampleProject)
+ 4. [Optimizing your LinkedIn Profile](http://aka.ms/30DLTidyUp)
  5.
  6. [Tips on How to Get Noticed by Prospective Employers](https://aka.ms/HowtoGetNoticed) 
- 7. [Microsoft Student Hub](https://docs.microsoft.com/en-us/training/student-hub)
+ 7. Learn skills to prepare you for the future at [Microsoft Student Hub](https://docs.microsoft.com/en-us/training/student-hub)
 :::
 
 ---
