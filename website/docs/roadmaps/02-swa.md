@@ -5,7 +5,9 @@ title: Static Web Apps
 
 # Roadmap
 
-:::info #30DaysOfSWA
+![Banner Placeholder](./../../static/img/banners/green-flowers.png) 
+
+:::success #30DaysOf - Azure Static Web Apps
 
 This is a #30Days learning roadmap that provides a guided tour of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview?WT.mc_id=30daysofswa-61155-cxall) in **4 themed weeks**. 
  * Read the 'Kickoff' section for details.
@@ -14,6 +16,8 @@ This is a #30Days learning roadmap that provides a guided tour of [Azure Static 
  * Follow [complete series](https://dev.to/nitya/series/17901) & [#staticwebapps](https://dev.to/t/staticwebapps) tag on dev.to
  * Share your journey [with a dev.to post](https://dev.to/new/staticwebapps)
 :::
+
+---
 
 ## Kickoff 
 

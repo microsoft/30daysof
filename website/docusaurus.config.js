@@ -51,7 +51,7 @@ const config = {
           tagsBasePath: 'tags',
           archiveBasePath: 'archive',
           postsPerPage: 1,
-          sortPosts: 'descending'
+          sortPosts: 'ascending'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

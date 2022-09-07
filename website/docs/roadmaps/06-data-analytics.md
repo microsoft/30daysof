@@ -5,22 +5,28 @@ title: Data Analytics
 
 # Roadmap
 
-:::info #30DaysOfDataAnalytics
+![Banner Placeholder](./../../static/img/banners/red-flowers.png) 
+
+:::success #30DaysOf Data Analytics
 
 This 30Days Skilling content will help you build a strong confidence in Data Analysis using Microsoft Power BI. You will not only learn from technical experts and business leaders, you will also build project portfolio for yourself to showcase your growth. 
-Pay attention to the following:
- * Read the 'Kickoff' section for more details.
- * Meet The 'Team' behind this project.
-_What is it? Who is behind this? What are the learning goals?_
+
+ * Read the ['Kickoff'](#kickoff) section for more details.
+ * Meet The ['Team'](#meet-the-team) behind this project.
+ * Explore the linked resources each week to skill up!
 :::
 
+---
+
 ## Kickoff 
-![KickoffImage](./../../docs/roadmaps/img/powerbikickoff.png) 
 Millions of tons of data are being generated everyday. Businesses want to make meaning from these data and among several others, they want to:
 * Increase revenue
 * Reduce Cost
 * Optimize processes
 * Improve Customer Experience and Satisfaction
+
+
+![#30Days Banner](./../../docs/roadmaps/img/powerbikickoff.png) 
 
 With a good knowledge of Microsoft Power BI, you will be ablet to help organizations chieve their goals. 
 
@@ -35,7 +41,7 @@ Data Gap is a way to represent the rate of data generation versus analysis. Dail
 
 To better understand the volume of data generated daily, let us check this  data never sleeps chart by domo.
 
-![DOMOImage](./../../docs/roadmaps/img/domo.png) 
+![DOMOImage](./img/domo.png) 
 
 This huge data gap means opportunity. as predicted by Microsoft, between 2020-2025, there will be 43million job roles in the data analysis and related role space. This will however favour only the skillful and not beginners.
 

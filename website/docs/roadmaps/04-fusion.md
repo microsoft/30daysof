@@ -3,12 +3,18 @@ sidebar_position: 4
 title: Fusion - Connectors
 ---
 
+![Banner Placeholder](./../../static/img/banners/fucshia-laptop.png) 
+
 # Roadmap
-:::info #30DaysOfFusion
-This is a gamified, learning experience for fusion developers to compete in building custom connectors for the power platform based on the [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks?WT.mc_id=academic-73999-juliamuiruri).
- * Read the 'Kickoff' section for details.
- * Meet The Team' behind this project.
+
+:::success #30DaysOf - Fusion Development
+This 30Days Skilling content is a gamified, learning experience for fusion developers to compete in building custom connectors for the power platform based on the [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks?WT.mc_id=academic-73999-juliamuiruri).
+
+ * Read the ['Kickoff'](#kickoff) section for more details.
+ * Meet The ['Team'](#meet-the-team) behind this project.
+ * Explore the linked resources each week to skill up!
 :::
+
  
 ## Kickoff 
 Organizations today are embracing ‘fusion development’ to drive digital transformation in their businesses. A fusion development team brings together Pro Devs, IT admins, citizen Devs, researchers, and business managers to collaborate in building transformative technological solutions. This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you to contribute in building power platform connectors that will make it possible for low code developers to connect to as many external data sources as they would need.

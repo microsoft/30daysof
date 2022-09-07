@@ -3,10 +3,19 @@ sidebar_position: 5
 title: Data Science
 ---
 
+![Banner Placeholder](./../../static/img/banners/yellow-flowers.png) 
+
 # Roadmap
-:::info #30DaysOfDataScience
-This is a #30Days learning roadmap that provides a guided tour of Data Science and Machine Learning in Python and Azure in four themed weeks.
+
+:::success #30DaysOf - Data Science
+This 30Days Skilling content provides a guided tour of Data Science and Machine Learning in Python and Azure in four themed weeks.
+
+ * Read the ['Kickoff'](#kickoff) section for more details.
+ * Meet The ['Team'](#meet-the-team) behind this project.
+ * Explore the linked resources each week to skill up!
 :::
+
+
 ## Kickoff 
 In the #30DaysOfDataScience we will go from understanding the Python language to working with real life data and finally creating Machine Learning models both on Azure and in Python. The main role is understanding our data and using the knowledge to make decisions such as clustering Nigerian music based on their 'danceability' score, 'acousticness', loudness, 'speechiness', popularity and energy. 
 
@@ -59,3 +68,5 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 * Build an end to end Data Science project: recommender system
 :::
 
+
+## Meet The Team
