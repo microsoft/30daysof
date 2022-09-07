@@ -10,11 +10,11 @@ Get guidance to jumpstart your learning journey!
 
 ![Guide](images/Guide.png)
 
-Explore structured roadmaps and curricula.
+Explore [structured roadmaps](https://microsoft.github.io/30daysof/docs/category/roadmaps), [videos](https://microsoft.github.io/30daysof/docs/video-series/intro) and [curricula](https://microsoft.github.io/30daysof/docs/category/curricula).
 
 ![Connect](images/conect.png)
 
-Interact with peers in forums and events.
+[Interact with peers in forums and events.](https://github.com/microsoft/30daysof/discussions)
 
 ## Contributing
 
