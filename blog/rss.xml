@@ -4,20 +4,42 @@
         <title>#30DaysOf Learning</title>
         <link>https://microsoft.github.io/30daysof/blog</link>
         <description>Subscribe to get the latest news and content to jumpstart a #30DaysOf learning journey!</description>
-        <lastBuildDate>Thu, 01 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2022 Microsoft.</copyright>
         <item>
+            <title><![CDATA[Onboarding Guide For Learners]]></title>
+            <link>https://microsoft.github.io/30daysof/blog/onboarding-guide</link>
+            <guid>onboarding-guide</guid>
+            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome, Learners!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-learners">Welcome, Learners!<a class="hash-link" href="#welcome-learners" title="Direct link to heading">​</a></h2><p>On behalf of my team at Microsoft, I would like to welcome you officially to the 30Days of Learning programme. Through this programme, we will help you upskill with Microsoft technologies by learning and building solutions across multiple knowledge areas including:</p><ul><li><p>Data Analysis Using Power BI</p></li><li><p>Low-code/No-Code Application Development using Power Platform, </p></li><li><p>Data Science and Machine Learning with Azure.</p><p><img loading="lazy" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/378806iDF7EFB7E75155F23/image-size/large?v=v2&amp;px=999" alt="Learning Tracks from Jun 2022 for #30DaysOfLearning" class="img_ev3q"></p><p>Learn more about the program on <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/onboarding-guide-for-30days-of-learning-participants/ba-p/3485136" target="_blank" rel="noopener noreferrer">this Tech Community post</a> - and check the <a href="/30daysof/calendar">Calendar Schedule</a> for upcoming events, and links to archived resources from past events.</p></li></ul>]]></content:encoded>
+            <category>hello</category>
+            <category>30Days</category>
+        </item>
+        <item>
             <title><![CDATA[Hello, 30Days Of Learning!]]></title>
             <link>https://microsoft.github.io/30daysof/blog/learning-hub</link>
             <guid>learning-hub</guid>
-            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome!]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome">Welcome!<a class="hash-link" href="#welcome" title="Direct link to heading">​</a></h2><p>Hello and welcome to the launch of the #30DaysOf learning hub. 👋🏽</p><p>This is a collaborative effort within Developer Relations to collect and share various resources that support self-study and structured learning for beginners and experienced devs alike. Technology changes fast! The only way to adapt, and thrive, is to learn continuously - and apply learnings to practical problems.</p><p>So, what does that learning journey look like? Think of it as four stages:</p><ul><li><strong>Welcome</strong> - the onboarding phase where you get setup for the journey. </li><li><strong>Guide</strong> - the resource exploration phase, where you pick the path to travel.</li><li><strong>Connect</strong> - the community phase where you interact with others on the same journey.</li><li><strong>Share</strong> - the pay-it-forward phase where you share your learnings to help the next traveller.</li></ul><p><img loading="lazy" alt="Placeholder banner with red flowers" src="/30daysof/assets/images/empty-21460021e4358d11e7c45383dc187d62.png" width="1600" height="672" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="about-the-site">About The Site<a class="hash-link" href="#about-the-site" title="Direct link to heading">​</a></h2><p>Let's take a quick tour of this site and the various features it offers:</p><ul><li><a href="/30daysof/">Landing Page</a> - explore the learning options available.</li><li><a href="/30daysof/blog">Blog</a> - subscribe to the <a href="/30daysof/blog/rss.xml">feed</a> for announcements &amp; updates</li><li><a href="/30daysof/calendar">Calendar</a> - discover upcoming events, revisit archived ones</li><li><a href="/30daysof/docs/category/roadmaps">Roadmaps</a> - discover and complete #30Day journeys</li><li><a href="/30daysof/docs/category/curricula">Curricula</a> - explore open-source multi-week courses with lesson plans</li><li><a href="/30daysof/docs/category/challenges">Challenges</a> - join challenges and compete with your peers</li><li><a href="https://github.com/microsoft/30daysof/discussions" target="_blank" rel="noopener noreferrer">Discussions</a> - ask questions, interact with peers, show-and-tell!</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="your-first-actions">Your First Actions<a class="hash-link" href="#your-first-actions" title="Direct link to heading">​</a></h2><p>Where should you start? </p><ol><li><a href="https://github.com/microsoft/30daysof/discussions/3" target="_blank" rel="noopener noreferrer">Take a minute to introduce yourself</a> - What are you looking to learn? What are <em>you</em> an expert in? Which region are you joining us from?</li><li><a href="/30daysof/calendar">Check the calendar</a> - look for upcoming or in-progress learning journeys (e.g., #30Days) and join in! Work at your own pace, or look for events and discussions where you can interact with other learners.</li><li><a href="https://www.nytimes.com/2017/08/04/education/edlife/learning-how-to-learn-barbara-oakley.html" target="_blank" rel="noopener noreferrer">Cultivate learning habits</a> - Use techniques that help you learn to learn better. Take breaks, switch between focused and relaxed modes, practice what you learn, and understand that each person learns differently.</li></ol><p>Most importantly, <strong>set a goal and keep going towards it one learning step at a time</strong> - connect with others to get help or feel inspired. Then pay it forward by sharing blog posts and showcasing your apps, so others can learn from <em>you</em>.</p><p>We can't wait to see what you learn - next!</p>]]></content:encoded>
             <category>hello</category>
             <category>30Days</category>
+        </item>
+        <item>
+            <title><![CDATA[Hello, 30DaysOfPWA]]></title>
+            <link>https://microsoft.github.io/30daysof/blog/roadmap-30daysofpwa</link>
+            <guid>roadmap-30daysofpwa</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to 30DaysOfPWA]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-30daysofpwa">Welcome to #30DaysOfPWA<a class="hash-link" href="#welcome-to-30daysofpwa" title="Direct link to heading">​</a></h2><p>Roadmap Author to fill in</p>]]></content:encoded>
+            <category>hello</category>
+            <category>30Days</category>
+            <category>progressive-web-apps</category>
+            <category>javascript</category>
         </item>
     </channel>
 </rss>
