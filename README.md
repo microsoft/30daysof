@@ -1,17 +1,20 @@
 > 🚧 This site is currently under development.
 [![Deploy to GitHub Pages](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml/badge.svg)](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml)
 
-# Project
+# Start Your Developer Journey
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
 
-As the maintainer of this project, please make a few updates:
+![Welcome](images/welcome.png)
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Get guidance to jumpstart your learning journey!
+
+![Guide](images/Guide.png)
+
+Explore structured roadmaps and curricula.
+
+![Connect](images/conect.png)
+
+Interact with peers in forums and events.
 
 ## Contributing
 
