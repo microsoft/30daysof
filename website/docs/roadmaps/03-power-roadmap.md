@@ -60,27 +60,27 @@ This week, learn how to setup your development environment. You also get to lear
 
 :::info WEEK 1 
  1. [Introduction to Microsoft's Power Platform​](http://aka.ms/30DL-PowerPlatformDay1) (video) -- watch [Q&A](https://youtu.be/sNtkfyt8WSE)
- 2.
- 3.
- 4.
- 5.
- 6.
+ 2. [Introduction to Dataverse and SharePoint](http://aka.ms/30DL-PowerPlatformDay2) (video) -- watch [Q&A](https://youtu.be/1feWyHQwZhc)
+ 3. [Introduction to Power Virtual Agents](https://aka.ms/30DL-PowerPlatformDay3) (video)
+ 4. [Introduction to Power Automate](http://aka.ms/30DL-PowerPlatformDay5) (video)
+ 5. [Introduction to Power Apps](http://aka.ms/30DL-PowerPlatformDay10) (video)
+ 6. 
  7.
 :::
 
 ---
 
-## Week 2: Build Power Apps
-This week, we dive proper into the different tools that make up Power Platform. Learn how to build intelligent bots with Power Virtual Agents and automate long repetitive business processes with Power Automate.
+## Week 2: Learning by Doing
+This week, we try out.
 
 :::info WEEK 2 
- 1. Introduction to Power Virtual Agent
- 2.
- 3.
- 4.
- 5.
- 6.
- 7.
+ 1. [Building a Simple Virtual Agent Solution](http://aka.ms/30DL-PowerPlatformDay4) (video)
+ 2. [Building an Automated Solution - Part 1](http://aka.ms/30DL-PowerPlatformDay8) (video)
+ 3. [Building an Automated Solution - Part 2](http://aka.ms/30DL-PowerPlatformDay9) (video)
+ 4. [Building a Canvas Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay11) (video)
+ 5. [Building a Model-Driven Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay12) (video)
+ 6. [Building with Power Pages](http://aka.ms/30DL-PowerPlatformDay15) (video)
+ 7. []
 :::
 
 ---
