@@ -64,7 +64,7 @@ This week, learn how to setup your development environment. You also get to lear
  3. [Introduction to Power Virtual Agents](https://aka.ms/30DL-PowerPlatformDay3) (video)
  4. [Introduction to Power Automate](http://aka.ms/30DL-PowerPlatformDay5) (video)
  5. [Introduction to Power Apps](http://aka.ms/30DL-PowerPlatformDay10) (video)
- 6. [How to get a Microsoft Certification for Free as a Student](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-get-a-microsoft-certification-for-free-as-a-student/ba-p/3584897) (blog)
+ 6. [How to get a Microsoft Certification for Free as a Student](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-get-a-microsoft-certification-for-free-as-a-student/ba-p/3584897/?WT.mc_id=academic-76398-japhletnwamu) (blog)
  7. [Learn about the Microsoft Learn Student Ambassador Program](http://aka.ms/aboutmlsaprogram) (video)
 :::
 
@@ -80,7 +80,7 @@ This week, we try out.
  4. [Building a Canvas Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay11) (video)
  5. [Building a Model-Driven Application with Power Apps](http://aka.ms/30DL-PowerPlatformDay12) (video)
  6. [Building with Power Pages](http://aka.ms/30DL-PowerPlatformDay15) (video)
- 7. [Build a Community Website with Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-community-website-with-power-pages/ba-p/3576465) (blog)
+ 7. [Build a Community Website with Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-a-community-website-with-power-pages/ba-p/3576465/?WT.mc_id=academic-76398-japhletnwamu) (blog)
 :::
 
 ---
@@ -95,7 +95,7 @@ This week, we try out.
  4. [Building Applications Made Easy with Express Design in Power Apps](http://aka.ms/PowerAppsExpressDesign) (blog)
  5. [Building Accessible Applications with Microsoft's Power Platform](http://aka.ms/BuildAccessibleApps) (video)
  6. [Building an Accessible Quiz Application without Code with Microsoft's Power Platform](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-an-accessible-application-with-power-platform/ba-p/3549935) (blog)
- 7. [Differences between PowerApps Portals and Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/differences-between-powerapps-portals-and-power-pages/ba-p/3571229) (blog)
+ 7. [Differences between PowerApps Portals and Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/differences-between-powerapps-portals-and-power-pages/ba-p/3571229/?WT.mc_id=academic-76398-japhletnwamu) (blog)
 :::
 
 ---
@@ -109,7 +109,7 @@ This week, we try out.
  4. [Optimizing your LinkedIn Profile](http://aka.ms/30DLTidyUp)
  5.
  6. [Tips on How to Get Noticed by Prospective Employers](https://aka.ms/HowtoGetNoticed) 
- 7. Learn skills to prepare you for the future at [Microsoft Student Hub](https://docs.microsoft.com/en-us/training/student-hub)
+ 7. Learn skills to prepare you for the future at [Microsoft Student Hub](https://docs.microsoft.com/en-us/training/student-hub/?WT.mc_id=academic-76398-japhletnwamu)
 :::
 
 ---
