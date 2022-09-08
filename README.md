@@ -6,7 +6,7 @@
 
 ![Welcome](images/welcome.png)
 
-Get guidance to jumpstart your learning journey!
+Get guidance to jumpstart your learning journey with [Microsoft Learn Cloud Skills Challenges](https://microsoft.github.io/30daysof/docs/challenges/intro)!
 
 ![Guide](images/Guide.png)
 
