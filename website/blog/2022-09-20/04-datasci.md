@@ -3,7 +3,7 @@ slug: curricula-datasci
 title: C4. Data Science For Beginners
 authors: [chris]
 tags: [hello, curricula, datascience]
-draft: false
+draft: true
 ---
 
 ## Web Dev For Beginners
