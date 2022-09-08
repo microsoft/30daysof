@@ -16,10 +16,8 @@ Cloud Skills Challenges help you skill up on relevant technology topics in a fun
 
 | #30DaysOfLearning | Description | Schedule | Collection |
 |:---|:---|:---| :---| 
-| [Power Platform](https://docs.microsoft.com/en-us/learn/challenges?id=c439e216-a5f6-49c8-9018-749cfd5954d5)| This program is a response to the Industrial Actions (ASUU Strike) from the Academic Staff of Nigerian Public Universities. This track focuses on Low-Code/No-Code Application Development using Microsoft Power Platform and will run for 30 Days.| Jun 9 - <br/> Jul 22| N/A |
-| [Data Science and Machine Learning](https://docs.microsoft.com/en-us/learn/challenges?id=b502134d-d9c9-48c8-aebd-0c1ac772132f) |This program is a response to the Industrial Actions (ASUU Strike) from the Academic Staff of Nigerian Public Universities. This track focuses on Data Science and Machine Learning and will run for 30 Days. |Jun 9 - <br/> Jul 22 | N/A |
-| [Data Analysis](https://docs.microsoft.com/en-us/learn/challenges?id=8e6a1b5e-7d86-4387-ac40-5a60224116ae)|This program is a response to the Industrial Actions (ASUU Strike) from the Academic Staff of Nigerian Public Universities. This track focuses on Data Analysis using Microsoft Power BI and will run for 30 Days. |Jun 9 - <br/> Jul 22  | N/A |
-
+| [Serverless on Azure](https://azure.github.com/Cloud-Native) | This program teaches you to build scalable solutions using serverless architectures and technologies like Azure Functions, Azure Container Apps and more. | Sep 1 - <br/> Sep 30  | [Serverless On Azure](https://docs.microsoft.com/en-us/users/nityan/collections/z2xwsn5wremxw4)|
+| [Power Platform Connectors](https://docs.microsoft.com/en-us/connectors/connectors?WT.mc_id=academic-73999-juliamuiruri) | The Microsoft Connector Hackathon provides students with a gamified, learning experience for fusion developers to compete in building custom connectors for the power platform. This challenge will expose you to skills you need to start your own Independent Publisher journey.. | Sep 12 - <br/> Oct 10  | [Microsoft Connector Hackathon Program Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=c45512ae-9632-405f-8dde-2c89797c7061%2F%3FWT.mc_id%3Dacademic-73999-juliamuiruri)|
 
 <br/>
 
@@ -27,9 +25,6 @@ Cloud Skills Challenges help you skill up on relevant technology topics in a fun
 
 | #30DaysOfLearning | Description | Schedule | Collection |
 |:---|:---|:---| :---| 
-| [Serverless on Azure](https://azure.github.com/Cloud-Native) | This program teaches you to build scalable solutions using serverless architectures and technologies like Azure Functions, Azure Container Apps and more. | Sep 1 - <br/> Sep 30  | [Serverless On Azure](https://docs.microsoft.com/en-us/users/nityan/collections/z2xwsn5wremxw4)|
-| [Power Platform Connectors](https://docs.microsoft.com/en-us/connectors/connectors?WT.mc_id=academic-73999-juliamuiruri) | The Microsoft Connector Hackathon provides students with a gamified, learning experience for fusion developers to compete in building custom connectors for the power platform. This challenge will expose you to skills you need to start your own Independent Publisher journey.. | Sep 12 - <br/> Oct 10  | [Microsoft Connector Hackathon Program Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=c45512ae-9632-405f-8dde-2c89797c7061%2F%3FWT.mc_id%3Dacademic-73999-juliamuiruri)|
-
 
 <br/>
 
@@ -39,4 +34,6 @@ You missed these challenges, but consider the [30DaysToLearnIt](https://develope
 
 | #30DaysOfLearning | Description | Schedule | Collection |
 |:---|:---|:---| :---| 
-| | | |
+| Power Platform | This program is a response to the Industrial Actions (ASUU Strike) from the Academic Staff of Nigerian Public Universities. This track focuses on Low-Code/No-Code Application Development using Microsoft Power Platform and will run for 30 Days.| Jun 9 - <br/> Jul 22| [Cloud Skills Challenge Collection](https://docs.microsoft.com/en-us/users/cloudskillschallenge-collections/collections/d434u366pr7o5e/?WT.mc_id=academic-76398-japhletnwamu) |
+| Data Science and Machine Learning |This program is a response to the Industrial Actions (ASUU Strike) from the Academic Staff of Nigerian Public Universities. This track focuses on Data Science and Machine Learning and will run for 30 Days. |Jun 9 - <br/> Jul 22 | [Cloud Skills Challenge Collection](https://docs.microsoft.com/en-us/users/23110622/collections/d1gjs30zwqp3q5/?WT.mc_id=academic-76398-japhletnwamu) |
+| Data Analysis | This program is a response to the Industrial Actions (ASUU Strike) from the Academic Staff of Nigerian Public Universities. This track focuses on Data Analysis using Microsoft Power BI and will run for 30 Days. |Jun 9 - <br/> Jul 22  | [Cloud Skills Challenge Collection](https://docs.microsoft.com/en-us/users/23110622/collections/63y5uzgxnzn323/?WT.mc_id=academic-76398-japhletnwamu) |
