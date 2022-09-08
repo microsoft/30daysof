@@ -118,12 +118,20 @@ const config = {
             label: 'Microsoft Reactor',
             to: 'https://developer.microsoft.com/en-us/reactor/',
           },
+          { 
+            label: `Java`,
+            to: `https://developer.microsoft.com/en-us/java/`
+          },
+          { 
+            label: `JavaScript`,
+            to: `https://aka.ms/javascript`
+          },
           {
             label: 'Privacy Statement ',
             to: 'https://privacy.microsoft.com/en-us/privacystatement',
           },
           { 
-           label: `Copyright © ${new Date().getFullYear()} Microsoft`,
+           label: ` © ${new Date().getFullYear()} Microsoft`,
            to: 'https://microsoft.com'
           },
         ],
