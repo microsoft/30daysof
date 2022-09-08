@@ -4,7 +4,34 @@ title: Hello, 30Days Of Learning!
 authors: [nitya, ola, lee, chris, julia, bethany]
 tags: [hello, 30Days]
 draft: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+keywords: [learning, azure, power platform, data science, web development]
 ---
+
+<head>
+  <meta name="twitter:url" content="https://microsoft.github.io/30daysof/blog/learning-hub" />
+  <meta name="twitter:title" content="Hello, 30Days Of Learning!" />
+  <meta name="twitter:description" content="Welcome to the #30DaysOfLearning hub! Your one-stop destination for resources, events and community to help you skill up!" />
+  <meta name="twitter:image" content="https://microsoft.github.io/30daysof/assets/images/empty-21460021e4358d11e7c45383dc187d62.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@nitya" />
+  <meta name="twitter:site" content="@AzureAdvocates" /> 
+</head>
+
+
+## What We'll Cover
+ * What is Serverless September? (6 initiatives)
+ * How can I _participate_? (3 actions)
+ * How can I _skill up_ (30 days)
+ * Who is behind this? (Team Contributors)
+ * How can _you_ contribute? (Custom Issues)
+ * **Exercise**: Take the [Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=b950cd7a-d456-46ab-81ba-3bd1ad86dc1c&WT.mc_id=javascript-74010-ninarasi)!
+ * **Resources**: [#30DaysOfServerless Collection](https://aka.ms/30DaysOfServerless/collection).
+
+---
+
 
 ## Welcome! 
 
