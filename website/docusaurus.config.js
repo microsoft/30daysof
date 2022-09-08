@@ -177,7 +177,7 @@ const config = {
       announcementBar: {
         id: 'Kickstart #30DaysOfLearning!',
         content:
-          '<b>Found this project helpful? Give us a star on <a href="https://github.com/microsoft/30DaysOf"><b>GitHub</b></a></b> 🙏🏽',
+          ' Join the <a href="https://aka.ms/ConnectorSkillsChallenge"><b>Connector Cloud Skills Challenge</b></a> | <b>Give us a star on <a href="https://github.com/microsoft/30DaysOf"><b>GitHub</b></a> 🙏🏽',
         backgroundColor: '#4f2e85',
         textColor: '#ffffff',
         isCloseable: false,
