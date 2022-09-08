@@ -25,13 +25,15 @@ The ["For Beginners" Series](https://docs.microsoft.com/en-us/shows/browse?show_
  * [Beginners Series: Dev Containers](https://docs.microsoft.com/en-us/shows/beginners-series-to-dev-containers/) - Jan 2021
 
 
- ## 2020
+## 2020
+
  * [Beginners Series: JavaScript](https://docs.microsoft.com/en-us/shows/beginners-series-to-javascript/) - Oct 2020
  * [Beginner Series: Node.js](https://docs.microsoft.com/en-us/shows/beginners-series-to-nodejs/) - Oct 2020
  * [Even More Python For Beginners](https://docs.microsoft.com/en-us/shows/even-more-python-for-beginners-data-tools/) - Apr 2020
  * [More Python For Beginners](https://docs.microsoft.com/en-us/shows/more-python-for-beginners/) - Apr 2020
 
- ## 2019 
+## 2019 
+
  * [Python For Beginners](https://docs.microsoft.com/en-us/shows/intro-to-python-development/) - Sep 2019
 
 ---
