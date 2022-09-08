@@ -8,8 +8,9 @@ Check out the list of learning journeys you can participate in live (see: _Upcom
 
 | Date | Topic | Activity |
 |:---|:---|:---|
-| Sep 1 - Sep 31 | 30 Days Of Serverless | Learn about core Azure services including Azure Functions, Azure Container Apps, Azure Logic Apps & Azure Event Grid - and use them to build serverless solutions on Azure. |
-| | | |
+| Sep 1 - Sep 31 | [30 Days Of Serverless](https://azure.github.io/Cloud-Native/serverless-september/) | Learn about core Azure services including Azure Functions, Azure Container Apps, Azure Logic Apps & Azure Event Grid - and use them to build serverless solutions on Azure. |
+| Sept 12 - Oct 10| [30 Days of Fusion](https://microsoft.github.io/30daysof/docs/roadmaps/fusion) |Learning about fusion development and building custom connectors for the power platform |
+
 
 ---
 
