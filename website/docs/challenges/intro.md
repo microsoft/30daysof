@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Cloud Skills Challenges help you skill up on relevant technology topics in a fun way. Here's how it works! Join an active challenge, complete learning modules at your pace and make your mark on the leaderboard!
 
-|![](https://docs.microsoft.com/en-us/media/learn/challenge/how_it_works_1.png?branch=main) | ![](https://docs.microsoft.com/en-us/media/learn/challenge/how_it_works_2.png?branch=main) | ![](https://docs.microsoft.com/en-us/media/learn/challenge/how_it_works_3.png?branch=main)|
+|![Competitions](images/Competition.png) | ![DevelopSkills](images/Develop%20skills.png) | ![Training](images/Training.png)|
 |:---|:---|:---|
 | Benchmark your progress against friends and coworkers. It's always better when we learn together. | Increase your understanding with easy-to-read instruction and stay up on the bleeding-edge of technology. | By the end of the challenge, you will have marketable skills to better yourself and your career|
 
