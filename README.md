@@ -1,20 +1,20 @@
-> 🚧 This site is currently under development.
-[![Deploy to GitHub Pages](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml/badge.svg)](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml)
-
 # Start Your Developer Journey
 
+[![Deploy to GitHub Pages](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml/badge.svg)](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml)
 
-![Welcome](images/welcome.png)
+> 🚧 Site Under Development 
 
-Get guidance to jumpstart your learning journey with [Microsoft Learn Cloud Skills Challenges](https://microsoft.github.io/30daysof/docs/challenges/intro)!
 
-![Guide](images/Guide.png)
+<br/>
 
-Explore [structured roadmaps](https://microsoft.github.io/30daysof/docs/category/roadmaps), [videos](https://microsoft.github.io/30daysof/docs/video-series/intro) and [curricula](https://microsoft.github.io/30daysof/docs/category/curricula).
 
-![Connect](images/conect.png)
 
-[Interact with peers in forums and events.](https://github.com/microsoft/30daysof/discussions)
+| | Welcome to #30DaysOf Learning!| 
+|:---|:---|
+|![Welcome](images/welcome.png) |Get guidance to jumpstart your learning journey with [Microsoft Learn Cloud Skills Challenges](https://microsoft.github.io/30daysof/docs/challenges/intro)! |
+| ![Guide](images/Guide.png)| Explore [structured roadmaps](https://microsoft.github.io/30daysof/docs/category/roadmaps), [videos](https://microsoft.github.io/30daysof/docs/video-series/intro) and [curricula](https://microsoft.github.io/30daysof/docs/category/curricula). |
+| ![Connect](images/conect.png)|[Interact with peers in forums and events.](https://github.com/microsoft/30daysof/discussions) |
+| | |
 
 ## Contributing
 
