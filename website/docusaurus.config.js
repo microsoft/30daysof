@@ -175,6 +175,11 @@ const config = {
         isCloseable: false,
       },
 
+      /* Clarity Config */
+      clarity: {
+        ID: "dkja658zd4", // Instructions below
+      }
+
     }),
 
   // --- CONFIG-30DAYS: Activate and configure plugins
@@ -190,6 +195,11 @@ const config = {
         steps: 2, // #images b/w min and max (inclusive)
         disableInDev: false,
       },
+    ],
+    [
+      'docusaurus-plugin-clarity',
+      {
+      }
     ],
   ],
 };
