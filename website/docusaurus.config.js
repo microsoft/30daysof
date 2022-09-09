@@ -84,13 +84,16 @@ const config = {
           alt: '30DaysOf Logo',
           src: 'img/logo.svg',
         },
-        items: [
+        items: [    
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/calendar', label: 'Calendar', position: 'left'},          
+          { label: '🔌 #30DaysOfFusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
+          { label: '⚡️ #30DaysOfServerless', to: 'https://aka.ms/serverless-september'  }, 
+
+          {to: '/calendar', label: 'Calendar', position: 'right'},     
           {
             type: 'dropdown',
             label: 'Learning',
-            position: 'left',
+            position: 'right',
             items: [             
               { label: '1. Roadmaps', type: 'doc', docId: 'roadmaps/pwa',  },      
               { label: '2. Video Series', type: 'doc', docId: 'video-series/intro',  },
@@ -99,7 +102,7 @@ const config = {
               { label: '5. Playbook', type: 'doc', docId: 'playbook/intro',  },
             ],
           },
-          {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Discussion', position: 'left'},
+          {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Discussion', position: 'right'},
           {
             href: 'https://github.com/microsoft/30DaysOf',
             position: 'right',
