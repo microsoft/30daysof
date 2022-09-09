@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41D Community Buzz: Articles Authored By You!"
-about: Describe this issue template's purpose here.
+about: 'Use this issue to submit articles you authored on related #30Days topics'
 title: "\U0001F41D [Community Buzz] Article authored by community / learners"
 labels: community-buzz
 assignees: ''
