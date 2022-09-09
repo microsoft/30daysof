@@ -1,7 +1,7 @@
 ---
 slug: learning-hub
 title: Hello, 30Days Of Learning!
-authors: [nitya, ola, lee, chris, julia, bethany]
+authors: [nitya, ola, chris, julia, bethany, lee]
 tags: [hello, 30Days]
 draft: false
 hide_table_of_contents: false
