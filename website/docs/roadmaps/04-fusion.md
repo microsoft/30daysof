@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Fusion - Connectors
 ---
 
-![Banner Placeholder](./../../static/img/banners/fucshia-laptop.png) 
+![Banner Placeholder](./../../static/img/banners/fusion.png) 
 
 # Roadmap
 
@@ -24,7 +24,7 @@ This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you
 ## Week 1: The Challenge Begins!
 
 :::info WEEK 1 SCHEDULE
- * **Sep 12** - Kickoff! Join the [** 🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge)
+ * **Sep 12** - Kickoff! Join the [**🔌Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge)
  * **Sep 13** - _Self Paced Learning_
  * **Sep 14** - **Live Session**: Learn to Build & Publish an API on Azure
  * **Sep 15** - _Self Paced Learning_
@@ -33,8 +33,8 @@ This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you
 
 ⚡️ **RESOURCES:**
 
- * Setting up [M365 Developer Account](https://developer.microsoft.com/en-us/microsoft-365/dev-program/?WT.mc_id=academic-73999-juliamuiruri)
- * Setting up [Power Apps Developer Plan](https://powerapps.microsoft.com/en-us/developerplan/?WT.mc_id=academic-73999-juliamuiruri)
+ * How to set up [M365 Developer Account](https://techcommunity.microsoft.com/t5/educator-developer-blog/recap-of-day-2-onboarding-session-30days-of-learning-nigeria/ba-p/3490280?WT.mc_id=academic-0000-juliamuiruri) and [Power Apps Developer Plan](https://techcommunity.microsoft.com/t5/educator-developer-blog/recap-of-day-2-onboarding-session-30days-of-learning-nigeria/ba-p/3490280?WT.mc_id=academic-0000-juliamuiruri)
+ * SWAPI API Connector in action - [Building the connector from scratch and using it in a Power App](https://youtu.be/CMCuNYVW4B0)
  * [Independent Publisher Step by step Guide](https://www.youtube.com/watch?v=wGFWZqsxIBQ)
  * [Extend an OpenAPI definition for a custom connector](https://docs.microsoft.com/en-us/connectors/custom-connectors/openapi-extensions?WT.mc_id=academic-73999-juliamuiruri)
 
@@ -46,8 +46,8 @@ This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you
  * **Sep 19** - **Live Session**: Build a Connector
  * **Sep 20** - _Self Paced Learning_
  * **Sep 21** - _Self Paced Learning_
- * **Sep 22** - **Live Session**: Validate your Connector using
- * **Sep 23** - **Live Session**: Extend an OpenAPI definition for a custom connector
+ * **Sep 22** - **Live Session**: Validate your Connector before submission
+ * **Sep 23** - _Self Paced Learning_
 
 The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
 :::
