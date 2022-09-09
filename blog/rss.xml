@@ -4,21 +4,11 @@
         <title>#30DaysOf Learning</title>
         <link>https://microsoft.github.io/30daysof/blog</link>
         <description>Subscribe to get the latest news and content to jumpstart a #30DaysOf learning journey!</description>
-        <lastBuildDate>Thu, 09 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2022 Microsoft.</copyright>
-        <item>
-            <title><![CDATA[Onboarding Guide For Learners]]></title>
-            <link>https://microsoft.github.io/30daysof/blog/onboarding-guide</link>
-            <guid>onboarding-guide</guid>
-            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome, Learners!]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-learners">Welcome, Learners!<a class="hash-link" href="#welcome-learners" title="Direct link to heading">​</a></h2><p>On behalf of my team at Microsoft, I would like to welcome you officially to the 30Days of Learning programme. Through this programme, we will help you upskill with Microsoft technologies by learning and building solutions across multiple knowledge areas including:</p><ul><li><p>Data Analysis Using Power BI</p></li><li><p>Low-code/No-Code Application Development using Power Platform, </p></li><li><p>Data Science and Machine Learning with Azure.</p><p><img loading="lazy" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/378806iDF7EFB7E75155F23/image-size/large?v=v2&amp;px=999" alt="Learning Tracks from Jun 2022 for #30DaysOfLearning" class="img_ev3q"></p><p>Learn more about the program on <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/onboarding-guide-for-30days-of-learning-participants/ba-p/3485136" target="_blank" rel="noopener noreferrer">this Tech Community post</a> - and check the <a href="/30daysof/calendar">Calendar Schedule</a> for upcoming events, and links to archived resources from past events.</p></li></ul>]]></content:encoded>
-            <category>hello</category>
-            <category>30Days</category>
-        </item>
         <item>
             <title><![CDATA[Hello, 30Days Of Learning!]]></title>
             <link>https://microsoft.github.io/30daysof/blog/learning-hub</link>
