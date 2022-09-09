@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Power Platform
 ---
 
-![Banner Placeholder](./../../static/img/banners/purple-flowers.png) 
+![Banner Placeholder](./../../static/img/banners/power-platform.png) 
 
 # Roadmap
 
