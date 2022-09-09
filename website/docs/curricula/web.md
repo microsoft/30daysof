@@ -39,7 +39,18 @@ Web Development **for beginners** is a curated curriculum developed with teacher
 | 10. [JavaScript Closures, DOM manipulation](https://microsoft.github.io/Web-Dev-For-Beginners/#/3-terrarium/3-intro-to-DOM-and-closures/README) | Build the JavaScript to make the terrarium function as a drag/drop interface, focusing on closures and DOM manipulation|
 | 11. [JavaScript Closures, DOM manipulation](https://microsoft.github.io/Web-Dev-For-Beginners/#/4-typing-game/typing-game/README) |Learn how to use keyboard events to drive the logic of your JavaScript app |
 | 12. [About Browsers](https://microsoft.github.io/Web-Dev-For-Beginners/#/5-browser-extension/1-about-browsers/README) | Learn how browsers work, their history, and how to scaffold the first elements of a browser extension|
-|  | |
+| 13. [APIs, Forms, and Local Storage](/5-browser-extension/2-forms-browsers-local-storage/README.md)  |Build the JavaScript elements of your browser extension to call an API using variables stored in local storage     |
+| 14. [Background Tasks and Performance](/5-browser-extension/3-background-tasks-and-performance/README.md)    | Use the browser's background processes to manage the extension's icon; learn about web performance and some optimizations to make  |
+| 15. [Introduction to Advanced Game Development](/6-space-game/1-introduction/README.md)  |Learn about Inheritance using both Classes and Composition and the Pub/Sub pattern, in preparation for building a game|
+| 16. [Drawing to Canvas](/6-space-game/2-drawing-to-canvas/README.md)     | Learn about the Canvas API, used to draw elements to a screen           |
+| 17. [Moving Elements Around](/6-space-game/3-moving-elements-around/README.md)| Discover how elements can gain motion using the cartesian coordinates and the Canvas API  |
+| 18. [Collision Detection](/6-space-game/4-collision-detection/README.md) | Make elements collide and react to each other using keypresses and provide a cooldown function to ensure performance of the game  |
+| 19. [Keeping Score](/6-space-game/5-keeping-score/README.md)   |Perform math calculations based on the game's status and performance    |
+| 20. [The Ending Condition](/6-space-game/6-end-condition/README.md)            |Learn about ending and restarting the game, including cleaning up assets and resetting variable values    |
+| 21. [HTML Templates and Routes](/7-bank-project/1-template-route/README.md) | Learn how to create the scaffold of a multipage website's architecture using routing and HTML templates     |
+| 22. [Forms](/7-bank-project/2-forms/README.md)    | Learn about building forms and handing validation routines    |
+| 23. [Data](/7-bank-project/3-data/README.md) | How data flows in and out of your app, how to fetch it, store it, and dispose of it |
+| 24. [State Mangement](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/7-bank-project/4-state-management/README.md)  | Learn how your app retains state and how to manage it programmatically|
 
 ---
 

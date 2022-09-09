@@ -86,4 +86,5 @@ To kick-off your learning journey, start by taking the onboarding guide here
 
 
 ## Meet The Team
-Meet the team behind this learning track
+
+Check back to learn more about the team behind this learning track!

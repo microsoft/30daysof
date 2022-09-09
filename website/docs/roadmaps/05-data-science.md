@@ -70,3 +70,5 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 
 
 ## Meet The Team
+
+Check back to learn more about the team behind this initiative!

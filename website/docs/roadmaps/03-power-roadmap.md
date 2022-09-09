@@ -115,4 +115,5 @@ This week, we try out.
 ---
 
 ## Meet The Team
- 
+
+Check back to learn more about the team behind this initiative!

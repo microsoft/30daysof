@@ -103,7 +103,6 @@ _We made it to the final week!! We've learned core concepts, seen examples of SW
 
 ![Week 4 Roadmap](https://www.azurestaticwebapps.dev/assets/images/week4-roadmap-ae23c6e2ecc1467720771a4ee45d9cea.png)
 
-
 ---
 
 ## Meet the Team
