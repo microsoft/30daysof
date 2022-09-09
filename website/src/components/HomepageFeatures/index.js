@@ -84,7 +84,7 @@ const LearningList = [
 
 function Feature({Svg, title, description, link}) {
   return (
-    <div className={clsx('col col--3')}>
+    <div className={clsx('col col--4')}>
       <a href={link} target="_blank">
         <div className="text--center">
           <Svg className={styles.featureSvg} role="img" />
