@@ -87,7 +87,7 @@ const config = {
         items: [    
           { label: '🔌 #Fusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
           { label: '⚡️ #Serverless', to: 'https://aka.ms/serverless-september'  }, 
-          { label: '🔋 #PowerPlatform', to: 'roadmaps/fusion'  }, 
+          { label: '🔋 #PowerPlatform', type: 'doc', docId: 'roadmaps/power-roadmap',  }, 
 
           {to: '/blog', label: 'Blog', position: 'right'},
           {to: '/calendar', label: 'Calendar', position: 'right'},     
