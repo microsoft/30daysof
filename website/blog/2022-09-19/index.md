@@ -22,13 +22,12 @@ keywords: [learning, azure, power platform, data science, web development]
 
 
 ## What We'll Cover
- * What is Serverless September? (6 initiatives)
- * How can I _participate_? (3 actions)
- * How can I _skill up_ (30 days)
+ * What is #30DaysOfLearning? (About)
+ * How can you _participate_? (Your First Actions)
+ * How can you _contribute_? (Share Insights)
  * Who is behind this? (Team Contributors)
- * How can _you_ contribute? (Custom Issues)
- * **Exercise**: Take the [Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=b950cd7a-d456-46ab-81ba-3bd1ad86dc1c&WT.mc_id=javascript-74010-ninarasi)!
- * **Resources**: [#30DaysOfServerless Collection](https://aka.ms/30DaysOfServerless/collection).
+ * **Join**: [🔌 The Connector Cloud Skills Challenge](https://aka.ms/ConnectorSkillsChallenge)
+ * **Join**: [⚡️ The Serverless Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=b950cd7a-d456-46ab-81ba-3bd1ad86dc1c&WT.mc_id=javascript-74010-ninarasi)!
 
 ---
 
@@ -40,10 +39,10 @@ Hello and welcome to the launch of the #30DaysOf learning hub. 👋🏽
 This is a collaborative effort within Developer Relations to collect and share various resources that support self-study and structured learning for beginners and experienced devs alike. Technology changes fast! The only way to adapt, and thrive, is to learn continuously - and apply learnings to practical problems.
 
 So, what does that learning journey look like? Think of it as four stages:
- * **Welcome** - the onboarding phase where you get setup for the journey. 
- * **Guide** - the resource exploration phase, where you pick the path to travel.
- * **Connect** - the community phase where you interact with others on the same journey.
- * **Share** - the pay-it-forward phase where you share your learnings to help the next traveller.
+ * **Welcome** - the onboarding phase, to set you up for success! 
+ * **Guide** - the exploration phase, where you pick the learning path to follow.
+ * **Connect** - the community phase, where you meet & help others on that path.
+ * **Share** - the pay-it-forward phase, where you share insights for future travelers.
 
 ![Placeholder banner with red flowers](./../../static/img/banners/empty.png)
 
@@ -51,23 +50,33 @@ So, what does that learning journey look like? Think of it as four stages:
 
 Let's take a quick tour of this site and the various features it offers:
 
- * [Landing Page](/) - explore the learning options available.
- * [Blog](/blog) - subscribe to the [feed](/blog/rss.xml) for announcements & updates
- * [Calendar](/calendar) - discover upcoming events, revisit archived ones
- * [Roadmaps](/docs/category/roadmaps) - discover and complete #30Day journeys
- * [Curricula](/docs/category/curricula) - explore open-source multi-week courses with lesson plans
- * [Challenges](/docs/category/challenges) - join challenges and compete with your peers
- * [Discussions](https://github.com/microsoft/30daysof/discussions) - ask questions, interact with peers, show-and-tell!
+ * 🏠 [**Landing Page**](/) - explore the learning options available.
+ * ✍🏼 [**Blog**](/blog) - subscribe to the [feed](/blog/rss.xml) for announcements & updates
+ * 🗓 [**Calendar**](/calendar) - discover upcoming events, revisit archived ones
+ * 🗺 [**Roadmaps**](/docs/category/roadmaps) - discover and complete #30Day journeys
+ * 📖 [**Curricula**](/docs/category/curricula) - explore open-source multi-week courses with lesson plans
+ * 🎯 [**Challenges**](/docs/category/challenges) - join challenges and compete with your peers
+ * 💬 [**Discussions**](https://github.com/microsoft/30daysof/discussions) - ask questions, interact with peers, show-and-tell!
 
-
-## Your First Actions
+## Your First Learning Actions
 
 Where should you start? 
 
-1. [Take a minute to introduce yourself](https://github.com/microsoft/30daysof/discussions/3) - What are you looking to learn? What are *you* an expert in? Which region are you joining us from?
-2. [Check the calendar](/calendar) - look for upcoming or in-progress learning journeys (e.g., #30Days) and join in! Work at your own pace, or look for events and discussions where you can interact with other learners.
-3. [Cultivate learning habits](https://www.nytimes.com/2017/08/04/education/edlife/learning-how-to-learn-barbara-oakley.html) - Use techniques that help you learn to learn better. Take breaks, switch between focused and relaxed modes, practice what you learn, and understand that each person learns differently.
+1. 👋🏽 - [**Take a minute to introduce yourself**](https://github.com/microsoft/30daysof/discussions/3)  What are you looking to learn? What are *you* an expert in? Which region are you joining us from?
+2. 🗓 - [**Check the calendar**](/calendar) - look for upcoming or in-progress learning journeys (e.g., #30Days) and join in! Work at your own pace, or look for events and discussions where you can interact with other learners.
+3. ⏰ - [**Cultivate learning habits**](https://www.nytimes.com/2017/08/04/education/edlife/learning-how-to-learn-barbara-oakley.html) - Use techniques that help you learn to learn better. Take breaks, switch between focused and relaxed modes, practice what you learn, and understand that each person learns differently.
+4. 🎯 - **Set a goal** - And keep moving towards it one step at a time. Connect with others in your community to get help, or feel inspired. Then pay it forward - more on that in the next section.
 
-Most importantly, **set a goal and keep going towards it one learning step at a time** - connect with others to get help or feel inspired. Then pay it forward by sharing blog posts and showcasing your apps, so others can learn from _you_.
 
+## Your First Learning Contributions
+
+Did you know that **writing things down** can help reinforce what you learned, and help you review or recall it much later? And that **sharing notes and insights** with others is not only a good way to contribute back to the community, but also help your career by building an online profile? As part of your learning journey, consider 3 ways in which you can contribute to others learning journeys (and your own):
+
+ * [**Use our Discussion Boards**](https://github.com/microsoft/30daysof/discussions) - share notes, ask questions, or answer them.
+ * [**Share your Articles**](https://github.com/microsoft/30daysof/issues/new/choose) - use the _🐝 Community Buzz_ template to submit links to us.
+ * **Build Open Source Projects** - then write about it, and _Share your Articles_.
+
+
+:::success READY? LET'S GO! 🎉
 We can't wait to see what you learn - next!
+:::

@@ -85,10 +85,11 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [    
-          {to: '/blog', label: 'Blog', position: 'left'},
-          { label: '🔌 #30DaysOfFusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
-          { label: '⚡️ #30DaysOfServerless', to: 'https://aka.ms/serverless-september'  }, 
+          { label: '🔌 #Fusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
+          { label: '⚡️ #Serverless', to: 'https://aka.ms/serverless-september'  }, 
+          { label: '🔋 #PowerPlatform', to: 'roadmaps/fusion'  }, 
 
+          {to: '/blog', label: 'Blog', position: 'right'},
           {to: '/calendar', label: 'Calendar', position: 'right'},     
           {
             type: 'dropdown',
