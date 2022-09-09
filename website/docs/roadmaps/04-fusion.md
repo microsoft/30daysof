@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Fusion - Connectors
 ---
 
-![Banner Placeholder](./../../static/img/banners/fucshia-laptop.png) 
+![Banner Placeholder](./../../static/img/banners/fusion.png) 
 
 # Roadmap
 
