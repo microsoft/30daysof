@@ -1,0 +1,13 @@
+{
+    "label": "Video Series",
+    "position": 2,
+    "link": {
+      "type": "generated-index",        
+      "title": "Video Series For Beginners",
+      "slug": "/category/playlists",
+      "keywords": ["playlists","video","beginners"],
+      "image": "/img/landing-guide.svg",
+      "description": "Video Series (playlists) for Beginners"
+    }
+  }
+  

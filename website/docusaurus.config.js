@@ -34,13 +34,34 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          breadcrumbs: true,
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
+          feedOptions: {
+            type: 'rss',
+            title: `#30DaysOf Learning`,
+            description: `Subscribe to get the latest news and content to jumpstart a #30DaysOf learning journey!`,
+            copyright: `Copyright © ${new Date().getFullYear()} Microsoft.`,
+          },
           showReadingTime: true,
+          blogTitle: '#30DaysOf Learning',
+          blogDescription: 'Subscribe for announcements and content to jumpstart a month of learning something new',
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Recent Articles',
+          tagsBasePath: 'tags',
+          archiveBasePath: 'archive',
+          postsPerPage: 1,
+          sortPosts: 'ascending'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
         },
       }),
     ],
@@ -49,30 +70,40 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: false,
+        },
+      },
+
       navbar: {
         title: '#30DaysOf',
         logo: {
           alt: '30DaysOf Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {to: '/blog', label: 'Content', position: 'left'},
-          {to: '/calendar', label: 'Calendar', position: 'left'},
-          {to: '/docs/curricula/web', label: 'Curricula', position: 'left'},
-          {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Chat', position: 'left'},
-          
+        items: [    
+          { label: '🔌 #Fusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
+          { label: '⚡️ #Serverless', to: 'https://aka.ms/serverless-september'  }, 
+          { label: '🔋 #PowerPlatform', type: 'doc', docId: 'roadmaps/power-roadmap',  }, 
+
+          {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/calendar', label: 'Calendar', position: 'right'},     
           {
             type: 'dropdown',
-            label: 'Resources',
+            label: 'Learning',
             position: 'right',
             items: [             
-              { label: '1. Roadmaps', type: 'doc', docId: 'roadmaps/pwa',  },       
-              { label: '2. Playbook', type: 'doc', docId: 'playbook/intro',  },
+              { label: '1. Roadmaps', type: 'doc', docId: 'roadmaps/pwa',  },      
+              { label: '2. Video Series', type: 'doc', docId: 'video-series/intro',  },
               { label: '3. Curricula', type: 'doc', docId: 'curricula/web', },
-              { label: '4. Challenges', type: 'doc', docId: 'challenges/intro', },
-
+              { label: '4. Challenges', type: 'doc', docId: 'challenges/intro', },     
+              { label: '5. Playbook', type: 'doc', docId: 'playbook/intro',  },
             ],
           },
+          {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Discussion', position: 'right'},
           {
             href: 'https://github.com/microsoft/30DaysOf',
             position: 'right',
@@ -83,15 +114,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        /*
-        logo: {
-          alt: 'Serverless September Logo',
-          src: 'img/campaign_banner.png',
-          href: 'https://aka.ms/serverless-september',
-          width: 280,
-          height: 100,
-        },
-        */
         links: [
           {
             label: 'Student Ambassadors',
@@ -109,12 +131,20 @@ const config = {
             label: 'Microsoft Reactor',
             to: 'https://developer.microsoft.com/en-us/reactor/',
           },
+          { 
+            label: `Java`,
+            to: `https://developer.microsoft.com/en-us/java/`
+          },
+          { 
+            label: `JavaScript`,
+            to: `https://aka.ms/javascript`
+          },
           {
             label: 'Privacy Statement ',
             to: 'https://privacy.microsoft.com/en-us/privacystatement',
           },
           { 
-           label: `Copyright © ${new Date().getFullYear()} Microsoft`,
+           label: ` © ${new Date().getFullYear()} Microsoft`,
            to: 'https://microsoft.com'
           },
         ],
@@ -140,7 +170,7 @@ const config = {
         },
         {
           name: 'twitter:image', 
-          content: 'https://techcommunity.microsoft.com/t5/image/serverpage/image-id/378805iDA20565658980B26/image-size/large?v=v2&px=999'
+          content: 'img/logo.svg'
         },
         {
           name: 'twitter:card', 
@@ -160,13 +190,39 @@ const config = {
       announcementBar: {
         id: 'Kickstart #30DaysOfLearning!',
         content:
-          '<b>Found this project helpful? Give us a star on <a href="https://github.com/microsoft/30DaysOf"><b>GitHub</b></a></b> 🙏🏽',
+          ' Join the <a href="https://aka.ms/ConnectorSkillsChallenge"><b>Connector Cloud Skills Challenge</b></a> | <b>Give us a star on <a href="https://github.com/microsoft/30DaysOf"><b>GitHub</b></a> 🙏🏽',
         backgroundColor: '#4f2e85',
         textColor: '#ffffff',
         isCloseable: false,
       },
 
+      /* Clarity Config */
+      clarity: {
+        ID: "dkja658zd4", // Instructions below
+      }
+
     }),
+
+  // --- CONFIG-30DAYS: Activate and configure plugins
+  // Ideal Image: https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image#installation
+  // 
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. 
+        steps: 2, // #images b/w min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+    [
+      'docusaurus-plugin-clarity',
+      {
+      }
+    ],
+  ],
 };
 
 module.exports = config;

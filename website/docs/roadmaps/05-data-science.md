@@ -3,19 +3,28 @@ sidebar_position: 5
 title: Data Science
 ---
 
+![Banner Placeholder](./../../static/img/banners/yellow-flowers.png) 
+
 # Roadmap
-:::info #30DaysOfDataScience
-This is a #30Days learning roadmap that provides a guided tour of Data Science and Machine Learning in Python and Azure in four themed weeks.
+
+:::success #30DaysOf - Data Science
+This 30Days Skilling content provides a guided tour of Data Science and Machine Learning in Python and Azure in four themed weeks.
+
+ * Read the ['Kickoff'](#kickoff) section for more details.
+ * Meet The ['Team'](#meet-the-team) behind this project.
+ * Explore the linked resources each week to skill up!
 :::
+
+
 ## Kickoff 
 In the #30DaysOfDataScience we will go from understanding the Python language to working with real life data and finally creating Machine Learning models both on Azure and in Python. The main role is understanding our data and using the knowledge to make decisions such as clustering Nigerian music based on their 'danceability' score, 'acousticness', loudness, 'speechiness', popularity and energy. 
 
 Full curriculum can be found [here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-science-and-machine-learning-curriculum/ba-p/3503610)
 
 ## Week 1: Getting Started with Python
- Python is one of the main programming languages used in Data Science. A major advantage of the language is its abundance of libraries which enable you to analyze your data with ease.
+Python is one of the main programming languages used in Data Science. A major advantage of the language is its abundance of libraries which enable you to analyze your data with ease.
 
- :::info WEEK 1 RESOURCES
+:::info WEEK 1 RESOURCES
 * Setting up your local environment
 * Python basics: operators | data types
 * Python basics: loops | dictionaries
@@ -59,3 +68,7 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 * Build an end to end Data Science project: recommender system
 :::
 
+
+## Meet The Team
+
+Check back to learn more about the team behind this initiative!

@@ -1,41 +1,13 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
 
-```
-$ yarn
-```
+## About This Site
 
-### Local Development
+ * This website is built using [Docusaurus 2](https://docusaurus.io/) - a modern static website generator from Meta. 
+ * The site is hosted on [GitHub Pages](https://aka.ms/azure/cloud-native) and auto-deployed with a [GitHub Actions](https://github.com/features/actions) workflow to [aka.ms/30Daysof](https://aka.ms/30DaysOf).
+ * It uses [docusaurus-plugin-clarity](https://www.npmjs.com/package/docusaurus-plugin-clarity) to configure [Clarity analytics](https://clarity.microsoft.com/) using [docusaurus.config.js](https://docusaurus.io/docs/api/docusaurus-config#scripts). Just delete Clarity ID to turn off telemetry.
 
-```
-$ yarn start
-```
+ * [![Deploy to GitHub Pages](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml/badge.svg)](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+ ---
