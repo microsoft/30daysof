@@ -89,18 +89,20 @@ This week, we try out.
 "Powerful Alone, Better Together!" This week, we connect the different parts of Power Platform. At the end of this week, we would have built a complete solution with Microsoft's Power Platform.
 
 :::info WEEK 3 
- 1. [Connecting the Dots - Bringing Power Virtual Agents Home](http://aka.ms/30DL-PowerPlatformDay17) (video)
- 2. [Connecting the Dots - Bringing Power Automate Home](http://aka.ms/30DL-PowerPlatformDay18) (video)
- 3. [Connecting the Dots - Bringing Power Apps Home](http://aka.ms/30DL-PowerPlatformDay19) (video)
- 4. [Building Applications Made Easy with Express Design in Power Apps](http://aka.ms/PowerAppsExpressDesign) (blog)
- 5. [Building Accessible Applications with Microsoft's Power Platform](http://aka.ms/BuildAccessibleApps) (video)
- 6. [Building an Accessible Quiz Application without Code with Microsoft's Power Platform](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-an-accessible-application-with-power-platform/ba-p/3549935) (blog)
- 7. [Differences between PowerApps Portals and Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/differences-between-powerapps-portals-and-power-pages/ba-p/3571229/?WT.mc_id=academic-76398-japhletnwamu) (blog)
+1. [Connecting the Dots - Bringing Power Virtual Agents Home](http://aka.ms/30DL-PowerPlatformDay17) (video)
+2. [Connecting the Dots - Bringing Power Automate Home](http://aka.ms/30DL-PowerPlatformDay18) (video)
+3. [Connecting the Dots - Bringing Power Apps Home](http://aka.ms/30DL-PowerPlatformDay19) (video)
+4. [Building Applications Made Easy with Express Design in Power Apps](http://aka.ms/PowerAppsExpressDesign) (blog)
+5. [Building Accessible Applications with Microsoft's Power Platform](http://aka.ms/BuildAccessibleApps) (video)
+6. [Building an Accessible Quiz Application without Code with Microsoft's Power Platform](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-an-accessible-application-with-power-platform/ba-p/3549935) (blog)
+7. [Differences between PowerApps Portals and Power Pages](https://techcommunity.microsoft.com/t5/educator-developer-blog/differences-between-powerapps-portals-and-power-pages/ba-p/3571229/?WT.mc_id=academic-76398-japhletnwamu) (blog)
+
 :::
 
 ---
 
 ## Week 4: Time to Develop Yourself and Build!
+Here's an opportunity for you 
 
 :::info WEEK 4
  1. Capstone Project - Utilizing all knowledge gathered, you are expected to think of a problem affecting your immediate environment and build a solution using Microsoft's Power Platform.
@@ -110,6 +112,7 @@ This week, we try out.
  5.
  6. [Tips on How to Get Noticed by Prospective Employers](https://aka.ms/HowtoGetNoticed) 
  7. Learn skills to prepare you for the future at [Microsoft Student Hub](https://docs.microsoft.com/en-us/training/student-hub/?WT.mc_id=academic-76398-japhletnwamu)
+ 
 :::
 
 ---
