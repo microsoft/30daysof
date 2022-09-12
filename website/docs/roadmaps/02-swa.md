@@ -5,11 +5,11 @@ title: Static Web Apps
 
 # Roadmap
 
-![Banner Placeholder](./../../static/img/banners/green-flowers.png) 
+![Banner Placeholder](./../../static/img/banners/swa.png) 
 
 :::success #30DaysOf - Azure Static Web Apps
 
-This is a #30Days learning roadmap that provides a guided tour of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview?WT.mc_id=30daysofswa-61155-cxall) in **4 themed weeks**. 
+This is a #30Days learning roadmap that provides a guided tour of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview?WT.mc_id=30daysofswa-61155-cxall) - simplified hosting for modern web apps with automated build-deploy directly from the codebase. 
  * Read the 'Kickoff' section for details.
  * Visit weekly sections for links to resources. 
  * 'Meet The Team' behind this project.

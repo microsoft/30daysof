@@ -13,6 +13,8 @@ This 30Days Skilling content helps you learn to build and ship [Progressive Web 
  * Read the ['Kickoff'](#kickoff) section for more details.
  * Meet The ['Team'](#meet-the-team) behind this project.
  * Explore the linked resources each week to skill up!
+ * Follow [complete series](https://dev.to/nitya/series/16849) & [#pwa](https://dev.to/t/pwa) tag on dev.to
+ * Share your journey [with a dev.to post](https://dev.to/new/pwa)
 :::
 
 ## Kickoff 
