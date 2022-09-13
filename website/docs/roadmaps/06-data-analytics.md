@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: Data Analytics 
+title: 📈 Data Analytics 
 ---
 
 # Roadmap

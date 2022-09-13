@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Fusion - Connectors
+title: 🔌 Fusion - Connectors
 ---
 
 ![Banner Placeholder](./../../static/img/banners/fusion.png) 

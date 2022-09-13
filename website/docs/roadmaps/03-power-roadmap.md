@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Power Platform
+title: 🔋Power Platform
 ---
 
 ![Banner Placeholder](./../../static/img/banners/power-platform.png) 

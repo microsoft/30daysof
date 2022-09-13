@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Data Science
+title: 🔎 Data Science
 ---
 
 ![Banner Placeholder](./../../static/img/banners/yellow-flowers.png) 

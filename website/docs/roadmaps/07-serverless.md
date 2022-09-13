@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-title: Serverless
+title: ⚡️ Serverless
 ---
 
 # Roadmap
@@ -44,7 +44,7 @@ _Posts will be linked here once published._
  * Sep 05 - [Functions for JavaScript Developers](https://azure.github.io/Cloud-Native/blog/05-functions-js)
  * Sep 06 - [Functions for .NET Developers](https://azure.github.io/Cloud-Native/blog/06-functions-dotnet)
  * Sep 07 - [Functions for Python Developers](https://azure.github.io/Cloud-Native/blog/07-functions-python)
- * Sep 08 - Functions + Serverless On Azure
+ * Sep 08 - [Functions + Serverless On Azure](https://azure.github.io/Cloud-Native/blog/08-functions-azure)
 :::
 
 ---

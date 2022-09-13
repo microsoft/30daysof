@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Progressive Web Apps
+title: 📲 Progressive Web Apps
 ---
 
 # Roadmap
