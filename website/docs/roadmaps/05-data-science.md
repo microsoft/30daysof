@@ -3,7 +3,7 @@ sidebar_position: 5
 title: 🔎 Data Science
 ---
 
-![Banner Placeholder](./../../static/img/banners/yellow-flowers.png) 
+![Banner Placeholder](./../../static/img/banners/data-science.png) 
 
 # Roadmap
 
@@ -44,7 +44,7 @@ Data Science is an intersection of domain knowledge, technical expertise, and st
 * Data Science in the Cloud
 :::
 
-## Week 3: Getting Satrted in Machine Learning
+## Week 3: Getting Started in Machine Learning
 Machine learning is often the foundation for an AI system and is the way we "teach" a computer model to make predictions and draw conclusions from data. It automates the process of pattern-discovery by finding meaningful insights from real-world or generated data.
 
 :::info WEEK 3 RESOURCES

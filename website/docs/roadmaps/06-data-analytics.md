@@ -81,7 +81,7 @@ The video guide below can help with the setup process. As explained there, **the
  * **Day 09** - Getting Familiar and working with Power Query | [**Resource**](https://techcommunity.microsoft.com/t5/educator-developer-blog/use-power-query-to-clean-transform-and-clean-data-in-power-bi/ba-p/3531125)
  * **Day 10** - Data Modelling and Data Analysis Expression (DAX)  | [**Resource**](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-data-modelling-in-power-bi/ba-p/3537583)
  * **Day 11** - DAX Application  | [**Resource**](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-data-analysis-expression-dax-for-beginners/ba-p/3542815)
- * **Day 12** - Page Navigation, Bookmarking & Tooltips in Power BI Desktop | [**Resource - TBA**] 
+ * **Day 12** - Page Navigation, Bookmarking  Tooltips in Power BI Desktop | [**Resource - TBA**] 
  * **Day 13** - Reflect | [**Resource**](https://techcommunity.microsoft.com/t5/educator-developer-blog/introduction-to-power-bi-clean-transform-and-load-data-with/ba-p/3552210)
  * **Day 14** - Catch up with Microsoft Learn Resources | [_Self-Paced_]
 :::
