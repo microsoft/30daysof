@@ -1,6 +1,6 @@
 ---
-slug: fusion-1
-title: Fusion - The Challenge Begins!
+slug: hello-fusion
+title: 🔌 Hello, 30DaysOf Fusion!
 authors: [julia]
 tags: [30DaysOfFusion]
 draft: false

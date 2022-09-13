@@ -1,6 +1,6 @@
 ---
-slug: learning-hub
-title: Hello, 30Days Of Learning!
+slug: hello-learning
+title: 🚀 Hello, 30Days Of Learning!
 authors: [nitya, ola, japhlet, julia, bethany, chris, lee]
 tags: [hello, 30Days]
 draft: false
