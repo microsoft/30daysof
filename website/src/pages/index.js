@@ -17,8 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://azure.github.io/Cloud-Native/blog">
-           Explore #30DaysOfServerless ⚡️
+            to="https://github.com/microsoft/30daysof/discussions">
+           Join Community Discussions 💬
           </Link>
         </div>
         </div>

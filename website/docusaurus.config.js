@@ -86,14 +86,25 @@ const config = {
         },
         items: [    
           { label: '🔌 #Fusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
-          { label: '⚡️ #Serverless', type: 'doc', docId: 'roadmaps/serverless',  },
-          { label: '🔋 #PowerPlatform', type: 'doc', docId: 'roadmaps/power-roadmap',  }, 
+          { label: '⚡️ #Serverless', type: 'doc', docId: 'roadmaps/serverless',  },    
+          {
+            type: 'dropdown',
+            label: 'Self-Paced Learning',
+            position: 'left',
+            items: [             
+              { label: '🔋 Power Platform', type: 'doc', docId: 'roadmaps/pwa',  },  
+              { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/pwa',  }, 
+              { label: '📈 Data Analytics', type: 'doc', docId: 'roadmaps/pwa',  },  
+              { label: '🖥 Static Web Apps', type: 'doc', docId: 'roadmaps/swa',  },  
+              { label: '📲 Progressive Web Apps', type: 'doc', docId: 'roadmaps/pwa',  },   
+            ],
+          },
 
           {to: '/blog', label: 'Blog', position: 'right'},
           {to: '/calendar', label: 'Calendar', position: 'right'},     
           {
             type: 'dropdown',
-            label: 'Learning',
+            label: 'Sitemap',
             position: 'right',
             items: [             
               { label: '1. Roadmaps', type: 'doc', docId: 'roadmaps/pwa',  },      
