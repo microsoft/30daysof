@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Static Web Apps
+title: 🖥 Static Web Apps
 ---
 
 # Roadmap

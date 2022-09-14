@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Fusion - Connectors
+title: 🔌 Fusion - Connectors
 ---
 
 ![Banner Placeholder](./../../static/img/banners/fusion.png) 
@@ -24,11 +24,11 @@ This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you
 ## Week 1: The Challenge Begins!
 
 :::info WEEK 1 SCHEDULE
- * **Sep 12** - Kickoff! Join the [**🔌Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge)
+ * **Sep 12** - Kickoff Meeting! Join the [**🔌Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge)
  * **Sep 13** - _Self Paced Learning_
- * **Sep 14** - **Live Session**: Learn to Build & Publish an API on Azure
+ * **Sep 14** - **Live Session**: Build A Connector Live!
  * **Sep 15** - _Self Paced Learning_
- * **Sep 16** - **Live Session**: Extend an OpenAPI definition for a custom connector
+ * **Sep 16** - **Office Hour**: QnA Session
 :::
 
 ⚡️ **RESOURCES:**
@@ -43,7 +43,7 @@ This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you
 ## Week 2: Let's Build Together
 
 :::info WEEK 2 SCHEDULE
- * **Sep 19** - **Live Session**: Build a Connector
+ * **Sep 19** - **Office Hour**: QnA Session
  * **Sep 20** - _Self Paced Learning_
  * **Sep 21** - _Self Paced Learning_
  * **Sep 22** - **Live Session**: Validate your Connector before submission
@@ -79,7 +79,7 @@ The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChalleng
 ## Week 4: Ready? Steady ..
 
 :::info WEEK 4 SCHEDULE
- * **Oct 03** - _Self Paced Learning_
+ * **Oct 03** - **Office Hour**: QnA Session
  * **Oct 04** - _Self Paced Learning_
  * **Oct 05** - _Self Paced Learning_
  * **Oct 06** - **Live Session**: AMA - All you need to know, to participate!

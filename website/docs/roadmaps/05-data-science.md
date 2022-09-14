@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-title: Data Science
+title: 🔎 Data Science
 ---
 
-![Banner Placeholder](./../../static/img/banners/yellow-flowers.png) 
+![Banner Placeholder](./../../static/img/banners/data-science.png) 
 
 # Roadmap
 
@@ -47,7 +47,7 @@ Data Science is an intersection of domain knowledge, technical expertise, and st
 * [Catch up and reflect with the week's learning.](https://techcommunity.microsoft.com/t5/educator-developer-blog/setting-up-python-for-data-science-environments/ba-p/3557884?WT.mc_id=academic-76398-bethanycheum)
 :::
 
-## Week 3: Getting Satrted in Machine Learning
+## Week 3: Getting Started in Machine Learning
 Machine learning is often the foundation for an AI system and is the way we "teach" a computer model to make predictions and draw conclusions from data. It automates the process of pattern-discovery by finding meaningful insights from real-world or generated data.
 
 :::info WEEK 3 RESOURCES
