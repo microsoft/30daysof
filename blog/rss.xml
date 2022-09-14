@@ -30,6 +30,15 @@
             <category>30DaysOfFusion</category>
         </item>
         <item>
+            <title><![CDATA[🔌 Hello, 30DaysOf Data Analytics!]]></title>
+            <link>https://microsoft.github.io/30daysof/blog/hello-data-analytics</link>
+            <guid>hello-data-analytics</guid>
+            <pubDate>Wed, 14 Sep 2022 14:03:24 GMT</pubDate>
+            <description><![CDATA[Welcome!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome">Welcome!<a class="hash-link" href="#welcome" title="Direct link to heading">​</a></h2>]]></content:encoded>
+            <category>30DaysOfDataAnalytics</category>
+        </item>
+        <item>
             <title><![CDATA[🚀 Hello, 30Days Of Learning!]]></title>
             <link>https://microsoft.github.io/30daysof/blog/hello-learning</link>
             <guid>hello-learning</guid>
