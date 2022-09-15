@@ -33,7 +33,7 @@
             <title><![CDATA[🔌 Build A Connector Live!]]></title>
             <link>https://microsoft.github.io/30daysof/blog/fusion-build-a-connector</link>
             <guid>fusion-build-a-connector</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello Day 3!]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-day-3">Hello Day 3!<a class="hash-link" href="#hello-day-3" title="Direct link to heading">​</a></h2><p>Check out what we tackle today. But before that, here is what you have done so far <em>(You can catch up with the others if you are a step behind ...)</em></p><ol><li>Joined the <a href="https://aka.ms/ConnectorSkillsChallenge" target="_blank" rel="noopener noreferrer">Cloud Skills Challenge</a></li><li>Created a <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/recap-of-day-2-onboarding-session-30days-of-learning-nigeria/ba-p/3490280?WT.mc_id=academic-0000-juliamuiruri" target="_blank" rel="noopener noreferrer">M365 &amp; Power Apps Developer Account</a></li><li>Talked to us on our <a href="https://github.com/microsoft/30daysof/discussions/16" target="_blank" rel="noopener noreferrer">Discussion Forum</a> 😇</li></ol><p><img loading="lazy" alt="Serverless September" src="/30daysof/assets/images/fusion-f731f3ccac8a8ee153416f249d058b46.png" width="1600" height="672" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="day-3-summary">Day 3: Summary<a class="hash-link" href="#day-3-summary" title="Direct link to heading">​</a></h2><p>We have just built a connector from scratch with you today and I'm sure you agree that it's a fun and easy process, right? <br>
 But why are we doing this? </p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="connector-usecase">Connector Usecase<a class="hash-link" href="#connector-usecase" title="Direct link to heading">​</a></h3><hr><p>Team XYZ (a fusion team) comprises of a <strong>Business Manager</strong> (citizen developer building low code solutions on Power Platform), <strong>IT Admin</strong>, <strong>Researcher</strong> and <strong>Pro-Dev</strong>.
@@ -48,7 +48,7 @@ The <strong>Pro-Dev</strong> therefore steps up to fill in the gap by building a
             <title><![CDATA[📈 Hello, 30DaysOf Data Analytics!]]></title>
             <link>https://microsoft.github.io/30daysof/blog/hello-data-analytics</link>
             <guid>hello-data-analytics</guid>
-            <pubDate>Thu, 15 Sep 2022 05:32:48 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2022 05:53:52 GMT</pubDate>
             <description><![CDATA[Welcome!]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome">Welcome!<a class="hash-link" href="#welcome" title="Direct link to heading">​</a></h2>]]></content:encoded>
             <category>30DaysOfDataAnalytics</category>
