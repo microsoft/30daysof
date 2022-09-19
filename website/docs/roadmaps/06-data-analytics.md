@@ -26,7 +26,7 @@ Millions of tons of data are being generated everyday. Businesses want to extrac
 * Improve Customer Experience and Satisfaction
 
 By skilling up on [Microsoft Power BI](https://powerbi.microsoft.com/), you will be able to help organizations like this achieve their goals.
-
+ 
 
 ## Week 1: Explore Analytics
 
