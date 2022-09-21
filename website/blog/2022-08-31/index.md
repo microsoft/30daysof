@@ -44,7 +44,7 @@ So, what does that learning journey look like? Think of it as four stages:
  * **Connect** - the community phase, where you meet & help others on that path.
  * **Share** - the pay-it-forward phase, where you share insights for future travelers.
 
-![Placeholder banner with red flowers](./../../static/img/banners/empty.png)
+![Placeholder banner with red flowers](./../../static/img/banners/learning.png)
 
 ## About The Site
 
