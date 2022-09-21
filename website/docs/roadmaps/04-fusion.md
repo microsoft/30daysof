@@ -21,6 +21,7 @@ Organizations today are embracing ‘fusion development’ to drive digital tran
 
 This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you to contribute in building power platform connectors that will make it possible for low code developers to connect to as many external data sources as they would need.
 
+![Schedule](../roadmaps/img/fusion-progress.png) 
 ## Week 1: The Challenge Begins!
 
 :::info WEEK 1 SCHEDULE
@@ -28,7 +29,7 @@ This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you
  * **Sep 13** - _Self Paced Learning_
  * **Sep 14** - **Live Session**: Build A Connector Live!
  * **Sep 15** - _Self Paced Learning_
- * **Sep 16** - **Office Hour**: QnA Session
+ * **Sep 16** - **Office Hour**: Build and Consume a Connector from a Power App
 :::
 
 ⚡️ **RESOURCES:**
@@ -43,10 +44,10 @@ This #30DaysOfFusion - Microsoft Connector Hackathon Pilot Program, welcomes you
 ## Week 2: Let's Build Together
 
 :::info WEEK 2 SCHEDULE
- * **Sep 19** - **Office Hour**: QnA Session
+ * **Sep 19** - **Office Hour**: Come meet an Independent Publisher
  * **Sep 20** - _Self Paced Learning_
  * **Sep 21** - _Self Paced Learning_
- * **Sep 22** - **Live Session**: Validate your Connector before submission
+ * **Sep 22** - **Live Session**: How to validate your Connector before submission
  * **Sep 23** - _Self Paced Learning_
 
 The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
@@ -65,7 +66,7 @@ The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChalleng
  * **Sep 26** - **Submit Your Connector Proposal**: Find Your Team!
  * **Sep 27** - _Self Paced Learning_
  * **Sep 28** - _Self Paced Learning_
- * **Sep 29** - **Live Session**: Submit your Connector on GitHub
+ * **Sep 29** - **Live Session**: How to submit your Connector on GitHub
  * **Sep 30** - _Self Paced Learning_
 
 The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
@@ -76,28 +77,24 @@ The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChalleng
 * [Data protection in connectors](https://docs.microsoft.com/en-us/connectors/protection?WT.mc_id=academic-73999-juliamuiruri)
 * [Get your connector certified](https://docs.microsoft.com/en-us/connectors/custom-connectors/submit-certification?WT.mc_id=academic-73999-juliamuiruri)
 
-## Week 4: Ready? Steady ..
+## Week 4: Ready? Steady? Go ..
 
 :::info WEEK 4 SCHEDULE
- * **Oct 03** - **Office Hour**: QnA Session
- * **Oct 04** - _Self Paced Learning_
- * **Oct 05** - _Self Paced Learning_
- * **Oct 06** - **Live Session**: AMA - All you need to know, to participate!
+ * **Oct 03** - 🧰 **Hackathon Day 1**
+ * **Oct 04** - 🧰 **Hackathon Day 2**
+ * **Oct 05** - The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
+ * **Oct 06** - The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
  * **Oct 07** - **See you at the Student Summit!** [🎉 _Join us in your Region_](https://lnkd.in/dr2yja8s)
-
-The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
 :::
 
 
-## Week 5: Go! ...
+## Week 5: Wrap up! 
 
-:::info WEEK 4 SCHEDULE
-
- * **Oct 10** - 🧰 **Hackathon Day 1**
- * **Oct 11** - 🧰 **Hackathon Day 2**
- * **Oct 12** - The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
- * **Oct 13** - The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
- * **Oct 14** - 🏆 **Official Close Of Cloud Skills Challenge**
+:::info WEEK 5 SCHEDULE
+The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge) is still on!
+ * **Oct 10 - 13** - Any improvements/updates for your connector?
+ 
+ * **Oct 14** - 🏆 [**Official Close Of Cloud Skills Challenge**](https://aka.ms/ConnectorSkillsChallenge)
 
 :::
 
