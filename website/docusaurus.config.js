@@ -120,7 +120,7 @@ const config = {
               { label: '2. Video Series', type: 'doc', docId: 'video-series/intro',  },
               { label: '3. Curricula', type: 'doc', docId: 'curricula/web', },
               { label: '4. Challenges', type: 'doc', docId: 'challenges/intro', },     
-              { label: '5. Playbook', type: 'doc', docId: 'playbook/intro',  },
+              { label: '5. Workshops', type: 'doc', docId: 'workshops/intro',  },
             ],
           },
           {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Discussion', position: 'right'},
