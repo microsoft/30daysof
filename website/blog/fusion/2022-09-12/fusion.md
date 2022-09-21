@@ -62,12 +62,13 @@ Fusion Teams Empower everyone to do more. A code first developer builds an API, 
 * Participants who opt to improve existing connectors can ONLY improve connectors in the [Independent-Publisher-Connectors](https://github.com/microsoft/PowerPlatformConnectors/tree/dev/independent-publisher-connectors/?WT.mc_id=academic-73999-juliamuiruri) folder in the repository
 
 ### Incentives & awards
-** All participants ** who submit a working connector will receive the [M365 Platform Community - Independent  Publisher 2022 Badge](https://www.credly.com/org/m365pnp/badge/m365-platform-community-independent-publisher-2022) to add to their CV/portfolio
+- ** All participants ** who submit a working connector will receive the [M365 Platform Community - Independent  Publisher 2022 Badge](https://www.credly.com/org/m365pnp/badge/m365-platform-community-independent-publisher-2022) to add to their CV/portfolio
 
-** 5 Cloud Skills Challenge Random Winners ** will be awarded with a special SWAG Pack
+- ** 5 Cloud Skills Challenge Random Winners ** will be awarded with a special SWAG Pack
 
-** The Top 4 Connectors ** will each receive the Hackathon Grand Prize
+- ** The Top 4 Connectors ** will each receive the Hackathon Grand Prize
 
+Read [Next Summary Blog](https://microsoft.github.io/30daysof/blog/fusion-build-a-connector/?WT.mc_id=academic-73999-juliamuiruri)
 :::success READY? LET'S GO! 🎉
 Day 2 >> Self paced learning & discussions!
 :::
