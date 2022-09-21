@@ -1,20 +1,21 @@
 # Start Your Developer Journey
 
+![](./images/landing.png)
+
+Welcome to [#30DaysOfLearning](https://aka.ms/30DaysOf) - a hub with beginner-friendly resources to support your learning journey.
+
+| | | 
+|:---|:---|
+|![Start](./website/static/img/landing/start.svg) |**Start** your learning journey with [Microsoft Learn Cloud Skills Challenges](https://microsoft.github.io/30daysof/docs/challenges/intro)! |
+| ![Explore](./website/static/img/landing/explore.svg)| **Explore** [structured roadmaps](https://microsoft.github.io/30daysof/docs/category/roadmaps), [videos](https://microsoft.github.io/30daysof/docs/video-series/intro) and [curricula](https://microsoft.github.io/30daysof/docs/category/curricula). |
+| ![Connect](./website/static/img/landing/connect.svg)|**Connect** with peers [in forums and events.](https://github.com/microsoft/30daysof/discussions) |
+| ![Share](./website/static/img/landing/share.svg)| **Share** your insights [by contributing articles, projects, and feedback](https://github.com/microsoft/30daysof/issues/new/choose) |
+| | |
+
 [![Deploy to GitHub Pages](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml/badge.svg)](https://github.com/microsoft/30daysof/actions/workflows/deploy-on-push.yml)
 
-> 🚧 Site Under Development 
+---
 
-
-<br/>
-
-
-
-| | Welcome to #30DaysOf Learning!| 
-|:---|:---|
-|![Welcome](images/welcome.png) |Get guidance to jumpstart your learning journey with [Microsoft Learn Cloud Skills Challenges](https://microsoft.github.io/30daysof/docs/challenges/intro)! |
-| ![Guide](images/Guide.png)| Explore [structured roadmaps](https://microsoft.github.io/30daysof/docs/category/roadmaps), [videos](https://microsoft.github.io/30daysof/docs/video-series/intro) and [curricula](https://microsoft.github.io/30daysof/docs/category/curricula). |
-| ![Connect](images/conect.png)|[Interact with peers in forums and events.](https://github.com/microsoft/30daysof/discussions) |
-| | |
 
 ## Contributing
 
