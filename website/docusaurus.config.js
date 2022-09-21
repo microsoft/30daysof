@@ -187,7 +187,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      image: 'img/logo.png',
+      image: 'https://microsoft.github.io/30daysof/assets/images/learning-be3a813ae57f95cb38baa7076c384638.png',
 
       metadata: [
         {
@@ -204,7 +204,7 @@ const config = {
         },
         {
           name: 'twitter:image', 
-          content: 'img/logo.svg'
+          content: 'https://microsoft.github.io/30daysof/assets/images/learning-be3a813ae57f95cb38baa7076c384638.png'
         },
         {
           name: 'twitter:card', 
