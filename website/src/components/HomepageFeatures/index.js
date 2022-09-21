@@ -8,7 +8,7 @@ const JourneyList = [
   { 
     title: 'Start',
     imgpath: 'img/landing/start.svg',
-    link: "/blog",
+    link: "blog",
     description: (
       <>
        Get onboarding help to jumpstart your journey!
@@ -18,7 +18,7 @@ const JourneyList = [
   { 
     title: 'Explore',
     imgpath: 'img/landing/explore.svg',
-    link: "/docs/roadmaps/pwa",
+    link: "docs/roadmaps/pwa",
     description: (
       <>
        Browse Roadmaps. Plan out #30DaysOf learning!
@@ -147,6 +147,7 @@ export default function HomepageFeatures() {
             <Feature key={idx} {...props} />
           ))}
         </div>
+        <hr/>
         <br/>
         <div className="row">
           {RoadmapList.map((props, idx) => (
