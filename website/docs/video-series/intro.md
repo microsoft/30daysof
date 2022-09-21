@@ -8,6 +8,7 @@ The ["For Beginners" Series](https://docs.microsoft.com/en-us/shows/browse?show_
 
 
 ## 2022
+ * [Full Stack App with Azure SQL & Prisma](https://learn.microsoft.com/en-us/shows/beginners-series-to-learn-a-full-stack-application-with-azure-sql-prisma/) - Sep 2022
  * [For Beginners: .NET MAUI](https://docs.microsoft.com/en-us/shows/dotnet-maui-for-beginners/) - Jun 2022
  * [For Beginners: Java](https://docs.microsoft.com/en-us/shows/java-for-beginners/) - Apr 2022
  * [Tips & Tricks: Azure Static Web Apps](https://docs.microsoft.com/en-us/shows/azure-tips-and-tricks-static-web-apps/) - May 2022
