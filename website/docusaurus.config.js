@@ -86,15 +86,24 @@ const config = {
         },
         items: [    
           { label: '🔌 #Fusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
-          { label: '⚡️ #Serverless', type: 'doc', docId: 'roadmaps/serverless',  },    
+          { label: '⚡️ #Serverless', type: 'doc', docId: 'roadmaps/serverless',  },   
           {
             type: 'dropdown',
-            label: 'Self-Paced Learning',
+            label: 'Upcoming',
+            position: 'left',
+            items: [   
+              { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/data-science',  }, 
+              { label: '📲 Microsoft Graph', type: 'doc', docId: 'roadmaps/microsoft-graph',  },   
+            ],
+          },   
+          {
+            type: 'dropdown',
+            label: 'Self-Paced',
             position: 'left',
             items: [             
               { label: '🔋 Power Platform', type: 'doc', docId: 'roadmaps/pwa',  },  
               { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/pwa',  }, 
-              { label: '📈 Data Analytics', type: 'doc', docId: 'roadmaps/pwa',  },  
+              { label: '📈 Data Analytics', type: 'doc', docId: 'roadmaps/data-analytics',  },  
               { label: '🖥 Static Web Apps', type: 'doc', docId: 'roadmaps/swa',  },  
               { label: '📲 Progressive Web Apps', type: 'doc', docId: 'roadmaps/pwa',  },   
             ],
