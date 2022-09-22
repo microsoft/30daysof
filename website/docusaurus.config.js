@@ -112,7 +112,7 @@ const config = {
             label: 'Self-Paced',
             position: 'left',
             items: [             
-              { label: '🔋 Power Platform', type: 'doc', docId: 'roadmaps/pwa',  },   
+              { label: '🔋 Power Platform', type: 'doc', docId: 'roadmaps/power-roadmap',  },   
               { label: '📈 Data Analytics', type: 'doc', docId: 'roadmaps/data-analytics',  },  
               { label: '🖥 Static Web Apps', type: 'doc', docId: 'roadmaps/swa',  },  
               { label: '📲 Progressive Web Apps', type: 'doc', docId: 'roadmaps/pwa',  },   
