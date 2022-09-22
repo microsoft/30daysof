@@ -104,7 +104,7 @@ const config = {
             position: 'left',
             items: [   
               { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/data-science',  }, 
-              { label: '📲 Microsoft Graph', type: 'doc', docId: 'roadmaps/microsoft-graph',  },   
+              { label: '🔗 Microsoft Graph', type: 'doc', docId: 'roadmaps/microsoft-graph',  },   
             ],
           },   
           {
