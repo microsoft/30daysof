@@ -3,9 +3,9 @@ sidebar_position: 8
 title: 🔗 Microsoft Graph
 ---
 
-![Banner Placeholder](./../../static/img/banners/empty.png) 
+![Banner Placeholder](./../../static/img/coming-soon.png)
 
-# Roadmap
+```# Roadmap
 
 :::success #30DaysOf - Microsoft Graph
 This 30Days Skilling content is a gamified, learning experience for JavaScript developers to compete in building apps with Microsoft Graph based on the **Top Microsoft Graph Scenarios** _[ADD LINK]_. 
@@ -97,4 +97,4 @@ This week, we try out.
 ## Meet The Team
 
 Check back to learn more about the team behind this initiative!
-
+```
