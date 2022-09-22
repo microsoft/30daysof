@@ -11,7 +11,7 @@ const JourneyList = [
     link: "blog",
     description: (
       <>
-       Get onboarding help to jumpstart your journey!
+       Get Started. Onboarding help sets you up for success!
       </>
     ),
   },
@@ -21,7 +21,7 @@ const JourneyList = [
     link: "docs/roadmaps/pwa",
     description: (
       <>
-       Browse Roadmaps. Plan out #30DaysOf learning!
+       Browse Resources. Plan out your #30DaysOf learning!
       </>
     ),
   },
@@ -41,7 +41,7 @@ const JourneyList = [
     link: "https://github.com/microsoft/30daysof/issues/new/choose",
     description: (
       <>
-       Contribute Back. Share your projects, learnings and time!
+       Help Others. Contribute your insights in projects, articles.
       </>
     ),
   },
@@ -130,7 +130,7 @@ function Feature({imgpath, title, description, link}) {
         </div>
       </a>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <a href={link}><h3>{title}</h3></a>
         <p>{description}</p>
       </div>
     </div>

@@ -1,11 +1,11 @@
 +---
-sidebar_position: 1
-title: Introductory
+sidebar_position: 2
+title: Intermediate 
 ---
 
 # Workshops
 
-This section is for 100-level workshops that are beginner-friendly and provide coverage of introductory concepts and tooling.
+This section is for 200-level workshops that build on introductory workshops to build best practices with advanced used cases and integrations.
 
 ---
 
