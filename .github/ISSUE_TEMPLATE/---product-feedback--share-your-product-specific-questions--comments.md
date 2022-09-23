@@ -2,16 +2,28 @@
 name: "⁉️ Product Feedback: Share your Product-specific questions, comments"
 about: Use this to provide feedback on a product (tools, services, technology)
 title: "[PRODUCT FEEDBACK] "
-labels: 30-feedback
-assignees: ''
+labels: 30-feedback, product-feedback
+assignees: nitya, softchris
 
 ---
 
 ## Submitted By
-(your name)
+(your name -  preferably GitHub profile name)
+
+## Your Role
+> What is your role in this learning context?
+> - Are you a student
+> - career changer
+> -  professional developer?
+
+---
 
 ## For Product
-(what Microsoft service, technology or tool do you have feedback on?)
+> What do you have feedback on?
+>  - A Microsoft Service
+>  - A Microsoft Tool
+>  - A Technology Topic
+Specify a name and _share a link to the learning resource you were using_ 
 
 ---
 
@@ -28,6 +40,7 @@ assignees: ''
   - When I tried doing `xyz`
   - I got this error message: `error message here`
   - To reproduce the error, take these steps: `describe steps you took`
+  - (Optional) Take and share a screenshot if possible
 * `Example 2: Feature request`: 
   - I want to `use case you are implementing`
   - But this product does not currently have `feature you want`
