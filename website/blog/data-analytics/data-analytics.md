@@ -3,7 +3,7 @@ slug: hello-data-analytics
 title: 📈 Hello, 30DaysOf Data Analytics!
 authors: [ola]
 tags: [30DaysOfDataAnalytics]
-draft: true
+draft: false
 ---
 
 
@@ -52,3 +52,6 @@ The video guide below can help with the setup process. As explained there, **the
 <iframe width="750" height="500" src="https://www.youtube.com/embed/9-EPFFmdJ-Y" title="30 Days of Learning - How to Setup Microsoft 365 and Power Apps Developer Account" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
+### Feedback
+Do you have any issue using any of the Microsoft tools and technologies taught in this series? follow the steps below to pass your feedback and we will act on it.  
