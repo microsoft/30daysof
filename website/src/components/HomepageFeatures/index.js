@@ -81,7 +81,7 @@ const RoadmapList = [
   { 
     title: 'Power Platform',
     imgpath: 'img/roadmaps/power-platform.png',
-    link: "docs/roadmaps/power-platform",
+    link: "docs/roadmaps/power-roadmap",
     description: (
       <>
        Use low-code components to build apps, automate processes and build bots!
