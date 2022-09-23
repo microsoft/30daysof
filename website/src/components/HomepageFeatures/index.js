@@ -18,7 +18,7 @@ const JourneyList = [
   { 
     title: 'Explore',
     imgpath: 'img/landing/explore.svg',
-    link: "docs/roadmaps/pwa",
+    link: "docs/category/roadmaps",
     description: (
       <>
        Browse Resources. Plan out your #30DaysOf learning!
