@@ -1,0 +1,13 @@
+{
+    "label": "Workshops",
+    "position": 5,
+    "link": {
+      "type": "generated-index",        
+      "title": "Hands-on Workshops",
+      "slug": "/category/workshops",
+      "keywords": ["workshops","beginners"],
+      "image": "/img/landing-guide.svg",
+      "description": "Workshops for hands-on learning by doing."
+    }
+  }
+  

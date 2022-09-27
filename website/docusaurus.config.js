@@ -78,23 +78,42 @@ const config = {
         },
       },
 
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
+
       navbar: {
         title: '#30DaysOf',
         logo: {
           alt: '30DaysOf Logo',
           src: 'img/logo.svg',
+          target: '_self',
+          width: 32,
+          height: 32,
+          //style: {border: 'dotted white'},
         },
+        style: 'primary',
         items: [    
           { label: '🔌 #Fusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
-          { label: '⚡️ #Serverless', type: 'doc', docId: 'roadmaps/serverless',  },    
+          { label: '⚡️ #Serverless', type: 'doc', docId: 'roadmaps/serverless',  },   
           {
             type: 'dropdown',
-            label: 'Self-Paced Learning',
+            label: 'Upcoming',
+            position: 'left',
+            items: [   
+              { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/data-science',  }, 
+              { label: '🔗 Microsoft Graph', type: 'doc', docId: 'roadmaps/microsoft-graph',  },   
+            ],
+          },   
+          {
+            type: 'dropdown',
+            label: 'Self-Paced',
             position: 'left',
             items: [             
-              { label: '🔋 Power Platform', type: 'doc', docId: 'roadmaps/pwa',  },  
-              { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/pwa',  }, 
-              { label: '📈 Data Analytics', type: 'doc', docId: 'roadmaps/pwa',  },  
+              { label: '🔋 Power Platform', type: 'doc', docId: 'roadmaps/power-roadmap',  },   
+              { label: '📈 Data Analytics', type: 'doc', docId: 'roadmaps/data-analytics',  },  
               { label: '🖥 Static Web Apps', type: 'doc', docId: 'roadmaps/swa',  },  
               { label: '📲 Progressive Web Apps', type: 'doc', docId: 'roadmaps/pwa',  },   
             ],
@@ -111,10 +130,14 @@ const config = {
               { label: '2. Video Series', type: 'doc', docId: 'video-series/intro',  },
               { label: '3. Curricula', type: 'doc', docId: 'curricula/web', },
               { label: '4. Challenges', type: 'doc', docId: 'challenges/intro', },     
-              { label: '5. Playbook', type: 'doc', docId: 'playbook/intro',  },
+              { label: '5. Workshops', type: 'doc', docId: 'workshops/intro',  },
             ],
           },
-          {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Discussion', position: 'right'},
+          {
+            type: 'html',
+            position: 'right',
+            value: '<button><a href="https://github.com/microsoft/30daysof/discussions"> Community Forum </a></button>',
+          },
           {
             href: 'https://github.com/microsoft/30DaysOf',
             position: 'right',
@@ -164,7 +187,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      image: 'img/logo.png',
+      image: 'https://microsoft.github.io/30daysof/assets/images/learning-be3a813ae57f95cb38baa7076c384638.png',
 
       metadata: [
         {
@@ -181,7 +204,7 @@ const config = {
         },
         {
           name: 'twitter:image', 
-          content: 'img/logo.svg'
+          content: 'https://microsoft.github.io/30daysof/assets/images/learning-be3a813ae57f95cb38baa7076c384638.png'
         },
         {
           name: 'twitter:card', 
@@ -202,8 +225,8 @@ const config = {
         id: 'Kickstart #30DaysOfLearning!',
         content:
           ' Join the <a href="https://aka.ms/ConnectorSkillsChallenge"><b>Connector Cloud Skills Challenge</b></a> | <b>Give us a star on <a href="https://github.com/microsoft/30DaysOf"><b>GitHub</b></a> 🙏🏽',
-        backgroundColor: '#4f2e85',
-        textColor: '#ffffff',
+        backgroundColor: '#ffffff',
+        textColor: '#000000',
         isCloseable: false,
       },
 

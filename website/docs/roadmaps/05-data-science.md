@@ -72,8 +72,8 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 * Build an end to end Data Science project: recommender system!
 :::
 
-## Capstone Project: Buidling a recommender System
-::: RECOMMENDER SYSTEM
+## Capstone Project: Building a recommender System
+:::tip IDEA: RECOMMENDER SYSTEM
 * Data: Netflix or any other streaming platform
 * Where to find the data: [30 Days of Learning Netflix Data](https://aka.ms/30DL-NetflixData )
 * Need more resources to upskill: [Find the resources here](https://aka.ms/30DL-RecommenderSys)

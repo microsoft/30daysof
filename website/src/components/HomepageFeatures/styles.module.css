@@ -6,6 +6,9 @@
 }
 
 .featureSvg {
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 150px;
+  background: #ffffff;
+  border-radius: 50px;
+  padding: 10px;
 }
