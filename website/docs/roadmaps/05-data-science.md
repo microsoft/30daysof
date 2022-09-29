@@ -52,11 +52,11 @@ Machine learning is often the foundation for an AI system and is the way we "tea
 
 :::info WEEK 3 RESOURCES
 * [Introduction to Machine Learning](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/README)
-* [Getting started with building regression models](https://aka.ms/30DL-regression) - [Lesson Resources](https://aka.ms/30DL-RegressionRe)
+* Building a product pricing model - [Lesson Resources](https://www.kaggle.com/datasets/datafiniti/electronic-products-prices )
 * [Building linear, logistic and polinomial models](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/3-Linear/README)
 * [Deploy your Machine Learning Model using Flask Framework](https://aka.ms/30DL-deploymodels) - [Lesson Dataset](https://aka.ms/30DL-ufodata)
-* [Create a regression model with Azure Machine Learning](https://docs.microsoft.com/en-us/training/modules/use-automated-machine-learning/?WT.mc_id=academic-76398-bethanycheum)
-* [Building classification models](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README)
+* [Building a Fraud Detection Model](https://docs.microsoft.com/en-us/training/modules/use-automated-machine-learning/?WT.mc_id=academic-76398-bethanycheum)
+* [Building classification models](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README) - [Lesson Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTest.csv )
 * [Catch up and reflect with the week's learning.](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-science-and-machine-learning-using-regression-models/ba-p/3565558?WT.mc_id=academic-76398-bethanycheum)
 :::
 
@@ -65,10 +65,9 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 
 :::info WEEK 4 RESOURCES
 * [Unsupervised machine learning: clustering](https://aka.ms/30DL-Clustering)
-* [Time series forecasting with ARIMA](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/README)
-* [Learn the basics of Natural Language processing](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/README) - [Lesson Dataset](https://aka.ms/30DL-NLPData)
-* [Build a simple bot with Natural Language processing](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/1-Introduction-to-NLP/README)
+* [Building a Customer Segmentation Model.](https://www.kaggle.com/datasets/vetrirah/customer/download?datasetVersionNumber=1)
 * [Deploying computer vision models with Custom Vision AI]( https://aka.ms/30DL-MLSumProject)
+* Curating your Data Science Portfolio 
 * Build an end to end Data Science project: recommender system!
 :::
 
