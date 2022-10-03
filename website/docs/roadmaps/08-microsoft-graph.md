@@ -63,7 +63,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
   * Agenda for the session:
     * Materials for the week
     * Take a break reminder app demo
-* **Nov 15** - Practice: Take a break reminder app tutorial [TUTORIAL LINK HERE](tutoriallink)
+* **Nov 15** - Practice: Take a break reminder app tutorial 
 * **Nov 16** - Practice: [Build seamless automations to boost productivity with Microsoft Graph, Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
 * **Nov 17** - Submit your project proposal with Microsoft Graph: Find Your Team Insert Form Link
 * **Nov 18** - **Live Reactor Session**: Ask the experts – Office hours to brainstorm capstone projects
