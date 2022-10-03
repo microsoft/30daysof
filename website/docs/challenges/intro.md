@@ -16,6 +16,7 @@ Cloud Skills Challenges help you skill up on relevant technology topics in a fun
 
 | #30DaysOfLearning | Description | Schedule | Collection |
 |:---|:---|:---| :---| 
+| [Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science/) | This program teaches you to to work with real life data to create Machine Learning models both on Azure and in Python. | Oct 17 - <br/> Nov 17  | [30 Days of Data Science](https://learn.microsoft.com/en-us/training/challenges?id=75cb74c9-2fa0-4ec0-93cd-0a696314c362)|
 | [Serverless on Azure](https://azure.github.com/Cloud-Native) | This program teaches you to build scalable solutions using serverless architectures and technologies like Azure Functions, Azure Container Apps and more. | Sep 1 - <br/> Sep 30  | [Serverless On Azure](https://docs.microsoft.com/en-us/users/nityan/collections/z2xwsn5wremxw4)|
 | [Power Platform Connectors](https://docs.microsoft.com/en-us/connectors/connectors?WT.mc_id=academic-73999-juliamuiruri) | The Microsoft Connector Hackathon provides students with a gamified, learning experience for fusion developers to compete in building custom connectors for the power platform. This challenge will expose you to skills you need to start your own Independent Publisher journey.. | Sep 12 - <br/> Oct 10  | [Microsoft Connector Hackathon Program Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=c45512ae-9632-405f-8dde-2c89797c7061%2F%3FWT.mc_id%3Dacademic-73999-juliamuiruri)|
 

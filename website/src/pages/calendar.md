@@ -8,7 +8,7 @@ Check out the list of learning journeys you can participate in live (see: _Upcom
 
 | Date | Topic | Activity |
 |:---|:---|:---|
-| Sep 1 - Sep 31 | [30 Days Of Serverless](https://azure.github.io/Cloud-Native/serverless-september/) | Learn about core Azure services including Azure Functions, Azure Container Apps, Azure Logic Apps & Azure Event Grid - and use them to build serverless solutions on Azure. |
+| Oct 17 - Nov 17 | [30 Days Of Data Science](https://microsoft.github.io/30daysof/docs/roadmaps/data-science/) | This program teaches you to to work with real life data to create Machine Learning models both on Azure and in Python. |
 | Sept 12 - Oct 10| [30 Days of Fusion](https://microsoft.github.io/30daysof/docs/roadmaps/fusion) |Learning about fusion development and building custom connectors for the power platform |
 
 
@@ -25,6 +25,7 @@ Check out the list of learning journeys you can participate in live (see: _Upcom
 |Jun 13 - Jul 12 | [Data Science & Machine Learning](https://aka.ms/30DLDSLandingPage) | 30 days of curriculum-driven lessons covering Python, Data Science and Machine Learning for beginners.|
 | Jun 13 - Jul 12 | [Low-code Development using Power Platform](https://aka.ms/30DLPPLandingPage) | 30 days to learn 4 (of 5) tools from Power Platform - Power Apps, Power Automate, Power Pages & Power Virtual Agents - and connect them to build solutions. |
 | Jul 1 - Jul 31 | [JulyOT - 31 Days Of IOT](https://julyot.dev) | A month of content for beginners, makers and students - covering AI at the edge, embedded development, and certifications. |
+| Sep 1 - Sep 31 | [30 Days Of Serverless](https://azure.github.io/Cloud-Native/serverless-september/) | Learn about core Azure services including Azure Functions, Azure Container Apps, Azure Logic Apps & Azure Event Grid - and use them to build serverless solutions on Azure. |
 | | | |
 
 ---
