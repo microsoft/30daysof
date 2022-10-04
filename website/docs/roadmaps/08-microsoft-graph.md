@@ -3,7 +3,7 @@ sidebar_position: 8
 title: 🦒 Microsoft Graph
 ---
 
-![Banner Placeholder]()
+![Banner Placeholder]
 
 # Roadmap
 
