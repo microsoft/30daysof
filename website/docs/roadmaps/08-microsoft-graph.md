@@ -26,7 +26,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 1 SCHEDULE
 * **Nov 01** - **Live Reactor Session**: Kickoff Meeting! Join the [Microsoft Graph Challenge](https://aka.ms/30DaysOfMSGraph/Challenge)!
-  * Speakers: [Ayca Bas](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Japhlet Nwamu]https://developer.microsoft.com/en-us/advocates/japhlet-nwamu), [Someleze Diko](https://developer.microsoft.com/en-us/advocates/someleze-diko), [Rabeb Othmani](https://www.linkedin.com/in/othmanirabeb/).
+  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Rabeb Othmani](https://www.linkedin.com/in/othmanirabeb/).
   * Agenda for the session:
     * In this first part of this session, we will walk you through the 30 Days of Microsoft Graph Challenge including:
       - Meeting the team
@@ -52,7 +52,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 2 SCHEDULE
 * **Nov 07** - **Live Reactor Session**: Build exciting apps with Microsoft Graph live!
-  * Speakers: [Ayca Bas](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Japhlet Nwamu]https://developer.microsoft.com/en-us/advocates/japhlet-nwamu), [Someleze Diko](https://developer.microsoft.com/en-us/advocates/someleze-diko), [Sebastien Levert](https://www.linkedin.com/in/sebastienlevert/), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/).
+  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Sebastien Levert](https://www.linkedin.com/in/sebastienlevert/), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/).
   * Agenda for the session:
     * In this first part of this session, we will update you on the 30 Days of Microsoft Graph Challenge: 
       - learning materials of the week
@@ -73,7 +73,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 3 SCHEDULE
 * **Nov 14** - **Live Reactor Session**: Build the "Take a break reminder" app with Microsoft Graph and Azure Functions.
-  * Speakers: [Ayca Bas](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Japhlet Nwamu]https://developer.microsoft.com/en-us/advocates/japhlet-nwamu), [Someleze Diko](https://developer.microsoft.com/en-us/advocates/someleze-diko), [Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/).
+  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/).
   * Agenda for the session:
     * In this first part of this session, we will update you on the 30 Days of Microsoft Graph Challenge: 
       - learning materials of the week
@@ -84,7 +84,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 * **Nov 16** - Practice: [Build seamless automations to boost productivity with Microsoft Graph, Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
 * **Nov 17** - Submit your project proposal with Microsoft Graph: Find Your Team Insert Form Link
 * **Nov 18** - **Live Reactor Session**: Ask the experts – Office hours to brainstorm capstone projects
-  * Speakers: [Ayca Bas](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Bob German](https://www.linkedin.com/in/bgerman/), [Japhlet Nwamu]https://developer.microsoft.com/en-us/advocates/japhlet-nwamu), [Someleze Diko](https://developer.microsoft.com/en-us/advocates/someleze-diko).
+  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Bob German](https://www.linkedin.com/in/bgerman/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/).
   * Agenda for the session:
     - This session is the office hour of 30 Days of Microsoft Graph Challenge to meet with the Subject Matter Experts of Microsoft Graph. 
     - Join this session to brainstorm about your capstone project ideas or ask your questions to the SMEs to get a guidence.
@@ -96,7 +96,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 4 SCHEDULE
 * **Nov 21** - **Live Reactor Session**: Can Microsoft Graph Do What?! Real-World Scenarios for Your Apps
-  * Speakers: [Ayca Bas](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Japhlet Nwamu]https://developer.microsoft.com/en-us/advocates/japhlet-nwamu), [Someleze Diko](https://developer.microsoft.com/en-us/advocates/someleze-diko), [Dan Wahlin](https://www.linkedin.com/in/danwahlin/).
+  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Dan Wahlin](https://www.linkedin.com/in/danwahlin/).
   * Agenda for the session:
     * In this first part of this session, we will update you on the 30 Days of Microsoft Graph Challenge: 
       - learning materials of the week
@@ -109,7 +109,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 * **Nov 23** - Capstone Project: Ask your questions to the experts on [GitHub discussions](https://aka.ms/30DaysOfMSGraph/GitHub/Discussions)
 * **Nov 24** - Capstone Project: Ask your questions to the experts on [GitHub discussions](https://aka.ms/30DaysOfMSGraph/GitHub/Discussions)
 * **Nov 25** - **Live Reactor Session**: Ask the experts – Office hour
-  * Speakers: [Ayca Bas](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Japhlet Nwamu]https://developer.microsoft.com/en-us/advocates/japhlet-nwamu), [Someleze Diko](https://developer.microsoft.com/en-us/advocates/someleze-diko).
+  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/).
   * Agenda for the session:
     - This session is the office hour of 30 Days of Microsoft Graph Challenge to meet with the Subject Matter Experts of Microsoft Graph. 
     - Join this session to brainstorm about your capstone project ideas or ask your questions to the SMEs to get a guidence.
@@ -121,7 +121,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 5 SCHEDULE 
 * **Nov 28** - **Live Reactor Session**: Meet the Microsoft Graph team!
-  * Speakers: [Ayca Bas](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Japhlet Nwamu]https://developer.microsoft.com/en-us/advocates/japhlet-nwamu), [Someleze Diko](https://developer.microsoft.com/en-us/advocates/someleze-diko), [Kristen Womack](https://www.linkedin.com/in/kristenwomack/).
+  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Kristen Womack](https://www.linkedin.com/in/kristenwomack/).
   * Agenda for the session:
     * In this first part of this session, we will update you on the 30 Days of Microsoft Graph Challenge: 
       - learning materials of the week
@@ -129,7 +129,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
     * The second part of this session, we'll introduce you to the Director of Developer Experience team in Microsoft Graph Product Group, Kristen Womack. She will join us for an interview to share her story and answer your questions.
 * **Nov 29** - Submit your capstone project on the [GitHub Repository](https://aka.ms/30DaysOfMSGraph/GitHub/ProjectSubmission)
 * **Nov 30** - **Live Reactor Session**: Close out - 30 Days of Microsoft Graph Challenge
-  * Speakers: [Ayca Bas](https://developer.microsoft.com/en-us/advocates/ayca-bas), [Japhlet Nwamu]https://developer.microsoft.com/en-us/advocates/japhlet-nwamu), [Someleze Diko](https://developer.microsoft.com/en-us/advocates/someleze-diko)
+  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/)
   * Agenda for the session:
     - The top 3 winners of 30 Days of Microsoft Graph Challenge
     - The process of choosing the best project submitted in the challenge (The best project of the challenge will be announced after the 30 Days of Microsoft Graph)
@@ -140,4 +140,28 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 ## Meet the team!
 
-Check back to learn more about the team behind this initiative!
+The team behind this initiative!
+
+* Microsoft 365 Advocacy
+  * [Ayca Bas](https://www.linkedin.com/in/aycabas/)
+  * [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/)
+  * [Dan Wahlin](https://www.linkedin.com/in/danwahlin/)
+  * [Bob German](https://www.linkedin.com/in/bgerman/)
+  * [Tomomi Imura](https://www.linkedin.com/in/tomomi/)
+
+* Microsoft Graph Developer Experience Team
+  * [Kristen Womack](https://www.linkedin.com/in/kristenwomack/)
+  * [Rabeb Othmani](https://www.linkedin.com/in/othmanirabeb/)
+  * [Sebastien Levert](https://www.linkedin.com/in/sebastienlevert/)
+
+* Next Generation Advocacy
+  * [Lee Stott](https://www.linkedin.com/in/leestott/)
+  * [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/)
+  * [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/)
+
+* JavaScript Advocacy
+  * [Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/)
+
+* Microsoft Learn Student Ambassadors
+
+* MVPs
