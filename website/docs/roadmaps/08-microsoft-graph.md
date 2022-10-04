@@ -3,12 +3,12 @@ sidebar_position: 8
 title: 🦒 Microsoft Graph
 ---
 
-![Banner Placeholder](./../../static/img/coming-soon.png)
+![Banner Placeholder](./../../static/img/)
 
 # Roadmap
 
 :::success #30DaysOf - Microsoft Graph
-30 Days of Microsoft Graph is a gamified learning experience for JavaScript developers to compete in building apps with Microsoft Graph based on the [**Top Microsoft Graph Scenarios**](https://aka.ms/30DaysOfMSGraph/Scenarios), for a chance to win [**prizes**](https://aka.ms/30DaysOfMSGraph).
+This 30days learning program is a gamified learning experience for JavaScript developers to compete in building apps with Microsoft Graph based on the [**Top Microsoft Graph Scenarios**](https://aka.ms/30DaysOfMSGraph/Scenarios), for a chance to win [**prizes**](https://aka.ms/30DaysOfMSGraph). This curriculum is designed by Cloud Advocates at Microsoft.
 
 * Read the ['Kickoff'](#kickoff) section for more details.
 * Meet ['Team'](#meet-the-team) behind this project.
@@ -25,12 +25,7 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 ## Week 1 - The Challenge begins!
 
 :::info WEEK 1 SCHEDULE
-* **Nov 01** - **Live Reactor Session**: Kickoff Meeting! Join the [Microsoft Graph Challenge](https://aka.ms/30DaysOfMSGraph/Challenge)!
-  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Rabeb Othmani](https://www.linkedin.com/in/othmanirabeb/).
-  * Agenda for the session:
-      - Kick off and onboarding
-      - Meet the team
-      - Set up your new Microsoft 365 Developer subscription (watch [this video](https://www.youtube.com/watch?v=DhhpJ1UjbJ0) for help)
+* **Nov 01** - **Live Reactor Session**: Kickoff Meeting! Join the [Microsoft Graph Challenge](https://learn.microsoft.com/en-us/training/challenges?id=b51aab84-2f10-488d-84b9-db393adf99d5?WT.mc_id=academic-76398-japhletnwamu)!
 * **Nov 02** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: What is Graph?](https://docs.microsoft.com/en-us/training/modules/msgraph-intro-overview/)
 * **Nov 03** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: Configure a JavaScript application to retrieve Microsoft 365 data by using Microsoft Graph](https://docs.microsoft.com/en-us/training/modules/msgraph-javascript-app/)
 * **Nov 04** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: Access user photo information by using Microsoft Graph](https://docs.microsoft.com/en-us/training/modules/msgraph-user-photo-information/)
@@ -42,10 +37,6 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 2 SCHEDULE
 * **Nov 07** - **Live Reactor Session**: Build exciting apps with Microsoft Graph live!
-  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Sebastien Levert](https://www.linkedin.com/in/sebastienlevert/), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/).
-  * Agenda for the session:
-    - Materials for the week 
-    - Call Microsoft Graph APIs with JavaScript SDK 
 * **Nov 08** - [Start calling the Microsoft Graph API in under 5 minutes! | Tips & Tricks](https://www.youtube.com/watch?v=f_3wc4UgqTI)
 * **Nov 09** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Show a user's emails in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-show-user-emails/)
 * **Nov 10** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Access a user's calendar events in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-access-user-events/)
@@ -58,16 +49,10 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 3 SCHEDULE
 * **Nov 14** - **Live Reactor Session**: Build the "Take a break reminder" app with Microsoft Graph and Azure Functions.
-  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/), [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/).
-  * Agenda for the session:
-    * In this first part of this session, we will update you on the 30 Days of Microsoft Graph Challenge: 
-      - Materials for the week 
-      - Take a break reminder app demo 
 * **Nov 15** - Practice: [Take a break reminder app tutorial](https://aka.ms/TakeABreakReminder) 
 * **Nov 16** - Practice: [Build seamless automations to boost productivity with Microsoft Graph, Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
 * **Nov 17** - Submit your project proposal with Microsoft Graph: Find Your Team Insert Form Link
 * **Nov 18** - **Live Reactor Session**: Ask the experts – Office hours to brainstorm capstone projects
-  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Bob German](https://www.linkedin.com/in/bgerman/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/).
 :::
 
 ---
@@ -76,15 +61,10 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 4 SCHEDULE
 * **Nov 21** - **Live Reactor Session**: Can Microsoft Graph Do What?! Real-World Scenarios for Your Apps
-  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Dan Wahlin](https://www.linkedin.com/in/danwahlin/).
-  * Agenda for the session:
-    - learning materials of the week
-    - Scenarios with Microsoft Graph
 * **Nov 22** - Get inspired! [All Things Microsoft Cloud: Microsoft 365 and Microsoft Graph](https://www.youtube.com/watch?v=MXq-M6qRffE)
 * **Nov 23** - Capstone Project: Ask your questions to the experts on [GitHub discussions](https://aka.ms/30DaysOfMSGraph/GitHub/Discussions)
 * **Nov 24** - Capstone Project: Ask your questions to the experts on [GitHub discussions](https://aka.ms/30DaysOfMSGraph/GitHub/Discussions)
 * **Nov 25** - **Live Reactor Session**: Ask the experts – Office hour
-  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/).
 :::
 
 ---
@@ -93,16 +73,8 @@ This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph a
 
 :::info WEEK 5 SCHEDULE 
 * **Nov 28** - **Live Reactor Session**: Meet the Microsoft Graph team!
-  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/), [Kristen Womack](https://www.linkedin.com/in/kristenwomack/).
-  * Agenda for the session: 
-      - learning materials of the week
-      - interview with Kristen Womack, Principle Lead of Microsoft Graph Developer Experience Team
 * **Nov 29** - Submit your capstone project on the [GitHub Repository](https://aka.ms/30DaysOfMSGraph/GitHub/ProjectSubmission)
-* **Nov 30** - **Live Reactor Session**: Close out - 30 Days of Microsoft Graph Challenge
-  * Speakers: [Ayca Bas](https://www.linkedin.com/in/aycabas/), [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/), [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/)
-  * Agenda for the session:
-    - Announcing Cloud Skill Challenge Winners 
-    - Date to announce the project Winner 
+* **Nov 30** - **Live Reactor Session**: Close out - 30 Days of Microsoft Graph Challenge 
 :::
 
 ---
