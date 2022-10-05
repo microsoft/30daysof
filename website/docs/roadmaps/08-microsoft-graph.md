@@ -8,7 +8,7 @@ title: 🦒 Microsoft Graph
 # Roadmap
 
 :::success #30DaysOf - Microsoft Graph
-30DaysOf Microsoft Graph is a gamified learning experience for JavaScript developers to compete in building apps with Microsoft Graph based on the [**Top Microsoft Graph Scenarios**](https://aka.ms/30DaysOfMSGraph/Scenarios), for a chance to win [**prizes**](https://aka.ms/30DaysOfMSGraph). This curriculum is designed by Cloud Advocates at Microsoft.
+30DaysOf Microsoft Graph is a gamified learning experience for JavaScript developers to compete in building apps with Microsoft Graph based on the [**Top Microsoft Graph Scenarios**](https://aka.ms/30DaysOfMSGraph/Scenarios), for a chance to win prizes. This curriculum is designed by Cloud Advocates at Microsoft.
 
 * Read the ['Kickoff'](#kickoff) section for more details.
 * Meet ['Team'](#meet-the-team) behind this project.
@@ -28,7 +28,7 @@ The #30DaysOfMSGraph - Microsoft Graph Pilot Learning Program, welcomes you to c
 ## Kickoff
 
 :::info ONBOARDING RESOURCES
-Get started by familiarizing yourself with the [Onboarding Resources](https://aka.ms/30DaysOfMSGraph) for this #30DaysOfMSGraph challenge.
+Get started by familiarizing yourself with the [Onboarding Resources](https://aka.ms/30DaysOfMSGraph/Onboarding) for this #30DaysOfMSGraph challenge.
 :::
 
 ---
@@ -36,10 +36,10 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 ## Week 1 - The Challenge begins!
 
 :::info WEEK 1 SCHEDULE
-* **Nov 01** - **Live Reactor Session**: Kickoff Meeting! Join the [Microsoft Graph Challenge](https://learn.microsoft.com/en-us/training/challenges?id=b51aab84-2f10-488d-84b9-db393adf99d5?WT.mc_id=academic-76398-japhletnwamu)!
-* **Nov 02** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: What is Graph?](https://docs.microsoft.com/en-us/training/modules/msgraph-intro-overview/)
-* **Nov 03** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: Configure a JavaScript application to retrieve Microsoft 365 data by using Microsoft Graph](https://docs.microsoft.com/en-us/training/modules/msgraph-javascript-app/)
-* **Nov 04** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: Access user photo information by using Microsoft Graph](https://docs.microsoft.com/en-us/training/modules/msgraph-user-photo-information/)
+* **Nov 01** - **Live Reactor Session**: Kickoff Meeting! Join the [30 Days of Microsoft Graph Challenge](https://learn.microsoft.com/en-us/training/challenges?id=b51aab84-2f10-488d-84b9-db393adf99d5?WT.mc_id=academic-76398-japhletnwamu)!
+* **Nov 02** - Work on the Microsoft Graph Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: What is Graph?](https://docs.microsoft.com/en-us/training/modules/msgraph-intro-overview/) | Video instructions of the Learn Path: [Microsoft Graph Fundamentals for Beginners](https://learn.microsoft.com/en-us/shows/beginners-series-to-microsoft-graph/)
+* **Nov 03** - Work on the Microsoft Graph Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: Configure a JavaScript application to retrieve Microsoft 365 data by using Microsoft Graph](https://docs.microsoft.com/en-us/training/modules/msgraph-javascript-app/) | Video instructions of the Learn Path: [Microsoft Graph Fundamentals for Beginners](https://learn.microsoft.com/en-us/shows/beginners-series-to-microsoft-graph/)
+* **Nov 04** - Work on the Microsoft Graph Challenge: [Learn Path: Microsoft Graph Fundamentals | Module: Access user photo information by using Microsoft Graph](https://docs.microsoft.com/en-us/training/modules/msgraph-user-photo-information/) | Video instructions of the Learn Path: [Microsoft Graph Fundamentals for Beginners](https://learn.microsoft.com/en-us/shows/beginners-series-to-microsoft-graph/)
 :::
 
 ---
@@ -49,9 +49,9 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 :::info WEEK 2 SCHEDULE
 * **Nov 07** - **Live Reactor Session**: Build exciting apps with Microsoft Graph live!
 * **Nov 08** - [Start calling the Microsoft Graph API in under 5 minutes! | Tips & Tricks](https://www.youtube.com/watch?v=f_3wc4UgqTI)
-* **Nov 09** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Show a user's emails in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-show-user-emails/)
-* **Nov 10** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Access a user's calendar events in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-access-user-events/)
-* **Nov 11** - Work on the Microsoft Graph Skills Challenge: [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Download and upload files in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-manage-files/)
+* **Nov 09** - Work on the Microsoft Graph Challenge: [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Show a user's emails in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-show-user-emails/)
+* **Nov 10** - Work on the Microsoft Graph Challenge: [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Access a user's calendar events in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-access-user-events/)
+* **Nov 11** - Work on the Microsoft Graph Challenge: [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Download and upload files in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-manage-files/)
 :::
 
 ---
@@ -62,7 +62,7 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 * **Nov 14** - **Live Reactor Session**: Build the "Take a break reminder" app with Microsoft Graph and Azure Functions.
 * **Nov 15** - Practice: [Take a break reminder app tutorial](https://aka.ms/TakeABreakReminder) 
 * **Nov 16** - Practice: [Build seamless automations to boost productivity with Microsoft Graph, Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
-* **Nov 17** - Submit your project proposal with Microsoft Graph: Find Your Team Insert Form Link
+* **Nov 17** - Submit your project proposal with Microsoft Graph: [Project Proposal Submission](https://aka.ms/30DaysOfMSGraph/Scenarios).
 * **Nov 18** - **Live Reactor Session**: Ask the experts – Office hours to brainstorm capstone projects
 :::
 
@@ -84,7 +84,7 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 
 :::info WEEK 5 SCHEDULE 
 * **Nov 28** - **Live Reactor Session**: Meet the Microsoft Graph team!
-* **Nov 29** - Submit your capstone project on the [GitHub Repository](https://aka.ms/30DaysOfMSGraph/GitHub/ProjectSubmission)
+* **Nov 29** - Submit your capstone project with Microsoft Graph: [Capstone Project Submission](https://aka.ms/30DaysOfMSGraph/GitHub/ProjectSubmission)
 * **Nov 30** - **Live Reactor Session**: Close out - 30 Days of Microsoft Graph Challenge 
 :::
 
@@ -92,28 +92,4 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 
 ## Meet the team!
 
-The team behind this initiative!
-
-* Microsoft 365 Advocacy
-  * [Ayca Bas](https://www.linkedin.com/in/aycabas/)
-  * [Waldek Mastykarz](https://www.linkedin.com/in/waldekmastykarz/)
-  * [Dan Wahlin](https://www.linkedin.com/in/danwahlin/)
-  * [Bob German](https://www.linkedin.com/in/bgerman/)
-  * [Tomomi Imura](https://www.linkedin.com/in/tomomi/)
-
-* Microsoft Graph Developer Experience Team
-  * [Kristen Womack](https://www.linkedin.com/in/kristenwomack/)
-  * [Rabeb Othmani](https://www.linkedin.com/in/othmanirabeb/)
-  * [Sebastien Levert](https://www.linkedin.com/in/sebastienlevert/)
-
-* Next Generation Advocacy
-  * [Lee Stott](https://www.linkedin.com/in/leestott/)
-  * [Japhlet Nwamu](https://www.linkedin.com/in/japhletnwamu/)
-  * [Someleze Diko](https://www.linkedin.com/in/someleze-diko-56349a168/)
-
-* JavaScript Advocacy
-  * [Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/)
-
-* Microsoft Learn Student Ambassadors
-
-* MVPs
+![meet the team] 
