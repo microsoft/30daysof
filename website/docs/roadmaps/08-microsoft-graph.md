@@ -8,19 +8,30 @@ title: 🦒 Microsoft Graph
 # Roadmap
 
 :::success #30DaysOf - Microsoft Graph
-This 30days learning program is a gamified learning experience for JavaScript developers to compete in building apps with Microsoft Graph based on the [**Top Microsoft Graph Scenarios**](https://aka.ms/30DaysOfMSGraph/Scenarios), for a chance to win [**prizes**](https://aka.ms/30DaysOfMSGraph). This curriculum is designed by Cloud Advocates at Microsoft.
+30DaysOf Microsoft Graph is a gamified learning experience for JavaScript developers to compete in building apps with Microsoft Graph based on the [**Top Microsoft Graph Scenarios**](https://aka.ms/30DaysOfMSGraph/Scenarios), for a chance to win [**prizes**](https://aka.ms/30DaysOfMSGraph). This curriculum is designed by Cloud Advocates at Microsoft.
 
 * Read the ['Kickoff'](#kickoff) section for more details.
 * Meet ['Team'](#meet-the-team) behind this project.
 * Explore the linked resources each week to skill up!
 :::
 
-## Kickoff
-ONBOARDING RESOURCES
+---
 
+## Introduction 
+
+Everyday millions of people spend their precious time on productivity tools. What if you use data and intelligence behind the Microsoft applications (Microsoft Teams, Outlook, and many other Office apps) to build automations and apps to boost productivity?   
+
+The #30DaysOfMSGraph - Microsoft Graph Pilot Learning Program, welcomes you to contribute to building apps with Microsoft Graph to help developers understand Microsoft Graph with scenario-based applications.
+
+---
+
+## Kickoff
+
+:::info ONBOARDING RESOURCES
 Get started by familiarizing yourself with the [Onboarding Resources](https://aka.ms/30DaysOfMSGraph) for this #30DaysOfMSGraph challenge.
-Everyday millions of people spend their precious time using productivity tools. What if you use the data and intelligence behind Microsoft applications (Microsoft Teams, Outlook, and many other Office apps) to build automations and apps to boost productivity? 
-This #30DaysOfMSGraph challenge enables you to build apps with Microsoft Graph and help developers understand Microsoft Graph with scenario-based applications.
+:::
+
+---
 
 ## Week 1 - The Challenge begins!
 
