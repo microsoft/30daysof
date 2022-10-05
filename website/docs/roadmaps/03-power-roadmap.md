@@ -50,7 +50,6 @@ This #30Days sprint covers Power Apps, Power Automate, Power Virtual Agents & Po
 Ready to begin building with Microsoft's Power Platform? 
 Let's go!
 
-
 ---
 
 ## Week 1: Fundamentals
