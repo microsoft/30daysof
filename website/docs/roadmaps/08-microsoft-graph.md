@@ -92,4 +92,4 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 
 ## Meet the team!
 
-![meet the team](./../../) 
+![meet the team] 
