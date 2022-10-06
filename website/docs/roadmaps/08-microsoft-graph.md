@@ -92,4 +92,5 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 
 ## Meet the team!
 
-![meet the team] 
+![Banner Placeholder](./../../static/img/banners/microsoft-graph-team.jpg)
+
