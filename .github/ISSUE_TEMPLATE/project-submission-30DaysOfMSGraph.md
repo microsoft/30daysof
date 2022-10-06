@@ -1,5 +1,6 @@
 ---
 name: "#30DaysOfMSGraph Project Submission: Share name of your project and GitHub repository link"
+about: Use this to share name of your project and GitHub repository link
 title: "[Microsoft Graph Project Submission]"
 labels: MSGraph Project Submission
 assignees: aycabas, japhletnwamu
