@@ -92,16 +92,4 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 
 ## Meet the team!
 
-<<<<<<< Updated upstream
 ![meet the team] 
-=======
-The team behind this initiative!
-
-* Microsoft Team
-
-![Banner Placeholder](./../../static/img/banners/microsoft-graph-team.jpg)
-
-* Microsoft Learn Student Ambassadors
-
-* MVPs
->>>>>>> Stashed changes
