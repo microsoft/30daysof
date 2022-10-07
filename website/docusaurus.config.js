@@ -257,6 +257,18 @@ const config = {
       }
     ],
   ],
+
+  // --- CONFIG-SCRIPTS: e.g., for adding analytics, cookie banners etc
+  //   Can be added sync or async 
+  //   See: https://docusaurus.io/docs/api/docusaurus-config#scripts
+  scripts: [
+    "https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js",
+  ],
+
+  clientModules: [
+    require.resolve("./static/scripts/wcp-init.js")
+  ]
+
 };
 
 module.exports = config;
