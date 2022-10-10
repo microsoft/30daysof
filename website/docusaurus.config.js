@@ -121,6 +121,7 @@ const config = {
 
           {to: '/blog', label: 'Blog', position: 'right'},
           {to: '/calendar', label: 'Calendar', position: 'right'},     
+          {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Discussions', position: 'right'},     
           {
             type: 'dropdown',
             label: 'Sitemap',
@@ -132,11 +133,6 @@ const config = {
               { label: '4. Challenges', type: 'doc', docId: 'challenges/intro', },     
               { label: '5. Workshops', type: 'doc', docId: 'workshops/intro',  },
             ],
-          },
-          {
-            type: 'html',
-            position: 'right',
-            value: '<button><a href="https://github.com/microsoft/30daysof/discussions"> Community Forum </a></button>',
           },
           {
             href: 'https://github.com/microsoft/30DaysOf',
