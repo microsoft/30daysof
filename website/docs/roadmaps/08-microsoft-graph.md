@@ -31,10 +31,11 @@ The #30DaysOfMSGraph - Microsoft Graph Pilot Learning Program, welcomes you to c
 Get started by familiarizing yourself with the [Onboarding Resources](https://aka.ms/30DaysOfMSGraph/Onboarding) for this #30DaysOfMSGraph challenge. Register to [the 30 Days of Microsoft Graph Challenge](https://aka.ms/30DaysOfMSGraph/Register) 🚀.
 :::
 
----
 
 ![Roadmap](./../../static/img/banners/microsoft-graph-roadmap.jpg)
 
+
+---
 
 ## Week 1 - The Challenge begins!
 
