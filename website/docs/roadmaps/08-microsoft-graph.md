@@ -33,6 +33,9 @@ Get started by familiarizing yourself with the [Onboarding Resources](https://ak
 
 ---
 
+![Roadmap](./../../static/img/banners/microsoft-graph-roadmap.jpg)
+
+
 ## Week 1 - The Challenge begins!
 
 :::info WEEK 1 SCHEDULE
