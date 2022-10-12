@@ -118,6 +118,16 @@ const RoadmapList = [
       </>
     ),
   },
+  { 
+    title: 'Microsoft Graph',
+    imgpath: 'img/roadmaps/microsoft-graph.png',
+    link: "docs/roadmaps/microsoft-graph",
+    description: (
+      <>
+       Build intelligent automations and applications to boost productivity.
+      </>
+    ),
+  },
 
 ];
 
