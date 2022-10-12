@@ -1,6 +1,6 @@
 # Start Your Developer Journey
 
-![](./images/landing.png)
+![Screenshot of banner from landing page](./images/landing.png)
 
 Welcome to [#30DaysOfLearning](https://aka.ms/30DaysOf) - a hub with beginner-friendly resources to support your learning journey. 
 

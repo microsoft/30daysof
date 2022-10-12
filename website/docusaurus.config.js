@@ -104,7 +104,7 @@ const config = {
             position: 'left',
             items: [   
               { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/data-science',  }, 
-              { label: '🔗 Microsoft Graph', type: 'doc', docId: 'roadmaps/microsoft-graph',  },   
+              { label: '🦒 Microsoft Graph', type: 'doc', docId: 'roadmaps/microsoft-graph',  },   
             ],
           },   
           {
@@ -121,6 +121,7 @@ const config = {
 
           {to: '/blog', label: 'Blog', position: 'right'},
           {to: '/calendar', label: 'Calendar', position: 'right'},     
+          {to: 'https://github.com/microsoft/30daysof/discussions', label: 'Discussions', position: 'right'},     
           {
             type: 'dropdown',
             label: 'Sitemap',
@@ -132,11 +133,6 @@ const config = {
               { label: '4. Challenges', type: 'doc', docId: 'challenges/intro', },     
               { label: '5. Workshops', type: 'doc', docId: 'workshops/intro',  },
             ],
-          },
-          {
-            type: 'html',
-            position: 'right',
-            value: '<button><a href="https://github.com/microsoft/30daysof/discussions"> Community Forum </a></button>',
           },
           {
             href: 'https://github.com/microsoft/30DaysOf',
@@ -257,6 +253,18 @@ const config = {
       }
     ],
   ],
+
+  // --- CONFIG-SCRIPTS: e.g., for adding analytics, cookie banners etc
+  //   Can be added sync or async 
+  //   See: https://docusaurus.io/docs/api/docusaurus-config#scripts
+  scripts: [
+    "https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js",
+  ],
+
+  clientModules: [
+    require.resolve("./static/scripts/wcp-init.js")
+  ]
+
 };
 
 module.exports = config;
