@@ -29,6 +29,8 @@ The #30DaysOfMSGraph - Microsoft Graph Pilot Learning Program, welcomes you to c
 
 :::info ONBOARDING RESOURCES
 Get started by familiarizing yourself with the [Onboarding Resources](https://aka.ms/30DaysOfMSGraph/Onboarding) for this #30DaysOfMSGraph challenge. Register to [the 30 Days of Microsoft Graph Challenge](https://aka.ms/30DaysOfMSGraph/Register) 🚀.
+
+Engage with the experts and community on [GitHub Discussions](https://aka.ms/30DaysOfMSGraph/GitHub/Discussions) throughout the challenge, ask your questions, share your comments, help others!
 :::
 
 
