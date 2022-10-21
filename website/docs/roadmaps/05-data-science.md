@@ -11,15 +11,14 @@ title: 🔎 Data Science
 This 30Days Skilling content provides a guided tour of Data Science and Machine Learning in Python and Azure in four themed weeks.
 
  * Read the ['Kickoff'](#kickoff) section for more details.
- * Meet The ['Team'](#meet-the-team) behind this project.
  * Explore the linked resources each week to skill up!
 :::
 
 
 ## Kickoff 
-In the #30DaysOfDataScience we will go from understanding the Python language to working with real life data and finally creating Machine Learning models both on Azure and in Python. The main role is understanding our data and using the knowledge to make decisions such as clustering Nigerian music based on their 'danceability' score, 'acousticness', loudness, 'speechiness', popularity and energy. 
+In the #30DaysOfDataScience we will go from understanding the Python language to working with real life data and finally creating Machine Learning models both on Azure and in Python. The main role is understanding our data and using the knowledge to make decisions such as clustering Nigerian music based on their 'danceability' score, 'acousticness', loudness, 'speechiness', popularity and energy.
 
-Full curriculum can be found [here](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-science-and-machine-learning-curriculum/ba-p/3503610?WT.mc_id=academic-76398-bethanycheum)
+<!-- [Welcome Blog](../../blog/data-science/2022-10-17.md) -->
 
 ## Week 1: Getting Started with Python
 Python is one of the main programming languages used in Data Science. A major advantage of the language is its abundance of libraries which enable you to analyze your data with ease.
@@ -77,3 +76,11 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 * Where to find the data: [30 Days of Learning Netflix Data](https://aka.ms/30DL-NetflixData )
 * Need more resources to upskill: [Find the resources here](https://aka.ms/30DL-RecommenderSys)
 :::
+
+# Live Sessions
+| Date | Time | Session Title | RSVP | Live Link |
+|:---|:---|:---|:---| :---| 
+|18 October | 1pm GMT | Setting up your Local Python Environment | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17357/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DaysofDataScienceLIVE) |
+| 20 October | 1pm GMT | Create your first program with Python | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17358/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session2) |
+|25 October | 1pm GMT | Data Wrangling and Manipulation | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17359/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session3) |
+|27 October | 1pm GMT | Data Visualization | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17376/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session4) |
