@@ -1,6 +1,7 @@
 ---
 name: "Project Submission Issue: Share name of your project and GitHub repository link"
-title: "[#30DaysOf Project Submission]"
+about: use this template to submit your projects for the 30 days of Data Science
+title: "[#30DaysOf Data Science Project Submission]"
 labels: Data Science Project Submission
 assignees: bethanyjep
 
