@@ -96,14 +96,13 @@ const config = {
         },
         style: 'primary',
         items: [    
-          { label: '🔌 #Fusion', type: 'doc', docId: 'roadmaps/fusion',  }, 
-          { label: '⚡️ #Serverless', type: 'doc', docId: 'roadmaps/serverless',  },   
+          { label: '🔌 #Fusion', type: 'doc', docId: 'roadmaps/fusion',  },  
+          { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/data-science',  },  
           {
             type: 'dropdown',
             label: 'Upcoming',
             position: 'left',
-            items: [   
-              { label: '🔎 Data Science', type: 'doc', docId: 'roadmaps/data-science',  }, 
+            items: [    
               { label: '🦒 Microsoft Graph', type: 'doc', docId: 'roadmaps/microsoft-graph',  },   
             ],
           },   
@@ -111,7 +110,8 @@ const config = {
             type: 'dropdown',
             label: 'Self-Paced',
             position: 'left',
-            items: [             
+            items: [   
+              { label: '⚡️ #Serverless', type: 'doc', docId: 'roadmaps/serverless',  },          
               { label: '🔋 Power Platform', type: 'doc', docId: 'roadmaps/power-roadmap',  },   
               { label: '📈 Data Analytics', type: 'doc', docId: 'roadmaps/data-analytics',  },  
               { label: '🖥 Static Web Apps', type: 'doc', docId: 'roadmaps/swa',  },  
