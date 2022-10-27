@@ -18,7 +18,7 @@ const JourneyList = [
   { 
     title: 'Explore',
     imgpath: 'img/landing/explore.svg',
-    link: "docs/roadmaps/pwa",
+    link: "docs/category/roadmaps",
     description: (
       <>
        Browse Resources. Plan out your #30DaysOf learning!
@@ -51,7 +51,7 @@ const RoadmapList = [
   { 
     title: 'Data Science ✨',
     imgpath: 'img/roadmaps/data-science.png',
-    link: "/docs/roadmaps/data-science",
+    link: "docs/roadmaps/data-science",
     description: (
       <>
        Explore data science and machine learning with Python, on Azure - with projects!
@@ -61,7 +61,7 @@ const RoadmapList = [
   { 
     title: 'Fusion ✨',
     imgpath: 'img/roadmaps/fusion.png',
-    link: "/docs/roadmaps/fusion",
+    link: "docs/roadmaps/fusion",
     description: (
       <>
        Extend low-code development with Power Platform by building custom connectors.
@@ -71,7 +71,7 @@ const RoadmapList = [
   { 
     title: 'Serverless ✨',
     imgpath: 'img/roadmaps/serverless.png',
-    link: "/docs/roadmaps/serverless",
+    link: "docs/roadmaps/serverless",
     description: (
       <>
        Build your confidence in data analysis using Power BI and data storytelling.
@@ -81,7 +81,7 @@ const RoadmapList = [
   { 
     title: 'Power Platform',
     imgpath: 'img/roadmaps/power-platform.png',
-    link: "/docs/roadmaps/power-platform",
+    link: "docs/roadmaps/power-roadmap",
     description: (
       <>
        Use low-code components to build apps, automate processes and build bots!
@@ -91,7 +91,7 @@ const RoadmapList = [
   { 
     title: 'Data Analytics',
     imgpath: 'img/roadmaps/data-analytics.png',
-    link: "/docs/roadmaps/data-analytics",
+    link: "docs/roadmaps/data-analytics",
     description: (
       <>
        Build your confidence in data analysis using Power BI and data storytelling.
@@ -101,7 +101,7 @@ const RoadmapList = [
   { 
     title: 'Static Web Apps',
     imgpath: 'img/roadmaps/swa.png',
-    link: "/docs/roadmaps/swa",
+    link: "docs/roadmaps/swa",
     description: (
       <>
        Build and deploy modern web apps automatically - directly from your codebase.
@@ -111,10 +111,20 @@ const RoadmapList = [
   { 
     title: 'Progressive Web Apps',
     imgpath: 'img/roadmaps/pwa.png',
-    link: "/docs/roadmaps/pwa",
+    link: "docs/roadmaps/pwa",
     description: (
       <>
        Build modern web apps that are installable, reliable, and discoverable in stores.
+      </>
+    ),
+  },
+  { 
+    title: 'Microsoft Graph',
+    imgpath: 'img/roadmaps/microsoft-graph.png',
+    link: "docs/roadmaps/microsoft-graph",
+    description: (
+      <>
+       Build intelligent automations and applications to boost productivity.
       </>
     ),
   },

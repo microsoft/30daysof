@@ -47,11 +47,8 @@ This #30Days sprint covers Power Apps, Power Automate, Power Virtual Agents & Po
  * Explore Power BI with the [**Data Analytics Roadmap**](./06-data-analytics.md).
  * Explore Data Connectors with the [**Fusion Roadmap**](./04-fusion.md)
 
-
-
 Ready to begin building with Microsoft's Power Platform? 
 Let's go!
-
 
 ---
 
