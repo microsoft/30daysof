@@ -98,6 +98,23 @@ The [**🔌 Connector Skills Challenge**](https://aka.ms/ConnectorSkillsChalleng
 
 :::
 
-## Meet The Team
+## Program Summary & Next Steps
 
-Check back to learn more about the team behind this initiative!
+Thank you all for your participation throughout the 30 days of fusion. We enjoyed helping you understand how you can use your technical skills and understanding of APIs to build Independent Publisher Connectors that could potentially be used by thousands of citizen developers across the globe 😃
+
+:::info The Connector Hackathon Winners 🏆 Congratulations!!
+[The Open Movie Database Connector](https://learn.microsoft.com/en-us/connectors/omdbip/) by [Aaryan Arora](https://github.com/aaryan2134) from India
+
+[The Open Trivia Database Connector](https://learn.microsoft.com/en-us/connectors/opentriviadbip/?WT.mc_id=academic-73999-juliamuiruri) by [Kiveshan Naidoo](https://github.com/Kiveshan) from South Africa
+
+The Meal DB Connector _(Deployment-in-progress)_ by [John Muchiri](https://github.com/johnmuchiriM) from Kenya
+
+:::
+[![Student Hackathon Winners](./img/hackathon-winners.png)](https://youtu.be/9jNdCN3COGE?t=819)
+ Note: Check out the [Microsoft 356 Platform Community](https://pnp.github.io/?WT.mc_id=academic-73999-juliamuiruri) to learn how to build apps on Microsoft 365
+
+And Kudos! to everyone who was able to learn new skills and apply them throughout the program.
+
+Good News!! Your journey doesn't have to end here. We published an article that will guide anyone on [how to build an Independent Publisher connector as a school Capstone project](https://techcommunity.microsoft.com/t5/educator-developer-blog/capstone-project-build-an-independent-publisher-connector/ba-p/3655738). We still need your help to build to build connectors on this [Top Connector Asks](https://github.com/microsoft/PowerPlatformConnectors/wiki/Top-Connector-Asks) List and the resource above provides you with all you will need for each step (blogs, video recordings & documentation).
+
+Additionally, we have a [Student Independent Publisher Community](https://www.linkedin.com/groups/9248828/) on LinkedIn and we welcome you to join us and learn more about how you can use your coding skills to create projects that will help thousands of Power Platform Users.
