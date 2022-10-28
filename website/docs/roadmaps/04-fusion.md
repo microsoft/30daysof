@@ -110,6 +110,14 @@ Thank you all for your participation throughout the 30 days of fusion. We enjoye
 The Meal DB Connector _(Deployment-in-progress)_ by [John Muchiri](https://github.com/johnmuchiriM) from Kenya
 
 :::
+
+:::info Cloud Skills Challenge Winners 🏆 Congratulations!!
+1. Priyanshu Srivastav from India
+1. Nicholas Gouden from South Africa
+1. Kevin Comba Gatimu from Kenya
+1. Bernard Karaba from Kenya
+1. Charles Ndiaye - Senegal
+:::
 [![Student Hackathon Winners](./img/hackathon-winners.png)](https://youtu.be/9jNdCN3COGE?t=819)
  Note: Check out the [Microsoft 356 Platform Community](https://pnp.github.io/?WT.mc_id=academic-73999-juliamuiruri) to learn how to build apps on Microsoft 365
 
