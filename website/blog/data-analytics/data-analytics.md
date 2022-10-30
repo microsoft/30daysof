@@ -55,3 +55,5 @@ The video guide below can help with the setup process. As explained there, **the
 
 ### Feedback
 Do you have any issue using any of the Microsoft tools and technologies taught in this series? follow the steps below to pass your feedback and we will act on it.  
+
+You can also fill this form to tell us about the good, bad, and ugly of your learning journey using this resources.
