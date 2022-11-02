@@ -45,7 +45,7 @@ Engage with the experts and community on [GitHub Discussions](https://aka.ms/30D
 ## Week 1 - The Challenge begins!
 
 :::info WEEK 1 SCHEDULE
-* **Nov 01** - **3PM GMT Live Reactor Session ([RSVP](https://aka.ms/30DaysOfMSGraph/Reactor/01) | [LIVE](https://www.youtube.com/watch?v=VkQbhmlSDuc)) :** Kickoff Meeting! Join the 30 Days of Microsoft Graph Challenge! 
+* **Nov 01** - **3PM GMT Live Reactor Session ([Watch On-demand](https://www.youtube.com/watch?v=VkQbhmlSDuc)) :** Kickoff Meeting! Join the 30 Days of Microsoft Graph Challenge! 
 * **Nov 02** - Work on the Microsoft Graph Challenge! [Learn Path: Microsoft Graph Fundamentals | Module: What is Graph?](https://docs.microsoft.com/en-us/training/modules/msgraph-intro-overview/) | Video instructions: [Microsoft Graph Fundamentals for Beginners](https://learn.microsoft.com/en-us/shows/beginners-series-to-microsoft-graph/)
 * **Nov 03** - Work on the Microsoft Graph Challenge! [Learn Path: Microsoft Graph Fundamentals | Module: Configure a JavaScript application to retrieve Microsoft 365 data by using Microsoft Graph](https://docs.microsoft.com/en-us/training/modules/msgraph-javascript-app/) | Video instructions: [Microsoft Graph Fundamentals for Beginners](https://learn.microsoft.com/en-us/shows/beginners-series-to-microsoft-graph/)
 * **Nov 04** - Work on the Microsoft Graph Challenge! [Learn Path: Microsoft Graph Fundamentals | Module: Access user photo information by using Microsoft Graph](https://docs.microsoft.com/en-us/training/modules/msgraph-user-photo-information/) | Video instructions: [Microsoft Graph Fundamentals for Beginners](https://learn.microsoft.com/en-us/shows/beginners-series-to-microsoft-graph/)
