@@ -30,7 +30,7 @@ Python is one of the main programming languages used in Data Science. A major ad
 * October 18: [Python basics: operators | data types](https://aka.ms/py4beginners)
 * October 19: [Python basics: loops | dictionaries](https://aka.ms/py4beginners)
 * October 20: [Python basics: functions](https://aka.ms/py4beginners)
-* October 21: [Create your first Python program](https://aka.ms/pyBMI)
+* October 21: [Build a Rock Paper Scissors Game](https://aka.ms/30DS-session2)
 * October 22: [Move your project from Visual Studio to Github](https://youtu.be/Zxs1eK2acLk)
 * October 23: Catch up and reflect with the week's learning.
 :::
@@ -40,7 +40,7 @@ Data Science is an intersection of domain knowledge, technical expertise, and st
 
 :::info WEEK 2 RESOURCES
 * October 24: [Introduction to Data Science and Data Preparation](https://aka.ms/analyseData) - [Lesson Dataset](https://aka.ms/pumpkinsDataset )
-* October 25: [Data cleaning and transformation techniques](https://learn.microsoft.com/en-us/training/modules/collect-manipulate-data-python-nasa/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362)
+* October 25: [Data cleaning and transformation techniques](https://learn.microsoft.com/en-us/training/modules/collect-manipulate-data-python-nasa/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362) | [Live Session](https://aka.ms/30DS-session3)
 * October 26: [Data visualization with Matplotlib](https://aka.ms/manipulateData)
 * October 27: [Advanced Data Visualization](https://microsoft.github.io/Data-Science-For-Beginners/#/3-Data-Visualization/README)
 * October 28: [Task: Analyzing your data](https://microsoft.github.io/Data-Science-For-Beginners/#/4-Data-Science-Lifecycle/15-analyzing/README) - [Task Dataset](https://aka.ms/spamdataset)
@@ -52,11 +52,11 @@ Data Science is an intersection of domain knowledge, technical expertise, and st
 Machine learning is often the foundation for an AI system and is the way we "teach" a computer model to make predictions and draw conclusions from data. It automates the process of pattern-discovery by finding meaningful insights from real-world or generated data.
 
 :::info WEEK 3 RESOURCES
-* October 31: [Introduction to Machine Learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362&ns-enrollment-type=Collection&ns-enrollment-id=0168b62oz2k2) and [Automate Machine Learning](https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362&ns-enrollment-type=Collection&ns-enrollment-id=0168b62oz2k2)
-* November 1:Building a stack overflow model - [Lesson Resources](https://developer.microsoft.com/en-us/reactor/events/17377/?WT.mc_id=academic-78742-bethanycheum)
+* October 31: [Introduction to Machine Learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362&ns-enrollment-type=Collection&ns-enrollment-id=0168b62oz2k2) and [Automated Machine Learning](https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362&ns-enrollment-type=Collection&ns-enrollment-id=0168b62oz2k2)
+* November 1:Building a stack overflow model - [Lesson Resources](https://developer.microsoft.com/en-us/reactor/events/17377/?WT.mc_id=academic-78742-bethanycheum) | [Live Session](https://aka.ms/30DS-session5)
 * November 2: [Building linear, logistic and polinomial models](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/3-Linear/README) - [Learn Module](https://learn.microsoft.com/en-us/training/modules/train-evaluate-regression-models/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362&ns-enrollment-type=Collection&ns-enrollment-id=0168b62oz2k2)
 * November 3: [Deploy your Machine Learning Model using Flask Framework](https://aka.ms/30DL-deploymodels) - [Lesson Dataset](https://aka.ms/30DL-ufodata)
-* November 4: [Building a Fraud Detection Model](https://docs.microsoft.com/en-us/training/modules/use-automated-machine-learning/?WT.mc_id=academic-76398-bethanycheum) - [Learn Module](https://learn.microsoft.com/en-us/training/modules/train-evaluate-classification-models/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362&ns-enrollment-type=Collection&ns-enrollment-id=0168b62oz2k2)
+* November 4: [Building a Fraud Detection Model](https://aka.ms/30DS-session6) - [Learn Module](https://learn.microsoft.com/en-us/training/modules/train-evaluate-classification-models/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362&ns-enrollment-type=Collection&ns-enrollment-id=0168b62oz2k2)
 * November 5: [Building classification models](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README) - [Lesson Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTest.csv )
 * November 6: [Catch up and reflect with the week's learning.](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-science-and-machine-learning-using-regression-models/ba-p/3565558?WT.mc_id=academic-76398-bethanycheum)
 :::
@@ -66,7 +66,7 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 
 :::info WEEK 4 RESOURCES
 * November 7: [Unsupervised machine learning: clustering](https://aka.ms/30DL-Clustering) - [Learn Module](https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362&ns-enrollment-type=Collection&ns-enrollment-id=0168b62oz2k2)
-* November 8: [Building a Customer Segmentation Model.](https://www.kaggle.com/datasets/vetrirah/customer/download?datasetVersionNumber=1)
+* November 8: [Building a Customer Segmentation Model.](https://www.kaggle.com/datasets/vetrirah/customer/download?datasetVersionNumber=1) | [Live Session](https://aka.ms/30DS-session7)
 * November 9: [Deploying computer vision models with Custom Vision AI]( https://aka.ms/30DL-MLSumProject)
 * November 10: [Curating your Data Science Portfolio](https://developer.microsoft.com/en-us/reactor/events/17381/?WT.mc_id=academic-78742-bethanycheum) 
 * November 11 - 17: Build an end to end Data Science project: recommender system!
@@ -82,11 +82,11 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 # Live Sessions
 | Date | Time | Session Title | RSVP | Live Link |
 |:---|:---|:---|:---| :---| 
-|18 October | 1pm GMT | Setting up your Local Python Environment | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17357/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DaysofDataScienceLIVE) |
-| 20 October | 1pm GMT | Create your first program with Python | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17358/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session2) |
-|25 October | 1pm GMT | Data Wrangling and Manipulation | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17359/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session3) |
-|27 October | 1pm GMT | Data Visualization | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17376/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session4) |
-|1 November | 4pm GMT | Build a product regression model | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17377/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session5) |
+|18 October | 1pm GMT | Setting up your Local Python Environment | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17357/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DaysofDataScienceLIVE) |
+| 20 October | 1pm GMT | Create your first program with Python | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17358/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DS-session2) |
+|25 October | 1pm GMT | Data Wrangling and Manipulation | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17359/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DS-session3) |
+|27 October | 1pm GMT | Data Visualization | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17376/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://www.youtube.com/watch?v=abPgfoAnERo) |
+|1 November | 4pm GMT | Build a product regression model | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17377/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DS-session5) |
 | 3 November | 1pm GMT | Build a fraud detecting model - classification | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17378/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session6) |
 |8 November | 1pm GMT | Build a customer segmentation model - clustering | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17379/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session7) |
 |9 November | 1pm GMT | Curate your Data Science Portfolio | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17381/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session8) |
