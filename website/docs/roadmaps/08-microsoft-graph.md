@@ -56,7 +56,7 @@ Engage with the experts and community on [GitHub Discussions](https://aka.ms/30D
 ## Week 2 - Call the Microsoft Graph!
 
 :::info WEEK 2 SCHEDULE
-* **Nov 07** - **3PM GMT Live Reactor Session ([RSVP](https://aka.ms/30DaysOfMSGraph/Reactor/02) | [LIVE](https://www.youtube.com/watch?v=Qx-80Snd2nw)) :** Build exciting apps with Microsoft Graph live!
+* **Nov 07** - **3PM GMT Live Reactor Session ([Watch On Demand](https://www.youtube.com/watch?v=Qx-80Snd2nw)) :** Build exciting apps with Microsoft Graph live!
 * **Nov 08** - [Start calling the Microsoft Graph API in under 5 minutes! | Tips & Tricks](https://www.youtube.com/watch?v=f_3wc4UgqTI)
 * **Nov 09** - Work on the Microsoft Graph Challenge! [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Show a user's emails in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-show-user-emails/)
 * **Nov 10** - Work on the Microsoft Graph Challenge! [Learn Path: Explore Microsoft Graph scenarios for JavaScript development | Module: Access a user's calendar events in a JavaScript app with Microsoft Graph](https://learn.microsoft.com/en-us/training/modules/msgraph-access-user-events/)
