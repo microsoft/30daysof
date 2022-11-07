@@ -41,7 +41,7 @@ Data Science is an intersection of domain knowledge, technical expertise, and st
 :::info WEEK 2 RESOURCES
 * October 24: [Introduction to Data Science and Data Preparation](https://aka.ms/analyseData) - [Lesson Dataset](https://aka.ms/pumpkinsDataset )
 * October 25: [Data cleaning and transformation techniques](https://learn.microsoft.com/en-us/training/modules/collect-manipulate-data-python-nasa/?WT.mc_id=cloudskillschallenge_75cb74c9-2fa0-4ec0-93cd-0a696314c362) | [Live Session](https://aka.ms/30DS-session3)
-* October 26: [Data visualization with Matplotlib](https://aka.ms/manipulateData)
+* October 26: [Data visualization with Matplotlib](https://aka.ms/30DS-viz)
 * October 27: [Advanced Data Visualization](https://microsoft.github.io/Data-Science-For-Beginners/#/3-Data-Visualization/README)
 * October 28: [Task: Analyzing your data](https://microsoft.github.io/Data-Science-For-Beginners/#/4-Data-Science-Lifecycle/15-analyzing/README) - [Task Dataset](https://aka.ms/spamdataset)
 * October 29: [Data Science in the Cloud](https://aka.ms/30DL-dscloud)
@@ -85,7 +85,7 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 |18 October | 1pm GMT | Setting up your Local Python Environment | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17357/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DaysofDataScienceLIVE) |
 | 20 October | 1pm GMT | Create your first program with Python | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17358/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DS-session2) |
 |25 October | 1pm GMT | Data Wrangling and Manipulation | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17359/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DS-session3) |
-|27 October | 1pm GMT | Data Visualization | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17376/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://www.youtube.com/watch?v=abPgfoAnERo) |
+|27 October | 1pm GMT | Data Visualization | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17376/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DS-viz) |
 |1 November | 4pm GMT | Build a product regression model | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17377/?WT.mc_id=academic-78742-bethanycheum) | [Watch Recording](https://aka.ms/30DS-session5) |
 | 3 November | 1pm GMT | Build a fraud detecting model - classification | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17378/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session6) |
 |8 November | 1pm GMT | Build a customer segmentation model - clustering | [RSVP](https://developer.microsoft.com/en-us/reactor/events/17379/?WT.mc_id=academic-78742-bethanycheum) | [LIVE](https://aka.ms/30DS-session7) |
