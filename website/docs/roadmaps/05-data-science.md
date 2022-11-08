@@ -77,6 +77,8 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 * Data: Netflix or any other streaming platform
 * Where to find the data: [30 Days of Learning Netflix Data](https://aka.ms/30DL-NetflixData )
 * Need more resources to upskill: [Find the resources here](https://aka.ms/30DL-RecommenderSys)
+
+> [Submit your here project by 30th November.](https://aka.ms/30DS-Project)
 :::
 
 # Live Sessions
