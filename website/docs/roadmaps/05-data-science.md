@@ -72,7 +72,7 @@ Week four covers the remaining techniques that will help you forge ahead with yo
 * November 11 - 17: Build an end to end Data Science project: recommender system!
 :::
 
-## Capstone Project: Building a recommender System
+## Capstone Project: Building a recommender System and deploying it to Microsoft Azure
 :::tip IDEA: RECOMMENDER SYSTEM
 * Data: Netflix or any other streaming platform
 * Where to find the data: [30 Days of Learning Netflix Data](https://aka.ms/30DL-NetflixData )
