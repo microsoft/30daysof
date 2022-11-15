@@ -68,7 +68,7 @@ Engage with the experts and community on [GitHub Discussions](https://aka.ms/30D
 ## Week 3 - Connect the Dots
 
 :::info WEEK 3 SCHEDULE
-* **Nov 14** - **3PM GMT Live Reactor Session ([RSVP](https://aka.ms/30DaysOfMSGraph/Reactor/03) | [LIVE](https://www.youtube.com/watch?v=PK9S_GSmJA8)) :** Build the "Take a break reminder" app with Microsoft Graph and Azure Functions
+* **Nov 14** - **3PM GMT Live Reactor Session ([Watch On Demand](https://www.youtube.com/watch?v=PK9S_GSmJA8)) :** Build the "Take a break reminder" app with Microsoft Graph and Azure Functions
 * **Nov 15** - Practice: [Take a break reminder app tutorial](https://aka.ms/TakeABreakReminder) 
 * **Nov 16** - Practice: [Build seamless automations to boost productivity with Microsoft Graph, Event Hubs and Functions](https://dev.to/azure/build-seamless-automations-to-boost-productivity-with-microsoft-graph-azure-event-hubs-and-functions-1ho8)
 * **Nov 17** - Submit your project proposal with Microsoft Graph: [Project Proposal Submission](https://aka.ms/30DaysOfMSGraph/Scenarios).
