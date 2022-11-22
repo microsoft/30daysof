@@ -80,7 +80,7 @@ Engage with the experts and community on [GitHub Discussions](https://aka.ms/30D
 ## Week 4 - Time to build your own project with Microsoft Graph
 
 :::info WEEK 4 SCHEDULE
-* **Nov 21** - **3PM GMT Live Reactor Session ([RSVP](https://aka.ms/30DaysOfMSGraph/Reactor/05) | [LIVE](https://www.youtube.com/watch?v=5-28a796rr4)) :** Can Microsoft Graph Do What?! Real-World Scenarios for Your Apps
+* **Nov 21** - **3PM GMT Live Reactor Session ([Watch On Demand](https://www.youtube.com/watch?v=5-28a796rr4)) :** Can Microsoft Graph Do What?! Real-World Scenarios for Your Apps
 * **Nov 22** - Get inspired! [All Things Microsoft Cloud: Microsoft 365 and Microsoft Graph](https://www.youtube.com/watch?v=MXq-M6qRffE)
 * **Nov 23** - Capstone Project: Ask your questions to the experts on [GitHub discussions](https://aka.ms/30DaysOfMSGraph/GitHub/Discussions)
 * **Nov 24** - Capstone Project: Ask your questions to the experts on [GitHub discussions](https://aka.ms/30DaysOfMSGraph/GitHub/Discussions)
