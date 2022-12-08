@@ -94,7 +94,7 @@ Engage with the experts and community on [GitHub Discussions](https://aka.ms/30D
 :::info WEEK 5 SCHEDULE 
 * **Nov 28** - **3PM GMT Live Reactor Session ([Watch On Demand](https://www.youtube.com/watch?v=jxy5Uu44fgE)) :** Meet the Microsoft Graph team!
 * **Nov 29** - Submit your capstone project with Microsoft Graph: [Capstone Project Submission](https://aka.ms/30DaysOfMSGraph/GitHub/ProjectSubmission)
-* **Nov 30** - **3PM GMT Live Reactor Session ([RSVP](https://aka.ms/30DaysOfMSGraph/Reactor/08) | [LIVE](https://www.youtube.com/watch?v=cfcTGPYi5-E)) :** Close out - 30 Days of Microsoft Graph Challenge 
+* **Nov 30** - **3PM GMT Live Reactor Session ([Watch on Demand](https://www.youtube.com/watch?v=cfcTGPYi5-E)) :** Close out - 30 Days of Microsoft Graph Challenge 
 :::
 
 ---
