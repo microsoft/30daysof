@@ -26,7 +26,6 @@ Cloud Skills Challenges help you skill up on relevant technology topics in a fun
 
 | #30DaysOfLearning | Description | Schedule | Collection |
 |:---|:---|:---| :---| 
-| Microsoft Graph | This track focuses on using data and intelligence to build automations and applications to boost productivity.| Nov 1 - <br/> Nov 30 | [Cloud Skills Challenge Collection](https://learn.microsoft.com/en-us/training/challenges?id=b51aab84-2f10-488d-84b9-db393adf99d5?WT.mc_id=academic-76398-japhletnwamu) |
 
 <br/>
 
@@ -39,3 +38,4 @@ You missed these challenges, but consider the [30DaysToLearnIt](https://develope
 | Power Platform | This track focuses on Low-Code/No-Code Application Development using Microsoft Power Platform and will run for 30 Days.| Jun 9 - <br/> Jul 22| [Cloud Skills Challenge Collection](https://docs.microsoft.com/en-us/users/cloudskillschallenge-collections/collections/d434u366pr7o5e/?WT.mc_id=academic-76398-japhletnwamu) |
 | Data Science and Machine Learning | This track focuses on Data Science and Machine Learning and will run for 30 Days. |Jun 9 - <br/> Jul 22 | [Cloud Skills Challenge Collection](https://docs.microsoft.com/en-us/users/23110622/collections/d1gjs30zwqp3q5/?WT.mc_id=academic-76398-japhletnwamu) |
 | Data Analysis | This track focuses on Data Analysis using Microsoft Power BI and will run for 30 Days. |Jun 9 - <br/> Jul 22  | [Cloud Skills Challenge Collection](https://docs.microsoft.com/en-us/users/23110622/collections/63y5uzgxnzn323/?WT.mc_id=academic-76398-japhletnwamu) |
+| Microsoft Graph | This track focuses on using data and intelligence to build automations and applications to boost productivity.| Nov 1 - <br/> Nov 30 | [Cloud Skills Challenge Collection](https://learn.microsoft.com/en-us/training/challenges?id=b51aab84-2f10-488d-84b9-db393adf99d5?WT.mc_id=academic-76398-japhletnwamu) |
