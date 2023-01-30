@@ -1,13 +1,13 @@
 ---
 sidebar_position: 8
-title: 🦒 Microsoft Graph
+title: 🦒 Microsoft Graph JS
 ---
 
 ![Banner Placeholder](./../../static/img/banners/microsoft-graph.jpg)
 
 # Roadmap
 
-:::success #30DaysOf - Microsoft Graph
+:::success #30DaysOf - Microsoft Graph and JavaScript
 30DaysOf Microsoft Graph is a gamified learning experience for JavaScript developers to compete in building apps with Microsoft Graph based on the [**Top Microsoft Graph Scenarios**](https://aka.ms/30DaysOfMSGraph/Scenarios), for a chance to win prizes. This curriculum is designed by Cloud Advocates at Microsoft.
 
 * Read the ['Kickoff'](#kickoff) section for more details.
@@ -27,7 +27,7 @@ The #30DaysOfMSGraph - Microsoft Graph Pilot Learning Program, welcomes you to c
 
 ## Kickoff
 :::info 📢 REGISTER FOR THE CHALLENGE 
-Register to [the 30 Days of Microsoft Graph Challenge](https://aka.ms/30DaysOfMSGraph/Register) 🚀.
+Register to [the 30 Days of Microsoft Graph and JavaScript Challenge](https://aka.ms/30DaysOfMSGraph/Register) 🚀.
 :::
 
 :::info 📚 ONBOARDING RESOURCES
