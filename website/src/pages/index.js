@@ -22,7 +22,6 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Welcome to ${siteConfig.title}`}
       description="Learn a new technology in #30Days by going from fundamental concepts to functioning code, then scaling with cloud and AI.">
       <HomepageHeader />
       <main>
