@@ -1,5 +1,7 @@
 ---
-name: "Project Submission Issue: Share name of your project and GitHub repository link"
+name: 'Project Submission Issue: Share name of your project and GitHub repository
+  link'
+about: Share name of your project and GitHub repository link
 title: "[#30DaysOf Project Submission]"
 labels: MSGraph Project Submission
 assignees: aycabas, japhletnwamu

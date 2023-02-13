@@ -3,9 +3,10 @@ name: "⁉️ Product Feedback: Share your Product-specific questions, comments"
 about: Use this to provide feedback on a product (tools, services, technology)
 title: "[Microsoft Graph PRODUCT FEEDBACK] "
 labels: 30-feedback, product-feedback
-assignees: nitya, softchris, japhletnwamu
+assignees: japhletnwamu, softchris
 
 ---
+
 ## Submitted By
 (Your name - preferably GitHub profile name)
 
