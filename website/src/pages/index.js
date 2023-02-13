@@ -23,7 +23,7 @@ export default function Home() {
   return (
     <Layout
       description="Learn a new technology in #30Days by going from fundamental concepts to functioning code, then scaling with cloud and AI.">
-      <HomepageHeader />
+      <HomepageHeader /> 
       <main>
         <HomepageFeatures />
       </main>
