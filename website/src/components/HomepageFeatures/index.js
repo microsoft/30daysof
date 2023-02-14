@@ -138,11 +138,11 @@ function Feature({imgpath, title, description, link}) {
         <div className="text--center">
           <img width="150px" height="150px" className="featureSvg" src={imgpath} alt={title} />
         </div>
+        <div className="text--center padding-horiz--md">
+          <h3>{title}</h3>
+          <p>{description}</p>
+        </div>
       </a>
-      <div className="text--center padding-horiz--md">
-        <a href={link}><h3>{title}</h3></a>
-        <p>{description}</p>
-      </div>
     </div>
   );
 }
