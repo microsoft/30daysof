@@ -87,7 +87,7 @@ const config = {
       navbar: {
         title: "#30DaysOf",
         logo: {
-          alt: "30DaysOf Logo",
+          alt: "",
           src: "img/logo.svg",
           target: "_self",
           width: 32,
