@@ -88,7 +88,7 @@ const config = {
         title: "#30DaysOf",
         logo: {
           alt: "",
-          src: "img/logo.svg",
+          src: "img/logo.svg", 
           target: "_self",
           width: 32,
           height: 32,
