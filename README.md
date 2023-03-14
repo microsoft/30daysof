@@ -1,5 +1,8 @@
 # Start Your Developer Journey
 
+> **UPDATE: Mar 14, 2023** | Thank you to all the amazing learners who joined us in the #30DaysOf journeys hosted on this site. We have decided to _unpublish_ the website on GitHub pages and move to [Tech Community](https://aka.ms/faculty) for hosting all our content related to #30DaysOfLearning journeys for students. Previously published content should remain accessible as files in this repo, but not as a hosted website URL. So please don't forget to update your bookmarks! ♥️
+
+
 ![Screenshot of banner from landing page](./images/landing.png)
 
 Welcome to [#30DaysOfLearning](https://aka.ms/30DaysOf) - a hub with beginner-friendly resources to support your learning journey. 
