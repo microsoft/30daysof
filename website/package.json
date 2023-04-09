@@ -5,13 +5,13 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "docusaurus build && echo 'Build complete!'",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
-    "clear": "docusaurus clear",
+    "deploy": "docusaurus deploy && say 'Deployment complete!'",
+    "clear": "docusaurus clear && echo 'Cache cleared.'",
     "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-translations": "docusaurus write-translations && echo 'Translations written.'",
+    "write-heading-ids": "docusaurus write-heading-ids && echo 'Heading IDs written.'"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.1",
@@ -23,7 +23,23 @@
     "docusaurus-plugin-clarity": "^2.1.0",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "axios": "^0.24.0",
+    "dayjs": "^1.10.7",
+    "numeral": "^2.0.6",
+    "uuid": "^8.3.2",
+    "graphql": "^15.7.2",
+    "react-router-dom": "^5.3.0",
+    "react-query": "^3.21.0",
+    "react-select": "^4.4.3",
+    "react-toastify": "^8.0.3",
+    "react-icons": "^4.3.1",
+    "react-timeago": "^6.2.0",
+    "react-paginate": "^7.2.3",
+    "react-google-recaptcha": "^2.1.0",
+    "react-share": "^4.4.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.0.1"
