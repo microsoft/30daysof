@@ -1,22 +1,25 @@
-// Using Client Modules
-// https://docusaurus.io/docs/advanced/client#client-modules
-// For this to work, we need 
-// <div id="cookie-banner"></div> to exist in body of page
-// TODO: Swizzle docusaurus to add the id in
-
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 
+// This function will be called whenever the user changes their cookie consent preferences
 function onConsentChanged(categoryPreferences) {
-    console.log("onConsentChanged", categoryPreferences);        
+    console.log("Cookie consent preferences have changed:", categoryPreferences);        
 }
 
+// Check if we are running in the browser, not in Node.js
 if (ExecutionEnvironment.canUseDOM) {
-  // As soon as the site loads in the browser, register a global event listener
-    window.WcpConsent && WcpConsent.init("en-US", "cookie-banner", function (err, _siteConsent) {
-        if (!err) {
-            siteConsent = _siteConsent;  //siteConsent is used to get the current consent          
-        } else {
-            console.log("Error initializing WcpConsent: "+ err);
-        }
-    }, onConsentChanged, WcpConsent.themes.light);
+    // Initialize WcpConsent with the appropriate options
+    window.WcpConsent && WcpConsent.init(
+        "en-US", // language
+        "cookie-banner", // ID of the cookie banner element
+        function (err, siteConsent) {
+            if (!err) {
+                // If initialization was successful, use siteConsent to get the current consent preferences
+                console.log("Site consent preferences:", siteConsent);
+            } else {
+                console.log("Error initializing WcpConsent: "+ err);
+            }
+        },
+        onConsentChanged, // callback function for when consent preferences change
+        WcpConsent.themes.light // theme to use for the cookie banner
+    );
 }
