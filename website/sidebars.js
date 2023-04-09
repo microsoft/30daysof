@@ -3,9 +3,7 @@
  - create an ordered group of docs
  - render a sidebar for each doc of that group
  - provide next/previous navigation
-
  The sidebars can be generated from the filesystem, or explicitly defined here.
-
  Create as many sidebars as you want.
  */
 
@@ -28,4 +26,15 @@ const sidebars = {
    */
 };
 
-module.exports = sidebars;
+// Delay the execution of this script by 5 seconds
+async function delay() {
+  return new Promise((resolve) => {
+    setTimeout(resolve, 5000);
+  });
+}
+
+// Call the delay function before exporting the sidebars object
+(async function() {
+  await delay();
+  module.exports = sidebars;
+})();
