@@ -1,14 +1,70 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  justify-content: space-between;
+  padding: 4rem 0;
   width: 100%;
+  background-color: #f5f5f5;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .featureSvg {
-  height: 150px;
-  width: 150px;
-  background: #ffffff;
-  border-radius: 50px;
-  padding: 10px;
+  height: 200px;
+  width: 200px;
+  background: linear-gradient(45deg, #f44336, #ff9800);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out;
+}
+
+.featureSvg:hover {
+  transform: scale(1.2);
+}
+
+.footer {
+  background-color: #222;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.footer-nav li {
+  list-style: none;
+  margin: 0 1rem;
+}
+
+.footer-nav li:first-child {
+  margin-left: 0;
+}
+
+.footer-nav li:last-child {
+  margin-right: 0;
+}
+
+.footer-nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-nav a:hover {
+  text-decoration: underline;
 }
